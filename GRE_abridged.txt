@@ -83,7 +83,6 @@ albeit [ɔːlˈbiːit] conj. 虽然，尽管
 albino [ælˈbiːnəu] n. 白化病者，白化变种
 alchemy [ˈælkimi] n. 炼金术
 alcove [ˈælkəuv] n. 凹室
-alias [ˈeiliəs] n. 化名，别名
 alibi [ˈælibai] n. 某人当时不在犯罪现场的申辩或证明
 alimentary [ˌæliˈmentəri] a. 饮食的，营养的
 alliterate [əˈlitəreit] v. 押头韵
@@ -275,6 +274,8 @@ awry [əˈrai] a. 扭曲的，走样的
 axiom [ˈæksiəm] n. 公理；定理
 axle [ˈæksl] n. 轮轴（连接两个车轮的轴）
 azure [ˈæʒə] n. 天蓝色；a. 蔚蓝的
+
+
 babble [ˈbæbl] v. 胡言乱语；牙牙学语；喋喋不休
 bacchanal [ˈbækənl] n. （行为放纵的）狂欢会
 backdrop [ˈbækdrɔp] n. （事情的）背景；背景幕布
@@ -1052,7 +1053,6 @@ dissuade [diˈsweid] v. 劝阻，阻止
 distain [disˈtein] v. 贬损，伤害名誉
 distal [ˈdistəl] a. 远离中心的，（神经）末梢的
 distend [disˈtend] v. （使）膨胀，胀大
-distension [disˈtenʃən] n. 膨胀
 distention [disˈtenʃən] n. 膨胀
 distinguished [disˈtiŋɡwiʃt] a. 著名的，卓越的
 distracted [disˈtræktid] a. 精神不集中的
@@ -1357,6 +1357,8 @@ extrude [eksˈtruːd] v. 挤出，逐出；突出
 exuberance [iɡˈzjuːbərəns] n. （人）愉快；（植物）茁壮，茂盛
 exuberant [iɡˈzjuːbərənt] a. （人）充满活力的；（植物）茂盛的
 exult [iɡˈzʌlt] v. 欢腾，喜悦
+
+
 facilities [fəˈsilətiz] n. （使事情便利的）设备、工具
 facsimile [fækˈsimili] n. 复制本，摹本
 factitious [fækˈtiʃəs] a. 人为的，不真实的
@@ -1566,6 +1568,8 @@ furtive [ˈfəːtiv] a. 偷偷的，秘密的
 fusillade [ˈfjuːziˌleid] n./v. （枪炮）齐射，连发
 fustian [ˈfʌstiən] n. 空洞的话，无意义的高调
 fusty [ˈfʌsti] a. 老式的，陈腐的；霉臭的
+
+
 gab [ɡæb] n. 饶舌，爱说话；v. 空谈，瞎扯；闲逛，游荡
 gabby [ˈɡæbi] a. 饶舌的
 gadfly [ˈɡædflai] n. 虻，牛虻；令人讨厌的人（尤指用批评等手段怂恿别人采取行动者）
@@ -1722,6 +1726,8 @@ guttle [ˈɡʌtl] v. 狼吞虎咽
 guzzle [ˈɡʌzl] v. 大吃大喝
 gynaecocracy [ˌdʒainiˈkɔkrəsi] n. 妇女当政
 gyrate [ˈdʒaiərit] a. 旋转的；v. 旋转
+
+
 habitable [ˈhæbitəbl] a. 可居住的
 habituate [həˈbitjueit] v. 使习惯于
 haft [hɑːft] n. 柄，把柄
@@ -2110,6 +2116,8 @@ isotope [ˈaisəutəup] n. 同位素
 isthmus [ˈisməs] n. 地峡
 iterate [ˈitəreit] v. 重做，反复重申
 itinerary [aiˈtinərəri] n. 行程表；旅行路线
+
+
 jab [dʒæb] v. 猛刺
 jabber [ˈdʒæbə] v. 快而不清楚地说
 jade [dʒeid] n. 疲惫的老马；玉，翡翠
@@ -2148,6 +2156,8 @@ jumpy [ˈdʒʌmpi] a. 紧张不安的，心惊肉跳的
 jurisprudence [ˌdʒuərisˈpruːdəns] n. 法律学，法学
 justifiable [ˈdʒʌstiˌfaiəbl] a. 有理由的，无可非议的
 juxtapose [ˈdʒʌkstəpəuz] v. 并排，并置
+
+
 kaleidoscope [kəˈlaidəskəup] n. 万花筒；产生有趣的对称效果
 kaleidoscopic [kəˌlaidəˈskɔpik] a. 千变万化的
 kangaroo [ˌkæŋɡəˈruː] n. 袋鼠
@@ -2160,6 +2170,8 @@ knead [niːd] v. 揉制，捏制（面团、湿黏土等）
 knoll [nəul] n. 小山；小圆丘
 know-how [ˈnəu hau] n. 专业技能，知识
 kudos [ˈkjuːdɔs] n. 荣誉
+
+
 labile [ˈleibail] a. （化）不稳定的
 labored [ˈleibəd] a. 吃力的；（文体等）不自然的
 lacerate [ˈlæsəreit] v. 撕裂；深深伤害（感情）
@@ -2294,6 +2306,8 @@ lust [lʌst] n. （贬）强烈的欲望
 lustrous [ˈlʌstrəs] a. 有光泽的
 lymphatic [limˈfætik] a. 无力的；迟缓的
 lynch [lintʃ] v. 私刑处死
+
+
 macabre [məˈkɑːbə] a. 骇人的，可怖的
 macerate [ˈmæsəreit] v. 浸软；消瘦
 machination [mækiˈneiʃ（ə）n] n. 阴谋
@@ -2507,6 +2521,8 @@ muzzy [ˈmʌziː] a. 头脑糊涂的
 myopia [maiˈəupiə] n. （医）近视；缺乏远见
 myopic [maiˈɔpik] a. 近视眼的；缺乏远见的
 mystic [ˈmistik] a. （尤指宗教方面）神秘的，不可思议的；n. 神秘主义者（寻求人神交融以求人类不解之真理者）
+
+
 nadir [ˈneidiə] n. 最低点
 nag [næɡ] v. （贬）不断挑剔或批评某人；不断烦扰或伤害某人
 narcissism [ˈnɑː sisizəm] n. 自恋，自爱，自我陶醉
@@ -2585,6 +2601,8 @@ numismatic [ˌnjuːmizˈmætik] a. 钱币学的
 numismatist [njuːˈmizmətist] n. 钱币学家，钱币收藏家
 nuptial [ˈnʌpʃəl] a. 婚姻的，婚礼的
 nymph [nimf] n. 年轻女神；少女
+
+
 oafishness [ˈəufiʃnis] n. 痴呆
 oatmeal [ˈəutmiːl] n. 燕麦片
 obdurate [ˈɔbdjurit] a. 固执的，顽固的
@@ -2621,7 +2639,6 @@ odoriferous [ˌəudəˈrifərəs] a. 有气味的
 odyssey [ˈɔdisi] n. 长途的冒险旅行
 off-key [ˈɔːfkiː] a. 走调的，不和谐的
 offbeat [ɔfˈbiːt] a. 非传统的，不平常的
-offence（offense） [əˈfens] n. 得罪；错事
 officious [əˈfiʃəs] a. 爱发命令的，好忠告的，好管闲事的；过度殷勤的
 offish [ˈɔːfiʃ] a. 冷淡的，疏远的
 offstage [ˈɔːfˈsteidʒ] adv./a. 台后（的），幕后（的）
@@ -2695,6 +2712,8 @@ overture [ˈəuvətjuə] n. 前奏曲，序曲
 overweening [ˌəuvəˈwiːniŋ] a. 自负的，过于自信的
 overwrought [ˈəuvəˈrɔːt] a. 紧张过度的
 oxidize [ˈɔksiˌdaiz] v. 氧化，生锈
+
+
 pacifist [ˈpæsifist] n. 和平主义者，反战主义者
 padding [ˈpædiŋ] n. 衬垫，填料
 paean [ˈpiːən] n. 赞美歌，颂歌
@@ -3102,6 +3121,8 @@ pygmy [ˈpiɡmi] n. 矮人，侏儒
 pylon [ˈpailən] n. 高压电线架；桥塔
 pyre [paiə] n. 火葬用的柴堆
 pyromania [pairəuˈmeiniə] n. 纵火狂
+
+
 quack [kwæk] n. 冒充内行之人；庸医
 quadrangle [kwɔˈdræŋɡl] n. 四边形
 quadruped [ˈkwɔdruped] n. 四足兽
@@ -3131,6 +3152,8 @@ quisling [ˈkwizliŋ] n. 卖国贼，内奸
 quixotic [kwikˈsɔtik] a. 不切实际的，空想的
 quondam [ˈkwɔndæm] a. 原来的，以前的
 quotidian [kwəuˈtidiən] a. 每日发生的；平凡的，普通的
+
+
 rabble [ˈræbl] n. 乌合之众，暴民；下等人
 rabid [ˈræbid] a. 患狂犬病的；失去理性的，极端的，疯狂的
 rabies [ˈreibiːz] n. 狂犬病；恐水病
@@ -3371,6 +3394,8 @@ ruse [ruːz] n. 骗术，诡计
 rustle [ˈrʌs（ə）l] v. （使某物）发出轻而爽的声音
 rustler [ˈrʌs（ə）lə(r)] n. 偷牛（马）贼
 ruthlessness [ˈruːθlisnis] n. 无情，残忍
+
+
 sabotage [ˈsæbətɑːʒ] n. 阴谋破坏，颠覆活动（尤指摧毁对方武器、装备或挫败对方计划）
 saboteur [ˌsæbəˈtəː] n. 从事破坏活动者
 saccharin [ˈsækərin] n. 糖精
@@ -3838,6 +3863,8 @@ synchronous [ˈsiŋkrənəs] a. 同时发生的
 synergic [siˈnəːdʒik] a. 协同作用的
 synoptic [siˈnɔptik] a. 摘要的
 syringe [ˈsirindʒ] n. 注射器
+
+
 taciturn [ˈtæsitəːn] a. 沉默寡言的
 tackiness [ˈtækinis] n. 胶粘性
 tactile [ˈtæktail] a. 触觉的
@@ -4013,6 +4040,7 @@ typographical [ˌtaipəˈɡræfikəl] a. 印刷上的
 tyranny [ˈtirəni] n. 暴政，专制统治；暴行
 tyrant [ˈtaiərənt] n. 暴君
 tyro [ˈtaiərəu] n. 新手
+
 ubiquitous [juːˈbikwitəs] a. 无所不在的
 ulcer [ˈʌlsə] n. 溃疡；腐烂物
 ulcerate [ˈʌlsəreit] v. 溃烂，生恶疮
@@ -4128,6 +4156,8 @@ utensil [ju(ː)ˈtensl] n. 工具，（厨房）用具
 utopia [juːˈtəupjə] n. 理想国，理想的完美境界
 utopian [juːˈtəupjən] a. 乌托邦式的，空想的，不切实际的
 uxorious [ʌkˈsɔːriəs] a. 宠爱妻子的
+
+
 vacillate [ˈvæsileit] v. 举棋不定，踌躇
 vacuous [ˈvækjuəs] a. 发呆的，愚笨的
 vagabond [ˈvæɡəbənd] n. 浪荡子，流浪者；a. 流浪的
@@ -4240,6 +4270,8 @@ vouch [vautʃ] v. 担保，证明
 vulpine [ˈvʌlpain] a. 狐狸般的，狡猾的
 vulture [ˈvʌltʃə(r)] n. 秃鹫
 vying [ˈvaiiŋ] a. 竞争的
+
+
 wacky [ˈwæki] a. （行为等）古怪的,愚蠢的
 waffle [ˈwɔfl] n. 蛋奶烘饼；v. 胡扯或乱写
 waft [wɑːf] v. 飘浮，飘荡
@@ -4314,6 +4346,8 @@ wrest [rest] v. 用猛烈的拉、扭的动作取得；夺取
 writ [rit] n. 命令状，书面命令
 wroth [rəuθ] a. 激怒的，非常愤怒的
 wrought [rɔːt] a. 做成的，精炼的
+
+
 xenophobe [ˈzenəfəub] n. 惧外者，排外者
 xenophobia [ˌzenəˈfəubiə] n. 仇外，排外
 xerophyte [ˈziərəfait] n. （植）旱生植物

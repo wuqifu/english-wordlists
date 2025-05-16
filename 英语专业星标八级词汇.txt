@@ -233,7 +233,7 @@ asymmetric [ˌeɪsɪˈmetrɪk] adj. 不对称的，不匀称的
 atrocious [əˈtrəʊʃəs] adj. 非常残忍的，凶暴的，极恶的
 atrocity [əˈtrɒsətɪ] n. 1. 暴行，残忍行为 2. 丑恶的事物
 attest [əˈtest] v. 1. 证明，证实 2. 表明
-attribute [ˈætrɪbjʊːt] n. 1. 性质，属性，特质 2. 人(地位)的象征(标志)
+attribute [ˈætrɪbjʊːt] n. 1.性质，属性，特质 2. 人(地位)的象征(标志)
 attrition [əˈtrɪʃən] n. 消耗，磨损
 auctioneer [ˌɔːkʃəˈnɪə] n. 拍卖人
 audacious [ɔːˈdeɪʃəs] adj. 1. 愚勇的，大胆的，鲁莽的 2. 放肆的，无礼的
@@ -255,6 +255,7 @@ aversion [əˈvɜːʃən] n. 1. 厌恶，嫌恶 2. 讨厌的事物
 avert [əˈvɜːt] v. 1. 防止，避免 2. 移开(目光)，避开不看
 avid [ˈævɪd] adj. 渴望的，热的
 awesome [ˈɔːsəm] adj. 令人敬畏的，可怕的
+
 babble [ˈbæbl] v. 含糊不清地说，胡言乱语地说
 backbiting [ˈbækbaɪtɪŋ] n. 背后诽谤、中伤
 backbreaking [ˈbækbreɪkɪŋ] adj. (指工作)使人筋疲力尽的，费力的
