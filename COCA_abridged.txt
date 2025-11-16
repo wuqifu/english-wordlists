@@ -1,783 +1,184 @@
-others             []                   pron. 其他人
-oh                 [әu]                 interj. (表示惊讶、恐怖、赞叹)哦
-according          [әˈkɒːdiŋ]           a. 相符的, 根据...而定的 adv. 相应地
-true               [truː]               a. 真实的, 正确的, 忠诚的, 可靠的, 纯粹的, 正式的 n. 真实, 准确 adv. 真实地, 准确地
-republican         [riˈpʌblikәn]        n. 共和主义者, 共和党员 a. 共和政体的, 共和国的, 共和主义的
-congress           [ˈkɒŋgres]           n. 国会, 会议, 讨论会
-exactly            [igˈzæktli]          adv. 确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此
-OK                 [ˈәuˈkei]            a. 好, 不错, 可以 adv. 好, 不错, 可以 n. 批准, 认可
-democrat           [ˈdemәkræt]          n. 民主人士, 民主主义者, 民主党党员
-senate             [ˈsenit]             n. 参议院, 立法机构, 评议会
-directly           [diˈrektli, daiˈrektli] adv. 径直地, 直率地, 正好地,(非正式)立即, 马上 conj. 一...(就...), 一当...就...
-completely         [kәmˈpliːtli]        adv. 完全地, 十分地, 圆满地
-African            [ˈæfrikәn]           n. 非洲人 a. 非洲的, 非洲人的
-slowly             [ˈslәuli]            adv. 慢慢地, 迟缓地
-supposed           [sәˈpәuzd]           a. 推测的, 想像的, 被信以为真的
-Soviet             [ˈsәuviәt]           n. 代表会议, 苏维埃, 苏联 a. 苏维埃的, 苏联的
-European           [ˌjuәrәˈpiːәn]       n. 欧洲人 a. 欧洲的, 欧洲人的
-Christian          [ˈkristʃәn]          n. 基督徒, 正派人 a. 基督的, 基督教的
-Christmas          [ˈkrismәs]           n. 圣诞节
-hey                [hei]                interj. 嗨
-Indian             [ˈindiәn]            n. 印度人, 印第安人, 印第安语 a. 印度的, 印度群岛的, 印第安语的
-internet           [ˈintәnet]           n. 因特网, 国际互连网, 网际网络, 互连网络, 广域网
-fully              [ˈfuli]              adv. 十分地, 完全地, 充分地
-lots               [lɔts]               n. 大量, 许多; 一堆; 命运（lot的复数）
-Russian            [ˈrʌʃәn]             n. 俄国人, 俄语 a. 俄国的, 俄语的
-carefully          [ˈkєәfuli]           adv. 小心地, 谨慎地
-married            [ˈmærid]             a. 已婚的, 婚姻的, 夫妇的
-supreme            [sjuˈpriːm]          n. 至高, 霸权 a. 至高的, 终极的, 极端的, 最大的
-Iraqi              [iˈrɑːki]            n. 伊拉克人, 伊拉克阿拉伯语 a. 伊拉克的, 伊拉克人的
-thanks             []                   n. 感谢, 谢意, 谢忱 interj. 谢谢, 谢谢你
-anymore            [ˈeniˈmɔː]           adv. 再也不, 不再
-Japanese           [ˌdʒæpәˈniːz]        n. 日本人, 日语 a. 日本的, 日语的
-ought              [ɒːt]                aux. 应该, 大概 n. 责任
-catholic           [ˈkæθәlik]           n. 天主教徒 a. 天主教的, 普遍的, 广泛的, 宽宏大量的
-extremely          [ikˈstriːmli]        adv. 极端地, 非常地
-long-term          []                   a. 长期的(通常指一年以上)
-English            [ˈiŋgliʃ]            n. 英语 a. 英文的, 英国人的
-Jewish             [ˈdʒuːiʃ]            a. 犹太人的, 犹太族的
-frequently         [ˈfriːkwәntli]       adv. 频繁, 经常地
-producer           [prәˈdjuːsә]         n. 生产者, 制作者, 制作人; 发生器; (炉煤气)发生炉; 制气炉; 生产者
-entirely           [inˈtaiәli]          adv. 完全, 全然, 一概
-bedroom            [ˈbedrum]            n. 卧室
-seriously          [ˈsiәriәsli]         adv. 严肃地, 认真地, 严重地
-totally            [ˈtәutli]            adv. 完全地
-surprised          [sәˈpraizd]          a. 感到惊讶的
-fewer              [ˈfjuːә]             a. 较少的
-AIDS               [eidz]               n. 爱滋病(获得性免疫缺陷综合征)
-Jew                [dʒuː]               n. 犹太人, 守财奴, 犹太教信徒 vt. 欺骗, 杀价
-typically          [ˈtipikәli]          adv. 代表性地; 作为特色地
-unusual            [ˌʌnˈjuːʒuːl]        a. 不寻常的, 罕见的, 与众不同的
-closely            [ˈklәusli]           adv. 接近地
-Israeli            [izˈreili]           a. 以色列的, 以色列人(语)的 n. 以色列人
-childhood          [ˈtʃaildhud]         n. 孩童时期
-prosecutor         [ˈprɒsikjuːtә]       n. 原告, 起诉人, 公诉人
-unable             [ʌnˈeibl]            a. 不能的, 不会的, 无资格的, 没有办法的
-widely             [ˈwaidli]            adv. 广泛地
-Spanish            [ˈspæniʃ]            n. 西班牙人, 西班牙语 a. 西班牙的
-essentially        [iˈsenʃәli]          adv. 本质上, 本来
-previously         [ˈpriːvjuːsli]       adv. 先, 先前, 以前, 前, (非正式)过早, 过急, 在前, 在...以前, 在先
-maker              [ˈmeikә]             n. 制造者, 上帝, 出票人
-Asian              [ˈeiʃәn]             n. 亚洲人 a. 亚洲的, 亚洲人的
-heavily            [ˈhevili]            adv. 很重地, 严重地, 难以忍受地
-strongly           [ˈstrɒŋli]           adv. 强有力地, 坚强地, 激烈地
-tablespoon         [ˈteiblspuːn]        n. 大汤匙
-surely             [ˈʃuәli]             adv. 的确地, 安全地
-teaspoon           [ˈtiːspuːn]          n. 茶匙
-perfectly          [ˈpәːfiktli]         adv. 完全地, 无瑕疵地, 完整地
-unlike             [ˌʌnˈlaik]           a. 不像的, 不同的 prep. 不像, 和...不同
-viewer             [ˈvjuːә]             n. 观察者, 看电视者, 视察员, 观察器, 指示器
-administrator      [әdˈministreitә]     n. 管理人, 行政官 [经] 遗产管理人员
-false              [fɒːls]              a. 错误的, 虚伪的, 假的, 不老实的 adv. 不准确地, 欺诈地
-Latin              [ˈlætin]             n. 拉丁人, 拉丁语 a. 拉丁人的, 拉丁语的
-rapidly            [ˈræpidli]           adv. 飞快地, 迅速地, 赶紧地
-quietly            [ˈkwaiәtli]          adv. 安静地, 沉着地, 秘密地
-effectively        [iˈfektivli]         adv. 有效地, 有力地, 实际上
-armed              [ɑːmd]               a. 有扶手的, 武装的, 有防卫器官的
-Muslim             [ˈmjzlim; (?@) ˈmʌzlem] n. 伊斯兰教, 伊斯兰教教徒
-Islamic            [izˈlæmik]           a. 伊斯兰教的, 穆斯林的
-killer             [ˈkilә]              n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器 [计] 删除程序; 断路器
-Italian            [iˈtæljәn]           n. 意大利人, 意大利语 a. 意大利的, 意大利语的
-Canadian           [kәˈneidiәn]         a. 加拿大的
-lost               [lɒst]               a. 失去的, 遗失的, 迷惑的 lose的过去式和过去分词
-unlikely           [ˌʌnˈlaikli]         a. 不太可能的
-broken             [ˈbrәukәn]           a. 坏掉的, 打破的, 断掉的 break的过去分词
-Olympic            [әuˈlimpik]          a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的
-bible              [ˈbaibl]             n. 圣经
-gently             [ˈdʒentli]           adv. 温和地, 温柔地, 轻轻地, 逐渐地
-lifetime           [ˈlaiftaim]          n. 一生, 终生 a. 一生的, 终生的
-similarly          [ˈsimilәli]          adv. 相像地, 类似于
-newly              [ˈnjuːli]            adv. 重新, 最近
-mainly             [ˈmeinli]            adv. 主要地, 大抵
-regularly          [ˈregjulәli]         adv. 有规则地, 一丝不苟地, 正式地
-shooting           [ˈʃuːtiŋ]            n. 发射, 猎场, 射击
-unknown            [ˌʌnˈnәun]           a. 不知道的, 未知的, 陌生的 n. 未知物, 未知数
-potentially        [pәˈtenʃәli]         adv. 可能地, 潜在地
-politically        []                   adv. 政治上
-properly           [ˈprɒpәli]           adv. 适当地, 相当地
-Irish              [ˈairiʃ]             n. 爱尔兰人, 爱尔兰语 a. 爱尔兰的
-scared             [skeәd]              a. 害怕的, 担惊受怕的, 惊慌的, 吓坏了的
-briefly            [ˈbrifli]            adv. 简短地, 扼要地, 简明地, 简单地
-closer             [ˈklәuzә]            n. 关闭者, 闭合器, 关闭器
-OK                 [ˈәuˈkei]            a. 好, 不错, 可以 adv. 好, 不错, 可以 n. 批准, 认可
-fighter            [ˈfaitә]             n. 斗士, 战士, 好战者, 战斗机
-publisher          [ˈpʌbliʃә]           n. 发行人, 出版者, 报刊发行者
-French             [frentʃ]             n. 法国人, 法文, 法式 a. 法国的, 法国人的, 法语的
-proposed           []                   a. 被提议的; 所推荐的
-etc                []                   及其他, 等等
-bombing            [ˈbɔmiŋ]             n. 轰炸, 投弹
-lifestyle          [ˈlaifstail]         n. 生活方式
-catholic           [ˈkæθәlik]           n. 天主教徒 a. 天主教的, 普遍的, 广泛的, 宽宏大量的
-provider           [prәˈvaidә]          n. 供应者, 供养人, 伙食承办人 [计] 提供器
-girlfriend         []                   n. 女朋友
-taxpayer           [ˈtækspeiә]          n. 纳税人, 纳税义务人
-differently        [ˈdifrentli]         adv. 差异, 不同, 各别, 各种
-manufacturing      [ˌmænjuˈfæktʃәriŋ]   n. 制造业 a. 制造业的
-Christian          [ˈkristʃәn]          n. 基督徒, 正派人 a. 基督的, 基督教的
-German             [ˈdʒәːmәn]           n. 德国人, 德语 a. 德国的, 德国人的, 德国语的, 同父母的
-God                [gɔd]                n. 上帝, 神像, 偶像 vt. 使神化
-successfully       [sәkˈsesfjli]        adv. 成功, 结果良好, 有成就
-physically         [ˈfizikli]           adv. 按自然规律, 完全地, 实际上, 真正地, 身体上地
-ah                 [ɑː]                 interj. 啊, 哈
-continued          [kәnˈtinjuːd]        a. 继续的, 延续的
-cooking            [ˈkukiŋ]             n. 烹饪; 熬炼; 热炼; 蒸煮
-killing            [ˈkiliŋ]             n. 谋杀, 杀戮 a. 杀害的, 疲惫的, 迷人的
-quarterback        [ˈkwɒːtәbæk]         n. 四分卫 vi. 担任四分卫
-african-american   [ˈæfrɪkən əˈmerɪkən] n. 非裔美国人; 美国黑人
-surprisingly       []                   adv. 使人惊奇, 出人意外, 惊人, 令人惊讶
-boyfriend          [ˈbɔifrend]          n. 男朋友
-related            [riˈleitid]          a. 讲述的, 叙述的; 有关系的, 有关联的
-lightly            [ˈlaitli]            adv. 轻轻地, 少许, 不费力地
-excited            [ikˈsaitid]          a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的
-greatly            [ˈgreitli]           adv. 很, 非常
-drinking           [ˈdriŋkiŋ]           n. 喝, 喝酒
-pleased            [pliːzd]             a. 高兴的, 喜欢的, 满足的
-ethical            [ˈeθikәl]            a. 伦理的, 民族的, 民族特有的
-T-shirt            [ˈtiː,ʃәːt]          n. 圆领汗衫, T恤
-Islam              [ˈizlɑːm]            n. 伊斯兰教
-Roman              [ˈrәumәn]            n. 罗马人 a. 罗马人的, 罗马的
-Muslim             [ˈmjzlim; (?@) ˈmʌzlem] n. 伊斯兰教, 伊斯兰教教徒
-Korean             [kәˈriәn]            n. 朝鲜人, 朝鲜语 a. 朝鲜人的, 朝鲜语的
-unlike             [ˌʌnˈlaik]           a. 不像的, 不同的 prep. 不像, 和...不同
-longtime           [ˈlɔŋtaim;ˈlɔːŋ-]    a. (已持续)长时间的,为时甚久的 adv. 长久
-effectiveness      [iˈfektivnis]        n. 效力, 有效性, 能行性
-frankly            [ˈfræŋkli]           adv. 坦白地
-hallway            [ˈhɔːlwei]           n. 门厅; 玄关; 走廊
-unexpected         [ˌʌnikˈspektid]      a. 料想不到的, 突然的, 意外的
-written            [ˈritn]              a. 书面的, 写成文字的 write的过去分词
-and/or             [ˈænˈdɔː]            conj. 及（或）
-playoff            [ˈpleiɔːf]           n. 双方得分相等时的最后决赛; 复赛; 季后赛
-uncomfortable      [ˌʌnˈkʌmfәtәbl]      a. 不舒服的, 不自在的, 不安的
-dancer             [ˈdɑːnsә]            n. 舞蹈演员, 跳舞者
-closed             [klәuzd]             a. 关闭的, 限于少数人的
-European           [ˌjuәrәˈpiːәn]       n. 欧洲人 a. 欧洲的, 欧洲人的
-traditionally      []                   adv. 传统上; 传说上; 习惯上
-convinced          [kәnˈvinst]          a. 确信的, 深信的
-driving            [ˈdraiviŋ]           n. 赶, 操纵, 驾驶 a. 推进的, 强劲的, 精力旺盛的
-commonly           [ˈkɒmәnli]           adv. 一般, 普通, 通常
-sidewalk           [ˈsaidwɒːk]          n. 人行道
-olympics           [әuˈlimpiks]         n. 奥林匹克运动会
-wow                [wau]                interj. (非正式)哇 n. 巨大的成功, 轰动一时的成功, 十分有趣的事物
-frozen             [ˈfrәuzn]            a. 冻结的, 冰冷的, 严寒的, 冻伤的, 冷酷的
-rebuild            [riˈbild]            vt. 改建, 重建, 改造 vi. 重建
-traveler           [ˈtrævlә]            n. 旅行者, 游客, 旅客, 旅行推销员, 活动起重架, 行车, 临时记帐单
-pickup             [ˈpikʌp]             n. 收集, 整理; 小卡车; 拾起; 搭车者; 偶然结识者
-historically       [hisˈtɔrikәli]       adv. 历史上地; 从历史观点上说
-firmly             [ˈfәːmli]            adv. 坚固, 坚定, 断然
-theology           [θiˈɒlәdʒi]          n. 神学
-nonprofit          [nɒnˈprɒfit]         a. 非赢利的, 无利可图的
-Japanese           [ˌdʒæpәˈniːz]        n. 日本人, 日语 a. 日本的, 日语的
-doorway            [ˈdɒːwei]            n. 门口, 途径
-teenage            [ˈtiːnidʒ]           a. 十三岁到十九岁的
-huh                [hʌ]                 interj. 哼, 哈
-full-time          []                   a. 全部时间的, 专任的
-Arab               [ˈærәb]              n. 阿拉伯人, 阿拉伯马 a. 阿拉伯人的, 阿拉伯的
-collector          [kәˈlektә]           n. 收集家, 收取款项的人; 集电极; 捕收剂
-disappointed       [ˌdisәˈpɒintid]      a. 失望的
-Russian            [ˈrʌʃәn]             n. 俄国人, 俄语 a. 俄国的, 俄语的
-hidden             [ˈhidn]              a. 隐藏的
-hopefully          [ˈhәjpfjli]          adv. 有希望地, 如果希望能实现的话
-softly             [ˈsɒftli]            adv. 柔和地, 静静地, 温柔地
-sexually           []                   adv. 性别地; 两性之间地
-pro                [prәu]               adv. 正面地
-Dutch              [dʌtʃ]               n. 荷兰人, 荷兰语 a. 荷兰的
-Greek              [griːk]              n. 希腊人, 希腊语 a. 希腊的, 希腊人的
-officially         [әˈfiʃәli]           adv. 作为公务员, 职务上, 官方地
-tightly            [ˈtaitli]            adv. 紧紧地, 坚固地
-associated         []                   a. 联合的, 关联的; 结合的
-thoroughly         [ˈθʌrәli]            adv. 彻底地, 绝对地, 透彻地, 详尽地, 周到地, 完全地, 完善地, 全面地
-courtroom          [ˈkɒːtrum]           n. 法庭, 审判室
-combined           [kәmˈbaind]          a. 结合的; 组合的
-instantly          [ˈinstәntli]         adv. 立即地, 即刻地
-mixed              [mikst]              a. 混合的, 形形色色的, 弄糊涂的
-voting             [ˈvәutiŋ]            n. 投票, 选举 a. 投票的, 选举的
-Cuban              [ˈkjuːbәn]           a. 古巴的, 古巴人的 n. 古巴人
-reliability        [ri.laiәˈbiliti]     n. 信度, 可靠性
-teammate           [ˈtiːmmeit]          n. 队友
-self-esteem        [ˈselfisˈtiːm]       n. 自尊, 自负, 自大
-safely             [ˈseifli]            adv. 安全地, 确实地
-workplace          []                   n. 工作场所, 工厂, 车间
-touchdown          [ˈtʌtʃdaun]          n. 触地, 触地得分, 着地
-Christianity       [ˌkristʃiˈæniti]     n. 基督教, 基督教精神
-rolling            [ˈrәuliŋ]            a. 旋转的, 波动的, 起伏的 n. 旋转, 轰响, 动摇
-fortunately        [ˈfɒitʃәnitli]       adv. 幸运地, 幸亏
-commissioner       [kәˈmiʃәnә]          n. 委员, 理事, 行政长官, 地方地官
-instructional      [inˈstrʌkʃәnәl]      a. 教学的, 教育的
-short-term         []                   a. 短期的
-passing            [ˈpæsiŋ]             n. 通过, 逝去, 死, 流逝 a. 经过的, 流逝的, 目前的, 短暂的, 及格的, 仓促的
-known              [nәun]               a. 已知的, 有名的
-correctly          [kәˈrektli]          adv. 对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合
-mentally           [ˈmentli]            adv. 心理上, 精神上, 智力上 
-reportedly         [riˈpɒːtidli]        adv. 根据传说, 根据传闻, 据报道
-surrounding        [sәˈraundiŋ]         n. 环境 a. 周围的
-desperately        [ˈdespәrәtli]        adv. 拼命地; 绝望地; 极度地
-someday            [ˈsʌmdei]            adv. 有一天
-thanksgiving       [ˈθæŋks.giviŋ]       n. 感谢
-uh                 [ʌn. әn]             int. 嗯啊
-exclusively        [ikˈskluːsivli]      adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地
-marketplace        [ˈmɑːkitˈpleis]      n. 市场
-breathing          [ˈbriːðiŋ]           n. 呼吸, 瞬间, 微风 a. 呼吸的, 逼真的
-Persian            [ˈpәːʃәn]            n. 波斯人, 波斯语
-strictly           [ˈstriktli]          adv. 严格地, 确实地
-added              [ˈædid]              a. 额外的; 更多的
-builder            [ˈbildә]             n. 建立者 [机] 组份
-two-thirds         [ˌtuːˈθɜːdz]         quant. 三分之二
-legally            [ˈliːgәli]           adv. 法律上, 合法地, 法定地
-socially           [ˈsәuʃәli]           adv. 在社会上, 在社交上, 以社会生活方式
-embarrassed        [imˈbærәst]          a. 尴尬的; 窘迫的
-fucking            [ˈfʌkiŋ]             a. 该死的, 难完成的, 难做的, 低劣的, 讨厌的, 丑恶的, 混乱的, 乱糟糟的
-wheelchair         [ˈhwiːl.tʃєә]        n. 轮椅
-programming        [ˈprәugræmiŋ]        n. 节目的计划, 编制程序 , 程序设计
-shareholder        [ˈʃєә.hәuldә]        n. 股东, 股票持有人
-considerably       [kәnˈsidәrәbli]      adv. 非常地, 很, 颇
-emotionally        [iˈmәuʃәnәli]        adv. 在情绪上
-formerly           [ˈfɒːmәli]           adv. 从前, 以前
-lawmaker           [lɒːˈmeikә]          n. 立法者
-screening          [ˈskriːniŋ]          n. [医] 筛选, 筛分(如普查癌、结核等病), 萤光屏检查
-unhappy            [ˌʌnˈhæpi]           a. 不快乐的, 不幸的, 不适当的
-coming             [ˈkʌmiŋ]             n. 来临 a. 就要来的, 接着的
-privately          []                   adv. 秘密地; 私下地
-routinely          []                   adv. 日常, 乏味, 常规, 例行
-theological        [θiәˈlɔdʒikәl]       a. 神学上的
-driveway           [ˈdraivwei]          n. 车道
-sexuality          [ˌsekʃuˈæliti]       n. 性征, 性行为, 性欲
-regain             [riˈgein]            vt. 取回, 恢复, 重回, 复得
-freely             [ˈfriːli]            adv. 自由地, 随意地, 无拘束地, 直率地, 坦白地, 慷慨地, 免费地, 大量地
-integrated         [ˈintәgreitid]       a. 综合的, 完整的, 互相协调的
-ha                 [hɑː]                interj. 嘿, 哈, 哈哈
-marker             [ˈmɑːkә]             n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记
-substantially      [sәbˈstænʃәli]       adv. 实质上, 本质上, 大体上
-defender           [diˈfendә]           n. 防卫者, 防护者, 辩护者; 辩护人, 保护人
-disturbing         [disˈtәːbiŋ]         a. 引起烦恼的, 令人不安的
-neighboring        [ˈneibәriŋ]          a. 附近的, 邻近的, 邻接的
-severely           [siˈviәli]           adv. 严格, 尖锐, 严肃, 严重, 严厉, 朴素
-importantly        []                   adv. 重要地; 大量地; 有名望地; 自命不凡地
-economically       [iːkәˈnɔmikәli]      adv. 节约地, 不浪费地, 节省地, 节俭地, 在经济上, 在经济学上
-honestly           [ˈɒnistli]           adv. 真诚地, 公正地
-troubled           [ˈtrʌbld]            a. 烦恼的, 混乱的, 不安的
-balanced           [ˈbælәnst]           a. 公平的, 平衡的, 对称的, 均衡的
-accurately         [ˈækjurәtli]         adv. 正确地, 精确地
-flying             [ˈflaiiŋ]            a. 飞的, 飘扬的, 飞速的 n. 飞行, 飞花
-seller             [ˈselә]              n. 销售者, 卖方
-organized          [ˈɔːgәnaizd]         a. 有组织的, 组织起来的
-smoking            [ˈsmәukiŋ]           n. 抽烟, 冒烟
-bomber             [ˈbɒmә]              n. 轰炸机, 投弹手
-unfortunate        [ˌʌnˈfɒːtʃәnit]      a. 不幸的, 不合适的, 不吉利的
-videotape          []                   n. 录相磁带 vt. 把电视节目录在录像磁带上
-developed          [diˈvelәpid]         a. 发达的（国家或地区）; 成熟的
-loser              [ˈluːzә]             n. 失败者, 失物者, 遗失者
-Iranian            [iˈreiniәn]          a. 伊朗的, 伊朗语系的 n. 伊朗人, 伊朗语
 marijuana          [ˌmærijuˈɑːnә]       n. 大麻
-inadequate         [inˈædikwәt]         a. 不充分的, 不适当的
-subsequently       [ˈsʌbsikwәntli]      adv. 后来, 随后
-trader             [ˈtreidә]            n. 商人, 商船
 pal                [pæl]                n. 朋友, 伙伴, 同志, 同谋 vi. 交友, 结伴
-follower           [ˈfɒlәuә]            n. 从者, 属下, 追补者 [电] 随动机
-caller             [ˈkɒːlә]             n. 访客, 召集员, 传唤员 a. 新鲜的 [计] 呼叫方标识
-ranking            [ˈræŋkiŋ]            n. 等级, 地位 a. 上级的, 头等的, 超群的
-making             [ˈmeikiŋ]            n. 制造, (手工)制造业, 制作, 形成, 发展, 要素, 内在因素, 赚头, 制造物
 trout              [traut]              n. 鲑鱼
-inappropriate      [ˌinәˈprәupriәt]     a. 不适当的, 不相称的
-upcoming           [ˈʌp.kʌmiŋ]          a. 即将来临的, 即将出现的
-gambling           [ˈgæmbliŋ]           n. 赌博
 mound              [maund]              n. 土墩, 堤, 小山 vt. 筑堤, 用土堆防卫 vi. 积成堆
-reasonably         [ˈriːznәbli]         adv. 适度地, 相当地
-satisfied          [ˈsætisfaiәd]        a. 感到满意的
-organizer          [ˈɒːgәnaizә]         n. 组织者, 编制者, 创立者, 组织导体, 机化中心(胚)
-inability          [ˌinәˈbiliti]        n. 无能, 无力
-purely             [ˈpjuәli]            adv. 纯粹地, 清白地, 贞洁地
-lesser             [ˈlesә]              a. 较少的, 较小的, 次要的
-poorly             [ˈpuәli]             adv. 贫穷地, 不充分地, 贫乏地 a. 身体不舒服的
-silently           [ˈsailәntli]         adv. 默默地, 静静地
-warming            [ˈwɔːmiŋ]            n. 暖和, 加温, 暖热, 温暖, (非正式)打, 鞭打
-remarkably         [riˈmɑːkәbli]        adv. 显著地, 引人注目地, 非常地
-Australian         [ɒˈstreiljәn]        n. 澳大利亚人 a. 澳大利亚的, 澳洲的, 澳洲人的
-loving             [ˈlʌviŋ]             a. 亲爱的, 钟情的, 忠诚的
-pipeline           [ˈpaiplain]          n. 管道, 管线, 传递途径
 hood               [hud]                n. 头巾, 兜帽, 覆盖, 强盗 vt. 罩上, 覆盖
-positively         []                   adv. 明确地, 肯定地, 无疑地, (非正式)确实地, 真正地
-baking             [ˈbeikiŋ]            n. 烘焙, 一次烘焙的量
 Oscar              [ˈɔskә]              n. 奥斯卡金像奖, 钱, 现金
 imagery            [ˈimidʒәri]          n. 肖像, 比喻, 雕刻
 homeowner          [ˈhәum.әunә]         n. 私房屋主; 自己拥有住房者
-reconstruction     [ˌriːkәnˈstrʌkʃәn]   n. 改造, 再建
-condom             [ˈkɒndәm]            n. 避孕套
-explicitly         []                   adv. 明确地; 明白地
-part-time          []                   a. 兼任的, 半工半读的, 部分时间的
-Italian            [iˈtæljәn]           n. 意大利人, 意大利语 a. 意大利的, 意大利语的
-abruptly           [әˈbrʌptli]          adv. 突然地, 唐突地
-notably            [ˈnәjtbәli]          adv. 显著地, 著名地, 尤其, 特别
-unclear            [ˌʌnˈkliә]           a. 不易了解的, 不清楚的, 含混的
 nationally         [ˈnæʃәnәli]          adv. 作为整个民族, 举国一致地, 全国性地
-established        [isˈtæbliʃt]         adj. 已确立的, 确定的; 成为国教的; （植物）已生根的; 长势良好的; 资深的, 老牌的
 holding            [ˈhәuldiŋ]           n. 租借地, 占有物, 拥有的财产
-rising             [ˈraiziŋ]            n. 上升, 造反, 叛乱
-freshly            [ˈfreʃli]            adv. 新, 新近, 精神饱满地
-lone               [lәun]               a. 孤单的, 孤立的, 单身的, 寂寞的
-wounded            []                   a. 受伤的, 受了损害的
-shotgun            [ˈʃɒtgʌn]            n. 散弹猎枪, 火枪
-Nazi               [ˈnɑːtsi]            n. 纳粹党人 a. 纳粹党的
-unnecessary        [ˌʌnˈnesәsәri]       a. 不必要的
-regression         [riˈgreʃәn]          n. 退步, 回归
-demon              [ˈdiːmәn]            n. 魔鬼
-murderer           [ˈmәːdәrә]           n. 凶手, 杀人者, 谋害者
 ethnicity          [eθˈnisәti]          n. 种族特点; 种族渊源
-crying             [ˈkraiiŋ]            a. 叫喊的, 嚎哭的, 迫切的, 臭名昭著的
-strawberry         [ˈstrɒːbәri]         n. 草莓
-holder             [ˈhәuldә]            n. 持有人, 所有人, 支持物
 guerrilla          [gәˈrilә]            n. 游击队
-co-worker          [ˈkәuˈwәːkә]         n. 同事
-separately         [ˈsepәrәtli]         adv. 分开地; 独自地
-hometown           [hәumˈtaun]          n. 故乡, 家乡
-statistically      []                   adv. 用统计的方法, 统计学上
-detector           [diˈtektә]           n. 发现者, 检验器, 检波器
-recount            [riˈkaunt]           vt. 详述, 叙述, 重新计算
 settler            [ˈsetlә]             n. 移民; 殖民者; 拓居者
-supporting         [sәˈpɔːtiŋ]          a. 次要的; 支持的; 辅助性的
-firefighter        [ˈfaɪəfaɪtə(r)]      n. <美>消防队员
 Egyptian           [iˈdʒipʃәn]          n. 埃及人 a. 埃及的, 埃及人的
-injured            [ˈindʒәd]            a. 受伤的, 受损害的, 被触怒的
 Caribbean          [ˌkæriˈbiːәn]        n. 加勒比海 a. 加勒比海的, 加勒比人的
-formally           [ˈfɒːmәli]           adv. 正式地, 形式上
-frightening        [ˈfraitәniŋ]         a. 令人恐惧的; 引起突然惊恐的
-repeated           [riˈpiːtid]          a. 反复的, 再三的, 屡次的
 Turkish            [ˈtәːkiʃ]            n. 土耳其语 a. 土耳其的, 土耳其人的, 土耳其语的
-unidentified       [ˌʌnaiˈdentifaid]    a. 未被认出的, 未经确认的
-cherry             [ˈtʃeri]             n. 樱桃, 樱桃树, 樱桃色
-fundamentally      [fʌndәˈmentәli]      adv. 根本地, 从根本上; 基础地
 wildly             []                   adv. 狂暴地, 激动地, 鲁莽地, 轻率地
-nursing            [ˈnәːsiŋ]            n. 看护, 养育
-newcomer           [njuːˈkʌmә]          n. 新来者
-fried              [fraid]              a. 油炸的
-planned            [plænd]              a. 计划了的, 预定的, 根据计划的, 有组织的
-confused           [kәnˈfjuːzd]         a. 困惑的, 混乱的
-african-american   [ˈæfrɪkən əˈmerɪkən] n. 非裔美国人; 美国黑人
-independently      [ˌindiˈpendәntli]    adv. 独立地, 自立地
-embarrassing       [imˈbærәsiŋ]         a. 令人为难的, 麻烦的
 altar              [ˈɒːltә]             n. 圣坛, 祭坛
 listing            [ˈlistiŋ]            n. 列表, 清单, 编目, 挂牌, 上市
 vine               [vain]               n. 藤本植物, 葡萄, 藤, 蔓
-shocked            [ʃɔkt]               a. 震撼的; 震惊的
-permanently        [ˈpәːmәntli]        adv. 永久地, 长期不变地
-awaken             [әˈweikәn]           vt. 唤醒, 唤起, 使意识到 vi. 觉醒, 意识到
 nun                [nʌn]                n. 修女, 尼姑
 miner              [ˈmainә]             n. 矿工, 开矿机, 坑道工兵
 broth              [brɒθ]               n. 原汁清汤, 肉汤
 mob                [mɒb]                n. 暴民, 民众, 暴徒 vt. 大举包围, 蜂拥进入, 围攻 vi. 聚众生事
-sadly              [ˈsædli]             adv. 悲痛地, 悲惨地, 悲伤地, 说来遗憾
-lifelong           [ˈlaiflɒŋ]           a. 终身的, 毕生的
 Swiss              [swis]               n. 瑞士人, 瑞士腔调 a. 瑞士的, 瑞士风格的
-vietnamese         [ˈvjetnәˈmiːz]       n. 越南人; 越南语
+vietnamese         /ˌviːetnə'miːz/       n. 越南人; 越南语
 Polish             [ˈpɒliʃ]             n. 波兰人, 上光剂, 光泽, 优雅 a. 波兰的 vt. 擦亮, 擦去, 使完美 vi. 擦亮, 变得光亮
 impairment         [imˈpeәmәnt]         n. 削弱, 减少, 损害, 损伤, 危害
 Latino             [læˈtiːnәu, lә-]     n. 拉丁美洲人
-culturally         []                   adv. 从文化角度, 文化意义上; 在人文学方面
-frightened         [ˈfrait(ә)nd]        a. 受惊吓的, 受惊的, (非正式)害怕...的
 reverend           [ˈrevәrәnd]          n. 教士, 大人(对教士的尊称) a. 应受尊敬的, 教士的
-neatly             [ˈniːtli]            adv. 整洁地, 干净地, 匀称地
-smoking            [ˈsmәukiŋ]           n. 抽烟, 冒烟
 skier              [ˈskiːә]             n. 滑雪的人
 wetland            [ˈwetlænd]           n. 湿地, 沼泽地
 cellular           [ˈseljulә]           a. 细胞的
 reasoning          [ˈriːzniŋ]           n. 推论, 推理, 论证
 par                [pɑː]                n. 标准, 票面价值, 平均数量, 同等水平
-re-election        []                   n. 再次竞选
-inexpensive        [ˌinikˈspensiv]      a. 便宜的, 不贵重的
-governmental       [ˌgʌvәnˈmentl]       a. 政府的, 统治的, 政治上的
-technically        [ˈteknikli]          adv. 技术上, 学术上, 专门地
-monk               [mʌŋk]               n. 修道士, 僧侣, 和尚
-setup              [ˈsetʌp]             n. 装备, 组织, 计划, 机构, 调整, 设置
-bored              []                   a. 无聊的; 烦人的; 无趣的
-cleanup            [ˈkliːnʌp]           n. 清洁; 打扫; 收拾
-uh-huh             [ˈʌhʌ]               int. 啊哈(表示肯定答复的惊叹词)
-lineup             [ˈlainʌp]            n. 阵容, 阵形, 布阵, 一组人
-rebound            [riˈbaund]           vi. 弹回, 返回, 产生事与愿违的结果 vt. 使弹回, 使返回 n. 反弹, 返回, 篮板球, 振作 rebind的过去式和过去分词
-Easter             [ˈiːstә]             n. 复活节
 breeding           [ˈbriːdiŋ]           n. 生育, 繁殖, 育种, 饲养
 allied             [әˈlaid]             a. 联盟的, 联姻的, 联系起来的
 footage            [ˈfutidʒ]            n. 英尺长度, (影片的)连续镜头
-unfamiliar         [ˌʌnfәˈmiljә]        a. 不熟悉的
-toddler            [ˈtɔdlә]             n. 蹒跚行走的人, 学步的小孩
-sophomore          [ˈsɒfәmɒː]           n. (大学,高中)二年级学生
-educated           [ˈedjukeitid]        a. 受过教育的, 有教养的
-unaware            [ˌʌnәˈwєә]           a. 未认识到的, 未察觉到的, 未意识到的
-courthouse         [ˈkɒːthaus]          n. 法院, 郡政府所在地
-fairness           [ˈfєәnis]            n. 公正, 适当, 美丽
-additionally       []                   adv. 另外, 此外
 finely             [ˈfainli]            adv. 雅致地, 仔细地, 敏锐地, 微细地
-baseline           [ˈbeislain]          n. 基线, 基准
 coefficient        [kәuiˈfiʃәnt]        n. 系数
-prepared           [priˈpєәd]           a. 准备好的, 特制的
 tuna               [ˈtjuːnә]            n. 金枪鱼, 金枪鱼肉
 staffer            [ˈstɑːfә]            n. (一名)职员(尤指编辑或记者)
-memorable          [ˈmemәrәbl]          a. 值得纪念的, 难忘的
-footstep           [ˈfutstep]           n. 脚步, 脚步声, 足迹
 prostitute         [ˈprɒstitjuːt]       n. 妓女, 男娼 vt. 使沦为妓女 a. 卖淫的, 堕落的
-battlefield        [ˈbætlfiːld]         n. 战场, 沙场
-nicely             [ˈnaisli]            adv. 漂亮地, 谨慎地, 恰好地
-shocking           [ˈʃɒkiŋ]             a. 令人震惊的, 极坏的, 不正当的
 predictor          [priˈdiktә]          n. 先兆; 征兆; 预示物
-forced             [fɒːst]              a. 被迫的, 强迫的, 法定的
-reduced            [riˈdjuːst]          a. 减少的; 简化的; 缩减的
 tattoo             [tәˈtuː]             n. 文身; （在皮肤上刺的）花纹
-shopper            [ˈʃɒpә]              n. 顾客, 购物者
-rationale          [ˌræʃәˈnɑːli]        n. 理由; 原因; 理由说明
-injustice          [inˈdʒʌstis]         n. 不公平, 非正义的行为, 权利侵害
-soy                [sɒi]                n. 酱油, 大豆
 Soviet             [ˈsәuviәt]           n. 苏维埃, 苏联政府; 苏联人 adj. 苏维埃的; 苏联的; 苏联人的
-motorcycle         [ˈmәutәsaikl]        n. 摩托车
 insurer            [inˈʃuәrә]           n. 保险人, 承保人, 保险公司
-unbelievable       [ˌʌnbiˈliːvәbl]      a. 难以置信的
-large-scale        []                   a. 大规模的, 大范围的, 大比例尺的
-overly             [ˈәuvәli]            adv. 过度地, 极度地
-all-star           [ˈɔːlstɑː(r)]        a. 全明星的
-individually       [ˌindiˈvidʒuәli]     adv. 以个人身分, 各个地, 独特地
 mustard            [ˈmʌstәd]            n. 芥末, 芥菜, 强烈的兴趣
-cleaning           [ˈkliːniŋ]           n. 清洁, 扫除, 大败, 输得精光, 除伐, 巨额利润
-controller         [kәnˈtrәulә]         n. 控制器, 管理者
-relaxed            [riˈlækst]           a. 松懈的, 放松的, 得到休息的, 随意的, 不拘束的, 自在的
-watercolor         []                   n. 水彩颜料, 水彩画
-secretly           [ˈsiːkritli]         adv. 秘密地, 背地里
 caregiver          [ˈkeəgɪvə(r)]        n. 照料者, 护理者
 arctic             [ˈɑːktik]            a. 北极的, 极寒的; 严寒的, 冰冷的
-African            [ˈæfrikәn]           n. 非洲人 a. 非洲的, 非洲人的
-moving             [ˈmuːviŋ]            a. 动人的, 令人感动的, 鼓动的, 原动的
 Protestant         [ˈprɒtistәnt]        n. 新教徒 a. 新教的, 新教徒的
-proudly            [ˈpraudli]           adv. 傲慢地, 自大地, 得意洋洋地
-sampling           [ˈsɑːmpliŋ]          n. 样本, 取样
-broadly            [ˈbrɒːdli]           adv. 宽广地, 明白地, 粗鄙地
-filmmaker          [ˈfilm,meikә(r)]     n. 电影制作人
 tomb               [tuːm]               n. 坟墓, 死亡 vt. 埋葬
-abandoned          [әˈbændәnd]          a. 被抛弃的, 无约束的, 恣意放荡的
 viking             [ˈvaikiŋ]            n. 海盗
-interface          [ˈintәfeis]          n. 分界面, 接触面, 界面
-bookstore          [ˈbukstɒː]           n. 书店
-pope               [pәup]               n. 罗马教皇, 主教
-protester          []                   n. 抗议者, 持异议者, 拒付者
 Sunni              [ˈsuniː]             n. 〈伊斯兰〉逊尼派教徒
 don                [dɒn]                n. 西班牙贵族(或绅士), 先生, 阁下 vt. 穿上
-beautifully        [ˈbjuːtifuli]        adv. 美好地, 漂亮地
-lobster            [ˈlɒbstә]            n. 龙虾
-artwork            [ˈɑːtwәːk]           n. 插图, 艺术作品
-confusing          []                   a. 令人困惑的; 混淆的; 混乱的
-renewed            [riˈnjuːd]           a. 复兴的; 更新的; 重建的
-aggressively       []                   adv. 侵略地; 攻击地; 有闯劲地
-unwilling          [ˌʌnˈwiliŋ]          a. 不愿意的, 勉强的, 不服从的
 Greek              [griːk]              n. 希腊人, 希腊语 a. 希腊的, 希腊人的
-questionable       [ˈkwestʃәnәbl]       a. 可疑的, 有问题的, 不可靠的
-homemade           [ˈhәumˈmeid]         a. 自制的, 国产的
 drape              [dreip]              n. 布帘, 褶皱 vt. 用布帘覆盖, 披上 vi. 成褶皱状
 archaeologist      [ˌɑːkiˈɒlәdʒist]     n. 考古学家
 Victorian          [vikˈtɔːriәn]        a. 英国维多利亚女王时代的, 笃信宗教的, 讲究体面的
 sandy              [ˈsændi]             a. 沙的, 沙地的, 多沙的
 evangelical        [ˌiːvænˈdʒelikәl]    a. 福音派教会的 n. 福音派信徒
 coffin             [ˈkɒfin]             n. 棺材, 灵柩
-server             [ˈsәːvә]             n. 服伺者, 上菜用具, 发球员 [计] 服务器, 服务器启动程序, 服务台程序
-unusually          [ʌnˈjuːʒәli]         adv. 不寻常地, 异乎寻常地, (非正式)非常
-lender             [ˈlendә]             n. 出借者, 贷方, 贷款人
 bastard            [ˈbæstәd]            n. 私生子, 劣货 a. 私生的, 杂种的, 不合标准的
-module             [ˈmɒdjuːl]           n. 组件, 模数, 模块
-theorist           [ˈθiːәrist]          n. 理论家, 理论工作者
 tee                [tiː]                n. T字形, T字形之物, 发球区, 球座, 目标 vt. 搁在球座上 a. T字形的
-reported           [riˈpɔːtid]          a. 报告的; 据报道的
 conditioning       [kәnˈdiʃәniŋ]        n. 调节, 条件作用, 整修
 whisk              [wisk]              n. 掸, 扫帚, 毛掸子, 搅拌器, 拂 vt. 扫, 拂, 挥动, 迅速移动, 搅拌 vi. 飞奔
-reactor            [riˈæktә]            n. 反应者, 反应器, 反应堆, 电抗器
-satisfying         [ˈsætisfaiiŋ]        a. 令人满意的, 使人满足的
-visually           [ˈvizjjәli]          adv. 形象化地; 外表上; 看得见地
 steering           [ˈstiәriŋ]           n. 掌舵, 操纵, 指导
-coming             [ˈkʌmiŋ]             n. 来临 a. 就要来的, 接着的
-evidently          [ˈevidәntli]         adv. 明显地, 根据现有证据来看
-registered         [ˈredʒistәd]         a. 注册的, 登记过的, 记名的, 挂号的
-efficiently        [iˈfiʃәntli]         adv. 有效地; 效率高地
 middle-aged        [ˈmidlˈeidʒd]        a. 中年的
-freezing           [ˈfriːziŋ]           a. 冰冻的, 冷冻用的, 严寒的
-oddly              [ˈɒdli]              adv. 奇怪地
 flashlight         [ˈflæʃlait]          n. 手电筒, 闪光信号灯
 elk                [elk]                n. 麋鹿
 morally            [ˈmɒrәli]            adv. 道德上, 德性上, 有道德地
 Brazilian          [brәˈziljәn]         n. 巴西人 a. 巴西的, 巴西人的
-thinker            [ˈθiŋkә]             n. 思想者, 思想家
-grass-roots        [ˈgrɑːsruːts]        a. 一般民众的, 基层的, 基层群众, 农业区(企业的)
-genuinely          []                   adv. 真诚地; 诚实地
-indirect           [ˌindiˈrekt]         a. 间接的, 非直截了当的, 不坦率的
-ya                 [ˈjә]                abbr. 年轻人（young adult）
-long-standing      [ˈlɔŋstædiŋ]         a. 长期存在的
-globalization      [ˌglәjbәlaiˈzeiʃәn]  n. 全球化, 普及到世界范围
-discomfort         [disˈkʌmfәt]         n. 困苦, 不适, 烦闷, 不快活
 backpack           [ˈbækpæk]            n. 远足用的背包; 双肩背包, 背包
 spirituality       [ˌspiritjuˈæliti]    n. 宗教性; 精神性; 灵性
 cinnamon           [ˈsinәmәn]           n. 肉桂, 肉桂树皮, 肉桂色
 appropriately      []                   adv. 适当的, 恰如其分的, 恰当的, 合适的
-unpleasant         [ˌʌnˈpleznt]         a. 使人不愉快的, 使人厌恶的, 煞风景的
-two-year           []                   两年制的 两年的
-comeback           [ˈkʌmbæk]            n. 复原, 复辟, 复位; （迅速的）回答, 回应
-thereafter         [ˌðєәrˈæftә]         adv. 其后, 从那时以后
-painted            [ˈpeintid]           a. 描画的, 着色的, 刷上油漆的, 涂脂抹粉的, 矫揉造作的
-astonishing        [әˈstɒniʃiŋ]         a. 令人惊讶的
-randomly           []                   adv. 随便地, 任意地; 无目的地, 胡乱地; 未加计划地
-referral           [riˈfәːrәl]          n. 参照, 介绍, 被介绍人, 转诊病人
-radically          [ˈrædikәli]          adv. 根本地, 完全地
-re-create          [ˌriːkriˈeit]        vt. 重新创作
 parlor             [ˈpɑːlә]             n. 客厅, 会客室, 小店
-unacceptable       [ˌʌnәkˈseptәbl]      a. 无法接受的, 不受欢迎的, 难以承认的
-sporting           [ˈspɒːtiŋ]           a. 喜好运动的, 运动用的, 冒险性的
 Canadian           [kәˈneidiәn]         a. 加拿大的
 statewide          [ˈsteitwaid]         a. 全州的, 遍及全州的
-hitter             [ˈhitә]              n. 打手, 打击的人
+hitter             [ˈhitә]              n. 打者,击手,(棒球)击球员
 Swedish            [ˈswiːdiʃ]           n. 瑞典人, 瑞典语 a. 瑞典的, 瑞典人的, 瑞典语的
 Bosnian            [bɔzniːən]           n. 波斯尼亚人 a. 波斯尼亚的
-policymaker        [ˈpɔlisi.meikә]      n. 政策制定者; 决策人
-critically         [ˈkritikәli]         adv. 批评性地, 审慎地, 精密地
-pathway            [ˈpɑːθwei]           n. 路径, 途径
-opposing           [әˈpәuziŋ]           a. 对面的, 反对的, 相反的, 相对的
-madness            [ˈmædnis]            n. 疯狂, 愚蠢的行为
-cleaner            [ˈkliːnә]            n. 清洁工人, 清洁剂, 干洗商
-respected          []                   a. 受尊敬的
 usher              [ˈʌʃә]               n. 引座员, 招待员 vt. 引导, 招待 vi. 作招待员
 golfer             [ˈgɒlfә]             n. 打高尔夫球的人
 proliferation      [ˌprәulifәˈreiʃәn]   n. 增殖, 增生, 激增
-firing             [ˈfaiәriŋ]           n. 烧毁, 焚烧, 加热, 添煤
-symbolize          [ˈsimblaiz]          vt. 符号化, 用符号表现 vi. 采用象征, 使用符号
-delighted          [diˈlaitid]          a. 高兴的, 快乐的
 turf               [tәːf]               n. 草皮, 泥炭, 跑马场 vt. 覆草皮于
-parsley            [ˈpɑːsli]            n. 皱叶欧芹, 荷兰芹
-overweight         [ˈәuvәˈweit]         n. 超过重量, 过重, 优势 a. 超过重量的, 超重的 vt. 使超重, 重于, 过于重视
-tab                [tæb]                n. 制表(键), 搭襻, 标号, 调整片, (易拉罐)拉环, 帐单 [计] 标签, 制表符, TAB键
+parsley            [ˈpɑːsli]            n. 西芹,欧芹
 linebacker         [ˈlainbækә]          n. 中后卫球员
-basics             []                   n. 最简单但最重要的部分, 基本, 基础训练
-goddess            [ˈgɒdis]             n. 女神, 美女, 受崇拜的女性
 bipartisan         [bai,pɑːtiˈzæn]      a. 两党连立的
-passing            [ˈpæsiŋ]             n. 通过, 逝去, 死, 流逝 a. 经过的, 流逝的, 目前的, 短暂的, 及格的, 仓促的
-smoker             [ˈsmәukә]            n. 吸烟者, 吸烟的人, 吸烟车厢, (美)(非正式)蒸汽火车头
-diagnostic         [daiәgˈnɒstik]       a. 诊断的, 有助于诊断的, 特征的 n. 诊断, 病的征候, 诊断法
-promptly           [ˈprɒmptli]          adv. 敏捷地, 迅速地
-reopen             [ˌriːˈәupәn]         v. 重开, 再开始, 再开
-expanded           [ikˈspendid]         a. 扩充的; 展开的
-dedicated          [ˈdedikeitid]        a. 专注的, 献身的
 homosexuality      [-ˈæliti]            n. 同性恋, 同性性欲
 contender          [kәnˈtendә(r)]       n. 参赛者, 争论者, 斗争者, 竞争者
 happening          [ˈhæpәniŋ]           n. 事件, 意外发生的事
-sensibility        [ˌsensiˈbiliti]      n. 感性, 感觉, 情感, 感觉能力
-reformer           [riˈfɒːmә]           n. 改革家, 改革运动者 [化] 转化炉; 转化器; 重整器; 重整炉
-sticker            [ˈstikә]             n. 粘贴标签, 张贴物; 坚持不懈的人; 尖刀; 难题
-shooter            [ˈʃuːtә]             n. 射手, 狩猎者, 手枪
-geographical       [dʒiәˈgræfikl]       a. 地理学的, 地理的
-publishing         [ˈpʌbliʃiŋ]          n. 出版, 刊印, 发行
-flawed             []                   a. 有缺陷的; 有裂纹的; 有瑕疵的
-alpha              [ˈælfә]              n. 希腊字母表的第一个字母, 最初, 开端
-uncommon           [ˌʌnˈkɒmәn]          a. 不寻常的, 非凡的, 罕有的 adv. 不平常地
 bunker             [ˈbʌŋkә]             n. 煤仓, 沙坑, 暗堡 vt. 击入沙坑, 使陷入困境
 frustrated         [frʌˈstreitid]       a. 失意的, 挫败的; 泄气的
-deepen             [ˈdipәn]             vi. 深化 vt. 使加深, 使强烈
-unlimited          [ˌʌnˈlimitid]        a. 无限的, 不受限制的, 无条件的
-interestingly      [ˈintristiŋli]       adv. 有趣地
-environmentally    []                   adv. 有关环境方面
-incoming           [ˈinkʌmiŋ]           a. 进来的, 刚开始的, 新来的
 hillside           [ˈhilsaid]           n. 山坡, 山腹
-four-year          []                   四年的 四年制的
-arguably           [ˈɑːɡjuәbli]         adv. 可论证地; 可争辩地; 正如可提出证据加以证明的那样地
-strangely          [ˈstreindʒli]        adv. 奇妙地, 奇怪地, 不可思议地
-strategist         [ˈstrætidʒist]       n. 战略家
-multicultural      [ˌmʌltiˈkʌltʃәrәl]   a. 融合或具有多种文化的; 多种文化的
-casually           [ˈkæʒjuәli]          adv. 偶然地, 临时地, 随便地
-puppy              [ˈpʌpi]              n. 小狗, 小动物, 自负的年轻人
-median             [ˈmiːdiәn]           a. 中央的, 中间的, 正中的 n. 正中动脉, 中位数, 中线
 angler             [ˈæŋglә]             n. 垂钓者
-seafood            [ˈsiːfuːd]           n. 海味, 海鲜, 鱼类
 theologian         [ˌθiːәˈlәudʒәn]      n. 神学家
-inaudible          [inˈɒːdәbl]          a. 听不见的
 battered           [ˈbætәd]             a. 磨损的; 弄垮的; 破旧的; 受到虐待的
-broadway           [ˈbrɒːdwei]          n. 百老汇大街
-paperwork          [ˈpeipәwәːk]         n. 文书工作
-illegally          []                   adv. 非法地, 不合法地, 违法地
-suspected          [sәˈspektid]         a. 有嫌疑的
 steroids           [ˈstɪərɔɪdz]         n. 类固醇( steroid的名词复数 )
 investigative      [inˈvestigeitiv]     a. 审查的, 调查的, 好研究的
-boomer             [ˈbuːmә]             n. 往来无定的临时工
-finished           [ˈfiniʃt]            a. 完成的, 完结的; 彻底被毁灭; 彻底失败
-fund-raiser        [ˈfʌndˌreɪzə]        n. 募捐者
-day-to-day         []                   adv. 天天, 日常, 暂时的
 dice               [dais]               n. 骰子 vt. 切成方块 vi. 掷骰子
 patio              [ˈpɑːtiәu]           n. 露台, 平台, 屋子与花园之间的一片供晴天休息用的石砌空地
-roommate           []                   n. 住在同室的人
-comfortably        [ˈkʌmfәtәbli]        adv. 安乐地, 舒服地, 宽裕地
 twilight           [ˈtwailait]          n. 暮光, 曙光, 黎明, 黄昏, 微光, 朦胧状态 a. 微明的
-secondly           [ˈsekәndli]          adv. 第二, 其次
 vaguely            [ˈveigli]            adv. 含糊地, 暧昧地
-one-time           []                   a. 以前的, 古时的, 一度的
-unlock             [ˌʌnˈlɒk]            vt. 开...的锁, 开启, 表露, 放出 vi. 被开启, 揭开, 解放 [计] 解除锁定
-bleeding           [ˈbliːdiŋ]           n. 出血, 流血; 该死的, 可恶的
-loosely            [ˈluːsli]            adv. 松弛地, 宽松地, 不紧
-understandable     [ˌʌndәˈstændәbl]     a. 可以理解的
-relocate           [riːˈlәukeit]        vt. 搬迁, 重新安置, 放在新地方
-incomplete         [ˌinkәmˈpliːt]       a. 不完全的, 未完成的, 不完善的
-instability        [ˌinstәˈbiliti]      n. 不安定, 不稳定
-unwanted           [ˌʌnˈwɒntid]         a. 没人要的, 不需要的, 多余的
 laborer            [ˈleibәrә]           n. 体力劳动者, 辅助工 [机] 劳动者
-continuously       [kәnˈtinjuәsli]      adv. 不断地, 连续地
 filing             [ˈfailiŋ]            n. 提起诉讼; 锉屑; 文件编排
 Halloween          [ˌhælәuˈiːn]         n. (基督教)万圣节前夕
 heck               [hek]                int. 真见鬼（hell的委婉说法）
-Taliban            []                   n. 塔利班
 sperm              [spәːm]              n. 精液, 精虫; 鲸油
 sedan              [siˈdæn]             n. 轿车, 轿子
 certified          [ˈsәːtifaid]         a. 证明合格的
 apartheid          [әˈpɑːtheit]         n. 种族隔离
 archaeological     [ˌɑːkiәˈlɒdʒikl]     a. 考古学的, 考古学上的
-overview           [ˈәuvәvjuː]          n. 概述, 概观, 总的看法
-forgiveness        [fәˈgivnis]          n. 宽恕, 宽仁之心
-societal           [sәˈsaiәtl]          a. 社会的
-extensively        []                   adv. 广阔地, 广大地, 全面的
-calmly             [ˈkɑːmli]            adv. 平静地, 安静地, 冷静地
-follow-up          []                   a. 后续行动; 紧接的活动
-inequality         [ˌiniˈkwɒliti]       n. 不平等, 不同, 不平坦, 不平均
 canned             [kænd]               a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的
-closing            [ˈklәuziŋ]           n. 结束 a. 结束的
-preschool          [ˈpriːˈskuːl]        a. 就学前的 n. 育幼院, 幼稚园
-superstar          [ˈsjuːpәstɑː]        n. 超级明星
-intensely          [ɪnˈtenslɪ]          adv. 强烈地; 极度; 剧烈地
 sleek              [sliːk]              a. 光滑的, 线条明快的, 时髦的 vt. 使光滑, 掩盖 vi. 打扮漂亮, 滑动
 windshield         [ˈwindʃiːld]         n. 挡风玻璃
 whiskey            [ˈhwiski]            n. 威士忌酒
-tester             [ˈtestә]             n. 试验员, 试用品
-sunglasses         []                   n. 太阳镜, 墨镜
-inconsistent       [ˌinkәnˈsistәnt]     a. 矛盾的, 不一致的, 不协调的
-interpersonal      [ˌintәˈpәːsәnәl]     a. 人与人之间的, 人际(关系)的
 vase               [veis]               n. 花瓶, 装饰瓶
 negotiator         [niˈgәuʃieitә]       n. 磋商者, 交涉者, 议定者
-periodically       [ˌpiәriˈɔdikəli]     adv. 周期性地; 定期地
-accidentally       [ˌæksiˈdentli]       adv. 偶然地, 意外地
 outraged           []                   a. 义愤填膺的; 愤慨的, 气愤的
 postal             [ˈpәustl]            a. 邮政的, 邮局的
-cease-fire         []                   n. 停火
-high-speed         []                   a. 高速的
 high-profile       [haiˈprəufai]        a. 高姿态的; 高调的; 备受瞩目的; 知名度高的
 saucepan           [ˈsɒːspәn]           n. (长柄有盖)深平底锅, 炖锅
-activism           [ˈæktivizm]          n. 激进主义, 行动主义, 能动论
-unstable           [ˌʌnˈsteibl]         a. 不稳定的
-internationally    [ˌintәˈnæʃәnәli]     adv. 国际性地, 在国际间
 nervously          []                   adv. 焦急地; 神经质地; 提心吊胆地
 freeman            [ˈfriːmәn]           n. 自由民, 公民, 有公民权的人
-reluctantly        [rɪˈlʌktəntlɪ]       adv. 不情愿地, 勉强地
-exposed            [ikˈspәuzd]          a. 暴露的, 无掩蔽的, 易受攻击的
 subcommittee       [ˈsʌbkә.miti]        n. （委员会下的）专门小组
-co-author          []                   n. 合著者 vt. 合著
 sneakers           []                   n. 胶底运动鞋（sneaker的复数形式）
-someplace          [ˈsʌmpleis]          adv. 在某处 n. 某处
 Nazi               [ˈnɑːtsi]            n. 纳粹党人 a. 纳粹党的
 billboard          [ˈbilbɒːd]           n. 广告牌, 布告板
 precinct           [ˈpriːsiŋkt]         n. 区域, 管理区, 管辖区域
-daytime            [ˈdeitaim]           n. 白天, 日间
 underway           [ˈʌndәˈwei]          a. 航行中的; 进行中的; 起步的
 grader             [ˈgreidә]            n. 把东西分类别的人/机器, 平路机, 推土机
-unload             [ˌʌnˈlәud]           vi. 卸货 vt. 从...卸下, 摆脱...之负担, 倾销, 卸(货) [计] 卸载
 pornography        [pɔːˈnɔgrәfi]        n. 色情作品; 淫秽作品
 innings            []                   n. 局, 回合, 盘, 一局, 当权期间
-takeover           []                   n. 接管, 接收
 swiftly            [ˈswiftli]           adv. 很快地, 即刻
 spinach            [ˈspinitʃ]           n. 菠菜, 货币, 胡说八道
 tactical           [ˈtæktikl]           a. 战术的, 用兵上的, 策略的
 probation          [prәuˈbeiʃәn]        n. 缓刑, 试用, 见习, 察看
 Baptist            [ˈbæptist]           n. 施洗礼者, 浸礼会教友
-civilized          [ˈsivilaizd]         a. 文明的, 有礼的
 smack              [smæk]               n. 风味, 滋味, 少量, 拍击声, 咂嘴声, 小渔船, 海洛因 vi. 有味道, 咂嘴, 发出拍击声 vt. 拍, 打, 掴, 咂, 出声地吻 adv. 啪地一声, 猛然
-would-be           [ˈwudbiː]            a. 将要成为的, 自称的, 冒充的
 platter            [ˈplætә]             n. 大浅盘, 主菜盘
-all-time           []                   a. 全部时间的, 空前的, 创记录的
 gee                [ˈdʒiː]              interj. 向右, 前进, 哎呀(惊讶时所发声音) v. (使)向右转
-sweetheart         [ˈswiːthɑːt]         n. 心上人, 爱人 vi. 爱慕 vt. 向...求爱
-retiree            [ri.taiәˈriː]        n. 退休人员, 退休者
 fingertip          [ˈfiŋgәtip]          n. 指尖, 指套
 crap               [kræp]               n. 垃圾, 废话 vi. 掷骰子
 freezer            [friːzә]             n. 冰库, 冰箱, 冷冻库
-floating           [ˈflәutiŋ]           a. 漂浮的, 浮动的, 移动的
-chick              [tʃik]               n. 小鸡, 小鸟; 少妇, 少女
 diaper             [ˈdaiәpә]            n. 尿布
-gunman             [ˈgʌnmәn]            n. 枪手, 持枪歹徒, 持枪抢劫或杀人者, 枪炮工人
 right-wing         [ˈraitwiŋ]           a. 右翼的, 右派的
 shining            [ˈʃainiŋ]            a. 光亮的, 华丽的
 sideline           [ˈsaidlain]          n. 副业, 旁线, 界线, 兼职, 旁观者看法 vt. 使退出比赛场地
-incorrect          [ˌinkәˈrekt]         a. 不正确的, 错误的, 不适当的
 serbian            [ˈsәːbjәn]           a. 塞尔维亚人（语）的; 塞尔维亚的
 turbine            [ˈtәːbain]           n. 涡轮机
 condo              [kәnˈdәu]            n. 共管, 多层公寓大楼, 由个人占用的一套公寓房间
 focal              [ˈfәukl]             a. 焦点的, 在焦点上的; 病灶的, 灶的
 pounding           [ˈpәundiŋ]           n. 重击; 重击声
-competency         [ˈkɔmpit(ә)nsi]      n. 能力（等于competence）; 资格
 entitlement        []                   n. 权利
 Pakistani          [ˌpɑːkiˈstɑːni]      a. 巴基斯坦的 n. 巴基斯坦人
-extraordinarily    [ikˈstrɔːdθnәrili]   adv. 非凡, 破例, 特别, 非常, 离奇, 使人惊奇, 惊人, 特命, 特派
-puzzled            [ˈpʌzld]             a. 困惑的, 迷惑的
-um                 [әm]                 int. 嗯（表示迟疑）
-reconstruct        [ˌriːkәnsˈtrʌkt]     vt. 重建, 改造, 按原样修复
-openness           [ˈәupәnnis]          n. 公开; 宽阔; 率真
-pancake            [ˈpænkeik]           n. 薄烤饼, 薄煎饼, 烙饼
 whoa               [wәu]                int. 惊叹声, 停止
-voluntarily        [ˌvɒlәnˈterili]      adv. 自愿地, 以自由意志
-mid                [mid]                a. 中间的, 中央的, 中部的 prep. 在...之中
-mama               [ˈmɑːmә]             n. 妈妈
-controlled         [kәnˈtrәuld]         a. 受约束的, 克制的, 受管辖的
 prostate           [ˈprɒsteit]          n. 前列腺
-raised             [reizd]              a. 凸起的, 浮雕的, 发酵的
-multimedia         [ˌmʌltiˈmiːdiә]      n. 多媒体
 cohort             [ˈkәuhɒːt]           n. 一群; 步兵大队; 支持者; 共同特点的一群人
-worrying           [ˈwʌriiŋ]            a. 使人烦恼的, 忧虑重重的
-keeper             [ˈkiːpә]             n. 监护人, 管理人, 看守人
 spa                [spɑː]               n. 矿泉, 温泉浴场, 矿泉治疗地
-basil              [ˈbæzil]             n. 罗勒属植物
-built-in           [ˈbiltˈin]           a. 内在的, 固定的, 嵌入的 n. 固定于建筑物的用具 [计] 内置
-disbelief          [ˌdisbiˈliːf]        n. 不信, 怀疑
 enormously         [iˈnɒːmәsli]         adv. 非常地, 巨大地
 Czech              [tʃek]               n. 捷克人, 捷克语 a. 捷克的, 捷克语的, 捷克人的
-sickness           [ˈsiknis]            n. 疾病, 不健康, 呕吐
 saw                [sɒː]                n. 锯子, 谚语 vt. 锯, 锯开, 来回移动 vi. 拉锯, 移动
 camping            [ˈkæmpiŋ]            n. 野营, 露营
-awhile             [әˈhwail]            adv. 片刻, 一会儿
 madame             [ˈmædәm]             n. 夫人, 小姐, 太太, 女士, 主妇, (非正式)喜欢差使/指使别人的女子, 鸨母
-roadside           [ˈrәudsaid]          n. 路旁, 路边 a. 路边的
-high-quality       [ˈhaɪkwˈɒlɪtɪ]        高级的
-distributor        [disˈtribjutә]       n. 分发者, 散布者, 分配者, 销售者, 分配器, 配电盘, 自动拆版机
-half-hour          [ˈhɑːfˈauә]          n. 半小时, 三十分钟
-constructive       [kәnˈstrʌktiv]       a. 建设性的, 构造上的
 daunting           [ˈdɒːntiŋ]           a. 使人畏惧的
 eagerly            []                   adv. 渴望, 热衷于, 热切
-catcher            [ˈkætʃә]             n. 捕手, 捕捉器, 受器
 rancher            [ˈræntʃә]            n. 大农场经营者, 牧场工人
-readiness          [ˈredinis]           n. 预备, 准备, 敏捷
 respiratory        [riˈspaiәrәtәri]     a. 呼吸的
-year-round         [ˈjəːˈrajnd,ˈjiә-]  a. 一年到头的, 整年的
-desperation        [ˌdespәˈreiʃәn]      n. 绝望
-hands-on           []                   adj. 动手的, 实际操作的
-interstate         [ˌintәˈsteit]        a. 国与国之间的, 州际的, 州与州之间的
-vastly             [ˈvɑːstli]           adv. 广大地, 许多, 巨大
-Roman              [ˈrәumәn]            n. 罗马人 a. 罗马人的, 罗马的
 comedian           [kәˈmiːdjәn]         n. 喜剧演员
 persona            [pәːˈsәunә]          n. 人, 人物, 角色, 外表印象, 人格面具
 undercover         [ˌʌndәˈkʌvә]         a. 秘密从事的, 秘密的, 从事间谍活动的
-real-life          [ˈriәlˈlaif,ˈriːl-]  a. 实在的, 现实的
 polished           [ˈpɒliʃt]            a. 擦亮的, 优雅的, 精良的
 genocide           [ˈdʒenәu,said]       n. 种族灭绝, 灭绝整个种族的大屠杀
-redefine           [ˌriːdiˈfain]        vt. 重新定义
-black-and-white    [ˈblækәnˈhwait]      a. 白纸黑字的, 黑白混合的
 runoff             [ˈrʌnɒf]             n. 径流(量), 决赛, 决定性竞选
-shorten            [ˈʃɒːtn]             vt. 弄短, 缩短, 减少 vi. 缩小, 变短
-professionally     []                   adv. 专业地; 内行地
-bargaining         [ˈbɑːginiŋ]          n. 讨价还价, 谈判, 交涉
 impeachment        [imˈpiːtʃmәnt]       n. 控告, 检举, 弹劾
-directive          [diˈrektiv]          a. 指导的, 指挥的, 方向的 n. 指令
-enhanced           [inˈhɑːnst. -ˈhænst] a. 增大的; 加强的
-bra                [brɑː]               n. 奶罩 
 Mediterranean      [ˌmeditәˈreiniәn]    n. 地中海, 地中海民族 a. 地中海的, 地中海民族的
-rightly            [ˈraitli]            adv. 合适地, 正当地, 正确地
-advertiser         [ˈædvәtaizә]         n. 广告商, 做广告者, 广告客户
 heterosexual       [ˌhetәrәˈsekʃuәl]    a. 异性的, 异性爱的 n. 异性恋的人
-rewrite            [riːˈrait]           vt. 重写, 改写, 改写新闻, 书面答复 vi. 修改旧作 n. 改写的作品
-Protestant         [ˈprɒtistәnt]        n. 新教徒 a. 新教的, 新教徒的
-dictatorship       [dikˈteitәʃip]       n. 独裁者之职位, 独裁, 独裁政权
+Protestant         /'prɒtɪstənt/        n. 新教徒 a. 新教的, 新教徒的
 automaker          [ˈɔːtәu,meikә]       n. <美>汽车制造商
 sitcom             [ˈsitkɔm]            abbr. 情景喜剧（situation comedy）
-lessen             [ˈlesn]              vt. 减少, 缩小, 减轻 vi. 变小
 gosh               [gɒʃ]                interj. 唉, 天啊, 天哪
 payoff             [ˈpeiɒf]             n. 发工资, 分赃, 贿赂, 盈利, 报酬, 报应, 结果, 高潮, 决定因素 a. 决定性的, 产生结果的, 支付的
 lebanese           [ˌlebәˈniːz]         a. 黎巴嫩的
@@ -789,29 +190,15 @@ plum               [plʌm]               n. 李子
 elevated           [ˈeliveitid]         a. 提高的
 inherently         [inˈhiәrәntli]       adv. 内在地, 生来地, 固有地
 boiling            [ˈbɒiliŋ]            a. 沸腾的, 激昂的 adv. 沸腾
-breakup            [ˈbreikʌp]           n. 分裂, 崩溃, 解散, 解体
 low-fat            [ləu fæt]            a. 低脂肪的
-wartime            [ˈwɒːtaim]           n. 战时
-multinational      [ˌmʌltiˈnæʃәnl]      a. 多国的, 跨国公司的 n. 跨国公司
-snapshot           [ˈsnæpʃɒt]           n. 快照, 抽点打印
 inning             [ˈiniŋ]              n. 一局, 挨次轮换, 执政期, 围垦
-long-distance      []                   a. 长途的, 长途电话的
-alarming           [әˈlɑːmiŋ]           a. 使人惊恐的, 引起惊恐的
 homer              [ˈhәumә]             n. 本垒打, 传信鸽
-politely           [pәˈlaitli]          adv. 有礼貌地, 文雅地, 客气地
-thinly             [ˈθinli]             adv. 薄, 细, 瘦
-unsuccessful       [ˌʌnsәkˈsesful]      a. 不成功的
 intentionally      []                   adv. 故意地, 有意地
 reconsider         [ˌriːkәnˈsidә]       v. 再考虑, 重新考虑
 offshore           [ɒːfˈʃɒː]            a. 海面的, 吹向海面的, 近海的 adv. 向海面
-newborn            [ˈnjuːbɒːn]          n. 婴儿 a. 新生的
-biodiversity       []                   n. 生物多样性
-explorer           [ikˈsplɒːrә]         n. 探险家, 探测者, 勘探器
 autopsy            [ˈɒːtәpsi]           n. 验尸, 尸体解剖, 尸体剖检
-incapable          [inˈkeipәbl]         a. 无能力的, 不能的
 fingernail         [ˈfiŋgәneil]         n. 手指甲
 bum                [bʌm]                n. 游荡者, 懒鬼, 闹饮 a. 没有价值的 vi. 过游民生活, 乞讨, 流浪 vt. 乞讨
-rethink            [riːˈθiŋk]           v. 再想, 重想
 fiercely           [ˈfiәsli]            adv. 猛烈地, 厉害地
 penis              [ˈpiːnis]            n. 阳物, 阴茎
 Kurdish            [ˈkәːdiʃ]            a. 库尔德人的 n. 库尔德语
@@ -827,62 +214,36 @@ rebound            [riˈbaund]           vi. 弹回, 返回, 产生事与愿违�
 aspirin            [ˈæspәrin]           n. 阿斯匹林, 乙酰水杨酸
 onstage            [ˈɔnˈsteidʒ]         adv. 在前台 a. 在前台的
 hog                [hɒg]                n. 猪, 贪婪者, 象猪般的人 v. (使)拱起
-ideally            [aiˈdiәli]           adv. 完美地, 理想地
-dependency         [diˈpendәnsi]        n. 属国, 保护地, 从属物
 broccoli           [ˈbrɒkәli]           n. 花椰菜
 resonate           [ˈrezәneit]          v. (使)共鸣, (使)共振
 Korean             [kәˈriәn]            n. 朝鲜人, 朝鲜语 a. 朝鲜人的, 朝鲜语的
 chemotherapy       [ˌkemәuˈθerәpi]      n. 化学疗法 
 erotic             [iˈrɒtik]            a. 性爱的, 性欲的, 色情的 n. 好色之徒, 色情诗
-helping            [ˈhelpiŋ]            n. 帮助, 协助, 一份
 estrogen           [ˈestrәdʒәn]         n. 雌激素
-ineffective        [ˌiniˈfektiv]        a. 失效的, 无效的, 效率低的
-polling            []                   n. 民意调查, 投票
 jersey             [ˈdʒәːzi]            n. 运动衫
-working-class      []                   a. 工人阶级的
-attribution        [әtriˈbjuːʃәn]       n. 归因, 归属, 属性
 bartender          [ˈbɑː.tendә]         n. 酒保, 酒吧侍者
 forearm            [ˈfɒːrɑːm]           n. 前臂 vt. 预先武装, 准备
 goddamn            [ˈgɔddæm]            a. 该死的, 完全的, 十足的, 讨厌的
-outreach           [autˈriːtʃ]          vt. 超出...的范围, 作超出能力所及的事而害及自己, 占...的上风, 胜过 vi. 走得太远, 伸出, 展开
-perpetrator        []                   n. 作恶者, 行凶者, 犯罪者
+perpetrator        /'pɜːpətreɪtə(r)/    n. 作恶者, 行凶者, 犯罪者
 episcopal          [iˈpiskәpәl]         a. 主教的, 主教制度的, 英国国教的
 silhouette         [ˌsiluːˈet]          n. 黑色半身侧面影, 影子, 轮廓, 剪影 vt. 描绘...成侧面影, 使照出影子来, 使仅仅显出轮廓
-revisit            [riːˈvizit]          vt. 再访, 重游, 重临 n. 再访问
 node               [nәud]               n. 节, 结节, 瘤
-moonlight          [ˈmuːnlait]          n. 月光 a. 有月光的, 月夜的
 villain            [ˈvilәn]             n. 坏人, 恶棍, 歹徒
-specially          [ˈspeʃәli]           adv. 特别地, 专门地
 casting            [ˈkɑːstiŋ]           n. 投掷, 铸成品, 角色分配
 bowling            [ˈbәuliŋ]            n. 保龄球戏
-revised            []                   a. 改进的
-industrialized     [inˈdʌstriәlaizd]    a. 工业化的
-brightness         [ˈbraitnis]          n. 光亮, 明亮, 聪明
-irresponsible      [ˌiriˈspɔnsәbl]      a. 不负责任的; 不可靠的
 chili              [ˈtʃili]             n. 干辣椒, 辣椒粉
 cardiovascular     [kɑːdiәuˈvæskjulә]   a. 心血管的
 moose              [muːs]               n. 麋, 驼鹿
-gig                [gig]                n. 旋转物, 轻便双轮马车, 赛艇, 鱼叉, 记过, 爵士乐演奏会 vi. 乘轻便双轮马车, 乘快艇, (用鱼叉)叉鱼 vt. (用鱼叉)叉, 刺激, 记过
 mutually           [ˈmjuːtʃuәli]        adv. 互相地, 互助
-unsure             [ˌʌnˈʃuә]            a. 不肯定的, 不确定的, 没有自信的
 prostitution       [ˌprɔstiˈtjuːʃәn]    n. 卖淫, 糟蹋, 滥用
-meaningless        [ˈmiːniŋlis]         a. 无意义的
-detainee           [ˌdiːteiˈniː]        n. 被拘留者, 被扣押者
 rabbi              [ˈræbai]             n. 拉比(犹太教圣职人员), 大师(对犹太学者的尊称)
-unseen             [ˌʌnˈsiːn]           a. 未被看见的, 看不见的
-Asian              [ˈeiʃәn]             n. 亚洲人 a. 亚洲的, 亚洲人的
 shiite             [ˈʃiːait]            n. 什叶派教徒
 Hindu              [ˈhinduː]            a. 印度教教徒的 n. 印度教教徒
 theoretically      [ˌθiːәˈretikli]      adv. 理论上, 理论地
 twisted            [ˈtwistid]           a. 扭曲的
 contingency        [kәnˈtindʒәnsi]      n. 偶然性, 可能性, 意外事故
-wavelength         [ˈweivleŋθ]          n. 波长
-categorize         [ˈkætigәraiz]        vt. 分类, 归类
 punk               [pʌnk]               n. 废物, 小阿飞
-postmodern         [pәustˈmɔdәn]        a. 后现代的
 cooler             [ˈkuːlә]             n. 冷却器
-benchmark          []                   n. 基准
-exhausted          [iɡˈzɔːstid]         a. 耗尽的; 疲惫的
 lousy              [ˈlauzi]             a. 污秽的, 恶心的, 生虱的
 conversely         [ˈkɔnvәːsli]        adv. 相反地
 tortilla           [tɔːˈtilә]           n. 玉米饼
@@ -893,39 +254,27 @@ consortium         [kәnˈsɒːtjәm]        n. 协会, 联合, 财团
 waterfall          [ˈwɒtәfɒːl]          n. 瀑布
 sniper             [ˈsnaipә]            n. 狙击兵
 infected           [inˈfektid]          a. 被感染的
-sic                [sik]                adv. 原文如此
-coyote             [ˈkɒiәut]            n. 丛林狼, 讨厌的家伙
+coyote             /kaɪ'oʊti/            n. 丛林狼, 讨厌的家伙
 mustache           [ˈmʌstæʃ]            n. 髭, 胡子
 thug               [θʌg]                n. 凶手, 刺客, 暴徒
-face-to-face       []                   adv. 面对面
 preheat            [priːˈhiːt]          vt. 预热
 striped            [straipt]            a. 有斑纹的
-imbalance          [imˈbælәns]          n. 不平衡, 不均衡, 失调
 moderately         [ˈmɒdәrәtli]         adv. 适当地, 适度地, 中庸地
 poker              [ˈpәukә]             n. 戳的人, 拨火棍, 纸牌戏 vt. 烙制
-restructure        [riːˈstrʌktʃә]       vt. 更改结构, 重建, 调整
-cookbook           [ˈkukbuk]            n. 食谱
 booster            [ˈbuːstә]            n. 向前推的人, 后援者, 升压器; 扩爆药; 升压机; 增压装置; 助促进剂
 broadcaster        [ˈbrɒːdkæstә]        n. 电台/电视播音员
 softball           [ˈsɒftbɒːl]          n. 垒球运动, 垒球
 liberalism         [ˈlibәrәlizm]        n. 自由主义
 lavender           [ˈlævindә]           n. 熏衣草, 淡紫色 a. 淡紫色的 vt. 用熏衣草熏
 Kurd               [kuәd]               n. 库尔德人
-disconnect         [ˌdiskәˈnekt]        vt. 使分离, 使不相连, 拆开 vi. 断开
-luckily            [ˈlʌkili]            adv. 幸运地, 幸亏, 侥幸
 Syrian             [ˈsiriәn]            n. 叙利亚人, 叙利亚语 a. 叙利亚语的, 叙利亚人的
 celery             [ˈselәri]            n. 芹菜 
 systemic           [siˈstemik]          a. 系统的, 体系的, 全身的
 gleaming           [ˈgliːmɪŋ]           a. 闪闪发光的 v. （使）闪烁, （使）闪亮( gleam的现在分词 )
-reinvent           [ˌriːinˈvent]        vt. 重新使用; 彻底改造; 重复发明（在不知他人已发明的情况下）
 fines              [fainz]              n. 细骨料; 粉末; 罚款（fine的复数）
 expanse            [ikˈspæns]           n. 宽阔区域, 宽阔, 天空
-boxer              [ˈbɒksә]             n. 拳师
-start-up           []                   n. 启动
 subdivision        [ˌsʌbdiˈviʒәn]       n. 细分, 分部; 亚门
 lighter            [ˈlaitә]             n. 点火者, 点灯工人, 打火机, 驳船 vt. 以驳船搬运
-algorithm          [ˈælgәriðm]          n. 算法
-dominican          [dәˈminikәn]         a. 多明尼加共和国的
 Turk               [tәːk]               n. 土耳其人, 土耳其马
 burner             [ˈbәːnә]             n. 灯头; 烧嘴炉; 燃烧器; 燃烧炉
 patiently          [ˈpeiʃәntli]         adv. 耐心地; 有毅力地
@@ -936,41 +285,28 @@ creditor           [ˈkreditә]           n. 债权人, 债主, 贷方
 redemption         [riˈdempʃәn]         n. 赎回, 赎身, 偿还, 拯救
 alpine             [ˈælpain]            a. 高山的, 高山生长的
 improper           [imˈprɒpә]           a. 不合适的, 错误的, 不成体统的, 不道德的
-co-founder         []                   n. (学说、组织学的)共同创立者
 plasma             [ˈplæzmә]            n. 血浆, 淋巴液, 原生质, 等离子体
 interception       [ˌintә(ː)ˈsepʃәn]    n. 拦截, 截取, 截击, 窃听, 侦听, 雷达侦察
 divided            [dәˈvaidid]          a. 分开的
 Danish             [ˈdeiniʃ]            n. 丹麦文 a. 丹麦的, 丹麦人的, 丹麦文的
-insecurity         [ˌinsiˈkjuәrәti]     n. 不安全, 不安全感
 boarding           [ˈbɒːdiŋ]            n. 寄膳, 木板
-heartbeat          [ˈhɑːtbiːt]          n. 心跳
-recognizable       [ˈrekәgnaizәbl]      a.  可认出的, 可辩认的, 可被承认的
 upscale            [ˈʌpskeil]           a. 迎合高层次消费者的; 质优价高的
 snort              [snɒːt]              vi. 喷着气弄响鼻子, 轻蔑地哼, 嘶嘶响着排气 vt. 哼着鼻子说, 喷出, 吸入(毒品) n. 喷鼻息, (潜艇的)水下通气管
-annoying           [әˈnɒiiŋ]            a. 恼人的, 讨厌的
 turnaround         [ˈtәːnә.raund]       n. 转向, 回车道, 转变
 puff               [pʌf]                n. 一阵喷烟, 肿块, 喘息 v. 喷出, 张开, 吹捧, (使)充气, 喘气, (使)骄傲, (使)膨胀
-playing            []                   n. 游戏, 玩耍, 竞技, 比赛, 扮演, 演奏, 赌博
 nightclub          [ˈnaitklʌb]          n. 夜总会
 thyme              [taim]               n. 百里香, 麝香草
 backing            [ˈbækiŋ]             n. 后退, 衬背, 后援, 支持者
 demonstrator       [ˈdemәnstreitә]      n. 论证者, 证明者, 指示者, 示威者
-superpower         [ˌsjuːpәˈpauә]       n. 超级强权, 超级大国
-modernity          [mɒˈdәːnәti]         n. 现代性, 现代状态, 现代东西
-broadcasting       [ˈbrɒːdkæstiŋ]       n. 广播 
 bitterness         [ˈbitәnis]           n. 苦味, 悲痛, 怨恨
 lantern            [ˈlæntәn]            n. 灯笼, 提灯, 航标灯 vt. 装上提灯
-ye                 [jiː]                abbr. 亚萨卡, 乒乓底板（Yasaka Extra）; 酵母抽提物（Yeast Extracts）
 curved             []                   a. 弯曲的; 弄弯的
 awfully            [ˈɒːfuli]            adv. 恶劣地, 非常地, 极端地
 clubhouse          [ˈklʌbhaus]          n. 俱乐部会所
 grapple            [græpl]              v. 抓住, 掌握 n. 抓住, 系紧, 掌握, 与...扭打
 floral             [ˈflɒːrәl]           a. 花似的, 花的, 植物的
-damaging           [ˈdæmidʒiŋ]          a. 破坏性的, 损害的
-recommended        []                   a. 被推荐的
 heightened         [ˈhaitənd]           v. （使）变高, （使）增大( heighten的过去式和过去分词 ); （使）提高; （使）加强[重]
 centerpiece        [ˈsentәpiːs]         n. 中心装饰品; 放在餐桌中央的摆饰
-seriousness        [ˈsiәriәsnis]        n. 严肃, 认真, 严重性
 dude               [djuːd]              n.<美国、加拿大>纨绔子弟, 花花公子;  <俚>男人, 家伙;  vt.<俚>打扮得讲究或花哨
 impoverished       [imˈpɔvәriʃt]        a. 穷困的, 无力的,用尽了的
 synagogue          [ˈsinәgɒg]           n. 犹太人集会, 犹太教会堂, 犹太教
@@ -979,64 +315,41 @@ lightweight        [ˈlaitweit]          n. 不到平均重量的人/物, 轻量
 farmhouse          [ˈfɑːmhaus]          n. 农舍
 hype               [haip]               n. 大肆宣传; 皮下注射
 vodka              [ˈvɒdkә]             n. 伏特加酒
-programmer         [ˈprәugræmә]         n. 程序设计员; 程序员
 downturn           [ˈdauntәːn]          n. (尤指经济方面的)衰退, 下降趋势
 coating            [ˈkәutiŋ]            n. 涂层, 上衣衣料
 democratization    []                   n. 民主化
 commanding         [kәˈmɑːndiŋ]         a. 指挥的, 威风凛凛的, 居高临下的
 churn              [tʃәːn]              n. 搅乳器 v. 搅拌, 搅动
-variability        [ˌvєәriәˈbiliti]     n. 易变, 变化性, 变异性
-promoter           [prәˈmәutә]          n. 促进者, 助长者
-indefinitely       []                   adv. 无期限地
 empowerment        [ɪmˈpaʊəmənt]        n. 授权; 许可
-faded              [ˈfeidid]            a. 已褪色的, 已凋谢的
 drummer            [ˈdrʌmә]             n. 鼓手, 旅行推销员
 playful            [ˈpleiful]           a. 爱打趣的, 多趣的, 开玩笑的, 嬉戏的
 mildly             [ˈmaildli]           adv. 柔和地, 和善地, 适度地
 nylon              [ˈnailɒn]            n. 尼龙; 聚酰胺纤维
-low-cost           [ˈlәjkɔst]           a. 价格便宜的, 廉价的
 Thai               [tai]                n. 泰国人, 泰语
-mixing             [ˈmiksiŋ]            n. 混合, 混频
 unconstitutional   [ˈʌnkɔnstiˈtjuːʃәnәl] a. 违反宪法的, 违宪的, 不合宪法规定的
-high-level         []                   a. 在高空的, 高级的, 高阶层的
-unpopular          [ˈʌnˈpɔpjulә]        a. 不得人心的, 不受欢迎的, 不流行的
-worsen             [ˈwәːsn]             vt. 使更坏, 使恶化 vi. 变得更坏, 恶化
-haircut            [ˈhєәkʌt]            n. 理发, (男子的)发式
 hefty              [ˈhefti]             a. 重的, 肌肉发达的
 crushed            []                   a. 压碎的, 倒碎的
 yep                [jep]                adv. 是（美国俚语=yes）
 handkerchief       [ˈhæŋkәtʃif]         n. 手帕, 头巾, 围巾
-thicken            [ˈθikәn]             vi. 变浓, 变厚, 变得模糊, 变为复杂 vt. 使变厚, 加强, 使模糊
 bitterly           [ˈbitәli]            adv. 怨恨地, 悲痛地, 残酷地
 dresser            [ˈdresә]             n. 梳妆台, 化妆师; 裹伤员
 alas               [әˈlæs]              interj. 唉
 mystical           [ˈmistikl]           a. 神秘的, 奥秘的
 deceased           [diˈsiːst]           a. 已故的 n. 死者
 Hispanic           [hisˈpænik]          a. 西班牙的
-dissatisfaction    [ˈdis.sætisˈfækʃәn]  n. 不满, 不平
 charismatic        [ˌkærizˈmætik]       a. 魅力, 神授的能力, 领袖人物感人的超凡魅力
-damaged            [ˈdæmidʒid]          a. 被损坏的
 entertainer        [ˌentәˈteinә]        n. 表演娱乐节目的人, 演艺人员
 nebula             [ˈnebjulә]           n. 星云, 角膜云翳
-guided             [ˈɡaidid]            a. 有指导的; 有向导的
 muffin             [ˈmʌfin]             n. 松饼
 stink              [stiŋk]              n. 臭味, 臭气 vi. 发臭味, 名声臭 vt. 用臭味赶
 demeanor           [diˈmiːnә]           n. 行为, 品行, 举止
-trade-off          []                   n. 交换, 交易, 平衡
 insurgency         [inˈsәːdʒәnsi]       n. 暴动, 起义, 叛乱
 tempting           [ˈtemptiŋ]           a. 诱惑人的, 吸引人的
 foreground         [ˈfɒːgraund]         n. 前景, 最显著的位置
 announcer          [әˈnaunsә]           n. 节目报告员, 宣告者
-thickness          [ˈθiknis]            n. 厚度, 密度, 愚钝, 含混不清
 salsa              [ˈsɑːlsә]            n. 辣调味汁; 萨尔萨舞曲
 bacterial          [bækˈtiәriәl]        a. 细菌的
 ghetto             [ˈgetәu]             n. 犹太人区
-heavyweight        [ˈheviweit]          n. 重量级拳击运动员, (非正式)有影响的要人 a. 最重量级的
-terrifying         [ˈtәrifaiiŋ]         a. 令人恐惧的; 骇人的; 极大的
-rooftop            [ˈruːftɒp]           n. 屋顶
-lighten            [ˈlaitn]             vt. 照亮, 点亮, 减轻, 使轻松, 闪出 vi. 发亮, 打闪, 变轻
-decision-making    []                   n. 决策 a. 决策的
-normative          [ˈnɒːmәtiv]          a. 标准的, 规范的, 合乎规范的
 furnishings        [ˈfәːniʃiŋz]         n. 家具陈设
 catfish            [ˈkætfiʃ]            n. 鲶鱼
 cleric             [ˈklerik]            a. 牧师的, 教士的
@@ -1044,14 +357,8 @@ affective          [әˈfektiv]           a. 情感的, 表达感情的
 hand-held          [ˈhændˌheld]         a. 手提式的, 便携式的; 掌上型的 n. 手提式的报话机; 手提的
 rogue              [rәug]               n. 恶棍, 流氓, 小淘气 vt. 欺骗 vi. 游手好闲
 piss               [pis]                vi. 小便, 下大雨, 抱怨 vt. 撒尿弄脏, 尿在...上 n. 小便
-starving           []                   a. 挨饿的; 饥饿的
-supernatural       [ˌsjuːpәˈnætʃәrәl]   a. 超自然的, 神奇的
 seating            [ˈsiːtiŋ]            n. 使就座, 就座, 座位
 amenities          []                   n. 令人愉快之事物（amenity的复数）
-eh                 [ei]                 interj. 啊!嗯!是吗?好吗?
-climber            [ˈklaimә]            n. 登山者
-commercially       []                   adv. 商业上; 通商上
-decision-making    []                   n. 决策 a. 决策的
 pneumonia          [njuːˈmәunjә]        n. 肺炎
 three-quarters     []                   a. 四分之三的, 大半身的
 stuffed            []                   已经喂饱了的; 塞满了的
@@ -1067,60 +374,34 @@ thou               [θau]                pron. 汝, 你, 尔
 crank              [kræŋk]              a. 不稳的, 脾气暴燥的, 易怒的 n. 曲柄, 奇想 vt. 装曲柄 vi. 转动曲柄
 soothing           [ˈsuːðiŋ]            a. 抚慰的, 使人宽心的
 generalization     [ˌdʒenәrәlaiˈzeiʃәn] n. 一般化, 普遍化, 概括
-farmland           [ˈfɑːmlænd]          n. 农田
-unrealistic        [ˌʌnriәˈlistik]      a. 不切实际的, 幻想的
 Latin              [ˈlætin]             n. 拉丁人, 拉丁语 a. 拉丁人的, 拉丁语的
-inaccurate         [inˈækjurit]         a. 错误的, 不准确的
-exceptionally      []                   adv. 特殊地; 异常地; 例外地
 Chile              [ˈtʃili]             n. 智利
 outweigh           [ˌautˈwei]           vt. 比...重, 比...重要, 比...有价值
 nanny              [ˈnæni]              n. 保姆; 母山羊
 demographics       [ˌdemәˈɡræfiks]      n. 人口统计资料
 tabloid            [ˈtæblɒid]           n. 小报, 小型画报, 药片, 文摘 a. 轰动性的, 扼要的, 缩略的, 小报式的
 Baptist            [ˈbæptist]           n. 施洗礼者, 浸礼会教友
-nonexistent        [ˌnɒnigˈzistәnt]     a. 不存在的
-attacker           [әˈtækә]             n. 攻击者
 downside           [ˈdaunsaid]          n. 底侧; 下降趋势
 Cuban              [ˈkjuːbәn]           a. 古巴的, 古巴人的 n. 古巴人
-automotive         [ˌɒːtәuˈmәutiv]      a. 汽车的
-amazingly          []                   adv. 令人惊讶地; 惊奇地
-gunfire            [ˈgʌnfaiә]           n. 炮火, 号炮报时, 炮击
-tier               [tiә]                n. 排, 层, 等级
-heater             [ˈhiːtә]             n. 加热器, 灯丝, 加热工
 fugitive           [ˈfjuːdʒitiv]        a. 逃亡的, 短暂的, 难捉摸的 n. 逃亡者, 亡命者, 难捕捉之物
 whore              [hɒː]                n. 娼妓 vi. 卖淫
 Lutheran           [ˈluːθәrәn]          a. 路德教会的 n. 路德教会
-unchanged          [ˌʌnˈtʃeindʒd]       a. 无变化的 
-president-elect    [ˈprezidəntiˈlekt]   n. 新当选的总统
-semiconductor      [ˌsemikәnˈdʌktә]     n. 半导体
 putt               [pʌt]                vt. 击球入洞 vi. 轻击高尔夫球 n. 轻轻一击(入洞)
 Catholicism        [kәˈθɒlisizm]        n. 天主教的信仰
 gel                [dʒel]               n. 胶化体, 凝胶 vi. 胶化, 成凝胶状
 brokerage          [ˈbrәukәridʒ]        n. 经纪人, 回扣, 佣金, 中间人业务
-endlessly          [ˈendlisli]          adv. 不断地, 无穷尽地
-handgun            [ˈhændɡʌn]           n. 手枪
-wrongdoing         [ˈrɒŋˈduːiŋ]         n. 干坏事, 坏事
-same-sex           []                    同性别的
 baseman            [ˈbeismәn]           n. 守垒员
 collegiate         [kәˈliːdʒiәt]        a. 大学的, 学院的, 集体组织的
-navajo             [ˈnævәhәj]           n. 纳瓦霍人（美国最大的印第安部落）
 Buddhist           [ˈbudist]            n. 佛教徒 a. 佛教的
-three-dimensional  [θriːˈdimenʃәnәl]    a. 三维的, 立体的, 真实的
-challenger         [ˈtʃælindʒә]         n. 挑战者
-freelance          []                   n. 自由作家, 自由投稿, 自由职业者 a. 自由投稿的
-aerospace          [ˈєәrәuspeis]        n. 航天空间, 航天技术
 mole               [mәul]               n. 痣, 鼹鼠, 防波堤, 摩尔, 克分子
-graffiti           []                   n. 墙上乱写乱画的东西
+graffiti           /ɡrə'fiːti/          n. 墙上乱写乱画的东西
 billing            [ˈbiliŋ]             n. 节目次序, 广告 [经] 开票(发票,帐单)
 bob                [bɒb]                vt. 剪短, 敲击 vi. 振动, 上下跳动 n. 短发, 悬挂的饰品, 浮子, 摆动, 轻敲, 5便士
-timetable          [ˈtaimteibl]         n. 时间表
-hard-working       []                   n. 努力工作
 cliche             [ˈkliːʃei]           n. 陈腔滥调, 凸印版 a. 陈腐的
 presbyterian       [ˌprezbiˈtiәriәn]    a. 长老派的, 长老宗的 n. 长老教教友, 长老制支持者
 differential       [difәˈrenʃәl]        a. 差别的, 特异的, 微分的 n. 差别, 两路线运费差额, 工资差额
 liberalization     [ˌlibәrәlaiˈzeiʃәn]  n. 自由主义化, 宽大
-raspberry          [ˈræzbәri]           n. 悬钩子, 呸声
-Taliban            []                   塔利班
+raspberry          [ˈræzbәri]           n. 悬钩子(树), 木莓(树), 山莓(树)
 flute              [fluːt]              n. 笛, 横笛, 凹槽 vi. 吹笛子 vt. 用长笛奏, 刻凹槽于
 inner-city         [ˈinəsiti]           n. （居民拥挤, 住屋破旧的）市中心平民区 a. 市中心的
 tavern             [ˈtævәn]             n. 酒馆, 客栈
@@ -1128,25 +409,12 @@ nipple             [ˈnipl]              n. 乳头, 奶头, 奶嘴; 螺纹接口
 cedar              [ˈsiːdә]             n. 雪松, 香椿
 all-purpose        []                   a. 通用的, 多用途的
 popcorn            [ˈpɒpkɒːn]           n. 爆米花
-beginner           [biˈginә]            n. 初学者
-flex               [ˈfleks]             vt. 弯曲, 伸缩, 折曲 vi. 弯曲 n. 屈曲, 折曲
-first-time         [ˈfəːsttaim]         a. 初次的
 outright           [ˈautrait]           a. 率直的, 完全的, 总共的, 直率的 adv. 完全地, 率直地, 立刻地, 一直向前
 chestnut           [ˈtʃesnʌt]           n. 栗子, 栗树, 栗色 a. 栗色的
-cilantro           [siˈlɑːntrәj]        n. 芫荽叶
+cilantro           [siˈlɑːntrәj]        n. 芫荽叶，香菜叶（用作调味香料）
 tremendously       [trəˈmendəslɪ]       adv. 极大地; 极端地; 极其; 非常
 stunned            []                   a. 受惊的
 kinship            [ˈkinʃip]            n. 亲属关系, 家族关系
-intellectually     []                   adv. 智力上; 知性上; 理智地
-handler            [ˈhændlә]            n. 处理者, 操作者, 拳击教练
-greatness          [ˈgreitnis]          n. 大, 巨大, 广大
-in-depth           [ˈinˈdepθ]           a. 深入的, 彻底的
-insignificant      [ˌinsigˈnifikәnt]    a. 无关紧要的, 无意义的, 琐碎的
-high-risk          [ˈhaɪˈrɪsk]          a. 高危险度的, 充满危险的
-jointly            [ˈdʒɒintli]          adv. 共同地, 连带地
-wonderfully        []                   adv. 惊人地; 极好地; 精彩地
-watcher            [ˈwɒtʃә]             n. 看守人, 守望者, 哨兵
-cross-country      [krɔsˈkʌntri; (?@) ˈkrɔːs-] a. 越野的, 横越全国的
 bunk               [bʌŋk]               n. 铺位, 废话, 逃走 vi. 逃跑, 睡在铺上 vt. 提供铺位
 sweaty             [ˈsweti]             a. 出汗的, 吃力的
 bedside            [ˈbedsaid]           n. 床边 a. 床边的, 临床的
@@ -1156,9 +424,6 @@ disadvantaged      [disәdˈvɑːntidʒ]     a. 社会地位低下的, 生活条
 punitive           [ˈpjuːnitiv]         a. 刑罚的, 惩罚性的, 结予惩处的
 storytelling       [ˈstɒːriteliŋ]       n. 说故事, 说谎话
 blender            [ˈblendә]            n. 混合者, 混合器, 搅拌器
-helper             [ˈhelpә]             n. 帮忙者, 助手, 有益的东西
-misconduct         [ˌmisˈkɒndʌkt]       vt. 办错, 使行为不端 n. 办错, 渎职, 通奸
-negotiating        []                   n. 谈判
 autograph          [ˈɒːtәugrɑːf]        n. 亲笔, 亲笔签名, 手稿 vt. 亲笔签名于, 亲笔写
 plywood            [ˈplaiwud]           n. 夹板, 胶合板
 entree             [ˈɒntrei]            n. 入场许可, 主菜
@@ -1173,10 +438,7 @@ procedural         [prәˈsiːdʒәrәl]      a. 程序上的
 pajamas            [pәˈdʒɑːmәs]         n. 睡衣, 宽松裤, 喇叭裤
 long-range         []                   a. 远程的, 远大的, 长期的
 bun                [bʌn]                n. 小圆面包, 圆髻, 屁股
-ooh                [uː]                 int. （表示惊异、热心、高兴或不悦的叫声）哦！
 Judaism            [ˈdʒuːdiizm]         n. 犹太教, 犹太文明, 犹太教信仰
-waiting            [ˈweitiŋ]            n. 等候 a. 等候的, 服侍的
-stepfather         [ˈstep,fɑːðә]        n. 继父
 hardwood           [ˈhɑːdwud]           n. 硬木, 硬木材, 阔叶材, 落叶树
 asbestos           [æsˈbestɒs]          n. 石棉
 citrus             [ˈsitrәs]            n. 柑橘属果树
@@ -1186,8 +448,6 @@ intended           [inˈtendid]          a. 有意的, 故意的 n. 未婚夫(�
 unrest             [ˌʌnˈrest]           n. 动荡, 动乱, 骚动
 experimentation    [eks,perimenˈteiʃәn] n. 实验, 试验, 实验法
 duo                [ˈdjuːәu]            n. 二重唱
-mailbox            [ˈmeilbɒks]          n. 邮筒, 邮箱, 电子邮箱
-by-product         [ˈbaiprɔdʌkt]        n. 副产品, 额外收获, 意外收获
 fend               [fend]               vt. 击退, 保护, 供养
 untouched          [ˌʌnˈtʌtʃt]          a. 未触摸过的, 未改变的, 未受影响的
 shutter            [ˈʃʌtә]              n. 百叶窗, 关闭物, 照相机快门, 关闭者 vt. 为...装百叶窗, 以百叶窗遮闭
@@ -1198,8 +458,6 @@ ballroom           [ˈbɒːlrum]           n. 舞厅, 跳舞场
 logging            [ˈlɒgiŋ]             n. (木材)采运作业, (事物状况的)记录
 knuckle            [ˈnʌkl]              n. 指节, 蹄爪, 膝关节 v. 以指节打, 以手指射
 bladder            [ˈblædә]             n. 膀胱, 囊
-confidentiality    []                   n. 保密性, 机密性
-reappear           [ˌriːәˈpiә]          vi. 再出现
 booming            [ˈbuːmiŋ]            a. 急速发展的
 on-site            []                   a. 现场的, 就地的
 gravy              [ˈgreivi]            n. 肉汁, 外快
@@ -1217,23 +475,17 @@ pineapple          [ˈpain.æpl]          n. 凤梨, 菠萝, 失业救济金
 depressing         [diˈpresiŋ]          a. 抑压的, 沉闷的, 阴沉的
 anthrax            [ˈænθræks]           n. 炭疽
 alcoholism         [ˈælkәhɒlizәm]       n. 酗酒, 酒精中毒
-racer              [ˈreisә]             n. 比赛者, 游蛇属黑蛇
-underwater         [ˈʌndәˈwɒːtә]        a. 在水中的 adv. 在水下
 malaria            [mәˈlєәriә]          n. 疟疾, 瘴气
 scam               [skæm]               n. 骗局, 诡计; 故事
 crossroads         []                   n. 十字路口, 交叉路口, 聚会的中心地点, (喻)需作抉择的重要关头, 紧要关头
 fallout            [ˈfɒːlaut]           n. 原子尘的降下,  附带结果
 rapper             [ˈræpә]              n. 敲门人, (美)(非正式)控告人, 证人, 检举人, 说唱歌手
 cartridge          [ˈkɑːtridʒ]          n. 弹药筒, 弹药, 一卷软片, 墨粉鼓, 盒式磁带机
-one-year           []                   一年
-unsafe             [ˌʌnˈseif]           a. 不安全的, 不安稳的, 危险的
-last-minute        [ˈlɑːstˈminit;ˈlæst-] a. 最后的, 紧急关头的
 Indonesian         [ˌindәuˈniːʒәn]      a. 印尼的 n. 印尼人, 印尼语群
 rocker             [ˈrɒkә]              n. 摇的人, 摇杆, 摇滚乐
 Arabic             [ˈærәbik]            n. 阿拉伯语 a. 阿拉伯语的, 阿拉伯人的, 阿拉伯式的
 reaffirm           [ˌriːәˈfәːm]         vt. 重申, 再确认
 flea               [fliː]               n. 跳蚤
-jumper             [ˈdʒʌmpә]            n. 跳跃者, 无袖连衣裙
 bounty             [ˈbaunti]            n. 慷慨, 宽大, 礼物; 奖励金, 补贴
 fatty              [ˈfæti]              a. 肥胖的, 脂肪的, 含脂肪的
 open-ended         []                   a. 可修订的, 可调整的, 无确定答案的, 末端开口的, 自由回答的
@@ -1243,61 +495,35 @@ blindness          [ˈblaindnis]         n. 盲目, 失明, 愚昧
 camper             [ˈkæmpә]             n. 露营者
 cranberry          [ˈkrænbәri]          n. 越橘
 gala               [ˈgeilә]             n. 节日, 祝贺
-outnumber          [ˌautˈnʌmbә]         vt. 数目超过, 比...多
-award-winning      [əˈwɔːd ˈwɪnɪŋ]      a. 成功的, 优等的, 一流的
 punctuate          [ˈpʌŋktjueit]        vt.vi. 给文章加标点, 加标点符号 vt. 强调, 加强, (常用被动)不时打断
 sliding            [ˈslaidiŋ]           a. 滑行的, 变化的
-portal             [ˈpɒːtl]             n. 入口, 大门 a. 肝门的
+portal             [ˈpɒːtl]             n. 大门，入口
 motivational       [ˌmәutiˈveiʃәnәl]    a. 动机的, 激发性的 
-motherhood         [ˈmʌðәhud]           n. 母道, 母性, 母亲们
-amused             [әˈmjuːzd]           a. 愉快的, 被逗乐的
 autism             [ˈɒːtizm]            n. 孤独症, 自我中心主义
 covered            [ˈkʌvәd]             a. 隐蔽着的, 掩藏着的, 有屋顶的
 Iranian            [iˈreiniәn]          a. 伊朗的, 伊朗语系的 n. 伊朗人, 伊朗语
 backer             [ˈbækә]              n. 援助者, 支持者, 背书人
 outpost            [ˈautpәust]          n. 前哨, 前哨部队, 前哨基地
-textual            [ˈtekstʃuәl]         a. 文本的, 原文的, 文字上的
 cartel             [kɑːˈtel]            n. 卡特尔, 企业联合, 俘虏交换条约, 决斗挑战书
 curly              [ˈkәːli]             a. 拳曲的, 卷毛的, 弯曲的
 Martian            [ˈmɑːʃiәn]           n. 火星人 a. 火星的
-bedtime            [ˈbedtaim]           n. 就寝时间
-unreasonable       [ˌʌnˈriːznәbl]       a. 不合理的, 过度的, 不切实际的
 conservatism       [kәnˈsәːvәtizәm]     n. 保守, 守旧性, 保守主义,保守党
-reprint            [ˈriːprint]          n. 再版, 翻版, 重印 vt. 再版, 翻版
-rename             [ˌriːˈneim]          vt. 重新命名, 再命名, 给...改名 [计] 重命名; DOS内部命令ː更改文件名
 gaming             [ˈgeimiŋ]            n. 赌博, 赌赛
 fundamentalist     [ˌfʌndәˈmentәlist]   n. 基要主义者
 lineman            [ˈlainmәn]           n. 线务员, 线路工人, 护路工, 养路工
-richness           [ˈritʃnis]           n. 富裕, 丰富, 肥沃
-listening          [ˈlisniŋ]            n. 听, 监听 a. 助听用的
-unofficial         [ˌʌnәˈfiʃәl]         a. 非正式的, 非官方的
-drugstore          [ˈdrʌgstɒː]          n. 药房, 杂货店
 Haitian            [ˈheitiәn]           a. 海地的 n. 海地人, 海地语
-firsthand          [ˈfәːstˈhænd]        a. 直接的, 直接得来的, 直接采购的 adv. 直接地
 twitch             [twitʃ]              vi. 急拉, 抽搐, 阵痛 vt. 急拉, 攫取, 抽动 n. 急拉, 抽搐, 阵痛
 pup                [pʌp]                n. 小狗, 幼畜, 令人讨厌的年轻人 v. 生小狗
-ex-wife            [ˈekswaɪf]           n. 前妻
 shoreline          [ˈʃɒːlain]           n. 海岸线
 powerless          [ˈpauәlis]           a. 无力的, 无权的, 无效能的
 limo               [ˈlimәu]             n. 豪华轿车
-preferably         [ˈprefәrәbli]        adv. 更可取地, 更好地, 更合意地
-needless           [ˈniːdlis]           a. 不需要的, 不必要的
-inconsistency      [ˌinkәnˈsistәnsi]    n. 不一致, 易变, 前后矛盾
 optics             [ˈɒptiks]            n. 光学
-horseback          [ˈhɒːsbæk]           n. 马背 adv. 在马背上, 骑在马上
-world-class        []                   a. 世界级的
 cracked            [krækt]              a. 破碎的, 破裂的, 声音嘶哑的, 有裂缝的
 hastily            [ˈheistili]          adv. 匆忙地, 急速地, 急躁地
 pluralism          [ˈpluәrәlizm]        n. 多数状态, 多重性, 多元论, 兼任
 Hebrew             [ˈhiːbruː]           n. 希伯来人, 希伯来语, 犹太人 a. 希伯来人的, 希伯来语的
-famously           [ˈfeimәsli]          adv. 极好地, 非常令人满意地
-socialization      [ˌsәuʃәlaiˈzeiʃәn]   n. 社会化, 社会主义化
-heavenly           [ˈhevnli]            a. 天上的, 神圣的, 天国似的
 pouch              [pautʃ]              n. 小袋, 小包, 眼袋, 邮袋, 育儿袋 vt. 装...入袋中, 使成袋状 vi. 成袋状
 saudi              [ˈsajdi]             a. 沙乌地阿拉伯（人或语）的
-twenty-one         []                   num. 二十一, 二十一个 n. 二十一, 二十一个, 二十一点牌戏
-cherokee           [ˌtʃerәˈkiː]         n. 彻罗基族人（北美印第安人之一族）
-caring             [ˈkεәriŋ]            a. 有同情心的; 表示或感到关怀或关心的
 residency          [ˈrezidәnsi]         n. 住处; 住院医生实习期
 self-determination [ˈselfdi,tәːmiˈneiʃәn] n. 自主, 自决, 民族自决
 cutter             [ˈkʌtә]              n. 裁剪者, 切割者, 切割器, 剪切机
@@ -1311,7 +537,6 @@ one-way            []                   a. 单行道的, 单程的, 单方面的
 reshape            [riːˈʃeip]           vt. 改造, 使成新的形状, 打开新局面 vt. 整形 vi. 整形
 stud               [stʌd]               n. 装饰钮扣, 大头钉, 领扣, 种马 vt. 镶嵌, 点缀, 散布
 barefoot           [ˈbєәfut]            a. 赤脚的
-ordinarily         [ˈɒːdinәrili]        adv. 通常地, 一般地
 platoon            [plәˈtuːn]           n. 排, 一组, 一群人
 losing             [ˈluːziŋ]            a. 损失的, 输的 n. 失败, 损失
 magician           [mәˈdʒiʃәn]          n. 魔术家, 幻术家, 术士
@@ -1321,41 +546,28 @@ carcass            [ˈkɑːkәs]            n. 尸体, 残骸
 state-of-the-art   []                   a. 已经发展的, 最新型的
 footing            [ˈfutiŋ]             n. 站稳, 立足点, 立场, 关系
 trendy             [ˈtrendi]            a. 随潮流的, 时髦的, 赶潮流的
-man-made           []                   a. 人造的
 screenplay         [ˈskriːnplei]        n. 电影剧本
 motorist           [ˈmәutәrist]         n. 开汽车者, 驾车旅行的人
 unthinkable        [ˌʌnˈθiŋkәbl]        a. 不能考虑的, 不能想像的, 想像不到的, 不合理的
 lining             [ˈlainiŋ]            n. 衬里, 内层, 衬垫
 upbeat             [ˈʌpbiːt]            n. 弱拍, 上升, 兴旺 a. 上升的, 乐观的
 flier              [ˈflaiә]             n. 飞行者, 快船, 快车, 投机买卖, 孤注一掷
-counting           [ˈkauntiŋ]           n. 计算, 计数
-misconception      [ˌmiskәnˈsepʃәn]     n. 误解
 fundamentalist     [ˌfʌndәˈmentәlist]   n. 基要主义者
 fairway            [ˈfєәwei]            n. 航路
 dysfunction        [disˈfʌŋkʃәn]        n. 机能不良, 机能障碍
-rearrange          [ˌriːәˈreindʒ]       vt. 再排列, 重新整理
 doughnut           [ˈdәunʌt]            n. 油炸圈饼, 环状物
 flurry             [ˈflәːri]            n. 疾风, 飓风, 慌张 vt. 使恐慌, 使激动 vi. 慌张
-forty-five         []                   n. 四十五口径的手枪, 每分钟四十五次转速的唱片
 tangled            []                   a. 纠缠的, 紊乱的
 algae              [ˈælgiː]             pl. 藻类, 海藻
-unmarried          [ˌʌnˈmærid]          a. 未婚的, 单身的
-sweetness          [ˈswiːtnis]          n. 甜蜜, 芳香, 美妙
 healer             [ˈhiːlә]             n. 医治者, 治疗物
-one-on-one         [wʌn ɔn wʌn]         a. 面对面的; 一对一的; 仅限两人之间的
 dealership         [ˈdiːlәʃip]          n. 代理权, 商品经销特许权
-blueberry          [ˈbluːbәri]          n. 乌饭树
 motionless         [ˈmәuʃәnlis]         a. 不动的, 静止的
-mango              [ˈmæŋgәu]            n. 芒果
-traveling          [ˈtrævliŋ]           a. 旅行的, 旅行用的, 移动的
 caffeine           [ˈkæfiːn]            n. 咖啡因, 咖啡碱
 freshwater         [ˈfreʃwɔːtә(r)]      a. 江河湖泊的, 淡水的
-cherokee           [ˌtʃerәˈkiː]         n. 彻罗基族人（北美印第安人之一族）
 waterway           [ˈwɒtәwei]           n. 航道, 水路
 wizard             [ˈwizәd]             n. 男巫, 术士, 奇才 a. 男巫的, 巫术的
 borrower           [ˈbɒrәuә]            n. 借用人, 剽窃者
 downhill           [ˈdaunˈhil]          a. 下坡的 adv. 下坡, 向下
-eldest             [ˈeldist]            a. 最年长的, 排行中第一的 n. 最年长者, 排行中第一者
 rectangular        [rekˈtæŋgjulә]       a. 成直角的, 矩形的
 best-known         [ˈbestnˈəʊn]         a. 众所周知的, 著名的
 lunge              [lʌndʒ]              n. 刺, 刺进, 跃进, 套马索 v. 突进, 刺
@@ -1364,16 +576,12 @@ alligator          [ˈæligeitә]          n. 短吻鳄
 rum                [rʌm]                n. 朗姆酒 a. 古怪的, 奇特的
 intimately         [ˈintimitli]         adv. 亲切地, 亲密地, 个人性地
 terrified          [ˈterifaid]          a. 受惊吓的; 感到恐惧的
-two-way            [ˈtuːˈwei]           a. 双行道的, 两路的, 相互的
 riches             [ˈritʃiz]            pl. 财富, 财产, 富有
 promotional        [prәuˈmәuʃәnl]       a. 增进的
 colonist           [ˈkɒlәnist]          n. 殖民地居民, 移民
 robber             [ˈrɒbә]              n. 强盗, 盗贼
 generating         [ˈdʒenә,reitiŋ]      a. 产生的, 生成的
 admirer            [әdˈmaiәrә]          n. 钦佩者, 仰慕者, 求爱者
-misguided          [misˈgaidid]         a. 被误导的
-mailing            [ˈmeiliŋ]            n. 邮寄, 投递, 邮件, 农场租金
-outburst           [ˈautbәːst]          n. 爆发, 突发, 破裂, 暴乱
 juggle             [dʒʌgl]              vi. 玩戏法, 行骗, 篡改 vt. 耍弄, 歪曲, 篡改 n. 玩戏法, 魔术, 欺骗
 plainly            [ˈpleinli]           adv. 清楚地, 明白地, 简单地, 朴素地, 直率地, 坦白地
 casket             [ˈkɑːskit]           n. 首饰盒, 小箱, 匣子, 棺材
@@ -1395,25 +603,15 @@ apiece             [әˈpiːs]             adv. 就每个而论, 各
 soaring            [ˈsɔːriŋ ˈsɔәr-]     a. 高飞的, 翱翔的, 高耸入云的, 崇高的, 高涨的
 swollen            [ˈswәulәn]           a. 肿大的, 涨水的, 夸张的, 骄傲的
 protector          [prәˈtektә]          n. 保护者, 保护物, 保护装置
-inefficient        [ˌiniˈfiʃәnt]        a. 无效率的, 无能的 
-implicitly         []                   adv. 含蓄地, 暗示地; 无疑问地, 无保留地
 unto               [ˈʌntu]              prep. 到, 对, 直到
-unnatural          [ˌʌnˈnæʃәrәl]        a. 不自然的, 反常的, 不近人情的
 grunt              [grʌnt]              vi. 作呼噜声 vt. 咕哝 n. 呼噜声, 咕哝
 Arabic             [ˈærәbik]            n. 阿拉伯语 a. 阿拉伯语的, 阿拉伯人的, 阿拉伯式的
-comer              [ˈkʌmә]              n. 来的人, 新来者, 有成功希望的人
-discontent         [ˌdiskәnˈtent]       n. 不满
-marketer           [ˈmɑːkitә]           n. 赶集者, 市场商人
-hippie             [ˈhipiː]             n. 嬉皮士
-vinyl              [ˈvainil]            n. 乙烯基
-hiker              [ˈhaikә]             n. 徒步旅行者
 close-up           [ˈklәuzʌp]           n. 特写镜头, 仔细的观察, 小传
 coaster            [ˈkәustә]            n. 沿海航行者/贸易者, 沿海航船, 带轮银盘, 杯托, (酒瓶)垫子
 treadmill          [ˈtredmil]           n. 踏车, 令人厌倦的工作
 centralized        [ˈsentrәlaizd]       a. 集中的; 中央集权的
 geologist          [dʒiˈɔlәdʒist]       n. 地质学家, 地质学者
 stained            [steind]             a. 沾污的, 褪色的, 着色的, 染色的
-newfound           [ˈnjuːfajnd]         a. 新发现的
 abdomen            [ˈæbdәmen]           n. 腹部
 prescribed         []                   a. 规定的
 bearded            [ˈbiәdid]            a. 有须的, 有胡子的
@@ -1450,29 +648,22 @@ darkened           [ˈdaːkənd]           v. 变暗, 转黑
 pediatrician       [ˌpiːdiәˈtriʃәn]     n. 儿科医生, 儿科专家
 uninsured          [ˈʌninˈʃuәd]         a. 未保险的, 未经保险的
 mahogany           [mәˈhɑːgәni]         n. 桃花心木, 红褐色 [机] 桃花心木
-wallpaper          [ˈwɒːlpeipә]         n. 壁纸, 墙纸 v. 贴墙纸
-visibly            [ˈvizәbli]           adv. 看得见地, 明显地, 明白地
 reimbursement      [ˌriːimˈbәːsmәnt]    n. 付还, 退还, 偿付
 diocese            [ˈdaiәsis]           n. 主教教区
 tracking           [ˈtrækiŋ]            n. [计] 跟踪, 追踪
 ensuing            []                   a. 接著发生的
 ethnographic       [ˌeθnəˈɡræfɪk]       a. 人种志的
-good-looking       []                   a. 相貌好看的, 吸引人的
 combustion         [kәmˈbʌstʃәn]        n. 燃烧, 骚动
 holistic           [hәjˈlistik]         a. 整体的, 全盘的
-light-year         []                   n. 光年
 straddle           [ˈstrædl]            n. 跨坐, 观望 v. 跨坐, 两腿叉开坐, 观望
 Norwegian          [nɒːˈwiːdʒәn]        n. 挪威人, 挪威语 a. 挪威的, 挪威人的, 挪威语的
 consulting         [kәnˈsʌltiŋ]         a. 商议的, 咨询的, 任专职顾问的
 exaggerated        [igˈzædʒәreitid]     a. 夸大的, 夸张的, 言过其实的
-called             []                   a. 被呼叫的
-problem-solving    []                    问题解决
 wreath             [riːθ]               n. 花圈, 花环, 圈状物
 warhead            [ˈwɒːhed]            n. 弹头
 kinda              [ˈkaindә]            adv. 有几分; 有一点
 wooded             [ˈwudid]             a. 树木繁茂的
 flop               [flɒp]               n. 砰然落下, 拍击声, 失败 vi. 笨重地摔, 猛落 vt. 笨拙地抛下 adv. 噗通
-nighttime          []                   n. 夜间
 arm-up             []                   n. 准备动作, 热身, 预热, 热身赛
 hard-core          []                   a. 顽固不化的, 赤裸裸描写的, 不愿改变的
 revel              [ˈrevl]              n. 作乐, 狂欢 vi. 狂欢作乐, 陶醉, 着迷 vt. 耗费
@@ -1480,7 +671,6 @@ blackness          [ˈblæknis]           n. 黑, 黑色, 邪恶
 impaired           [imˈpεәd]            a. 受损的
 lagoon             [lәˈguːn]            n. 环礁湖, 近海岸的浅水区, 泻湖, 咸水湖
 worn               [wɒːn]               a. 用旧的, 穿旧的
-unavailable        [ˌʌnәˈveilәbl]       a. 得不到的, 不能利用的, 无用的
 buyout             [ˈbaɪaʊt]            n. 全部买下; 买下（公司或产业）
 scorer             [ˈskɒːrә]            n. 记录员, 刻痕者
 unmistakable       [ˈʌnmisˈteikәbl]     a. 不会弄错的, 不会被误解的, 明白无误的
@@ -1489,24 +679,12 @@ condominium        [ˌkɒndәˈminiәm]      n. 共同统治; 财产共有权; �
 decor              [ˈdeikɔː(r) ]        n. 装饰, 布置
 wiring             [ˈwaiәriŋ]           n. 线路, 接线
 insofar            [ˌinsәuˈfɑː]         adv. 在...的范围
-usefulness         [ˈjuːsfjlnis]        n. 有用, 有益
-videotape          []                   n. 录相磁带 vt. 把电视节目录在录像磁带上
-unanswered         [ˌʌnˈɑːnsәd]         a. 未答复的, 无反应的
-bullshit           [ˈbulʃit]            n. 胡说
 vineyard           [ˈvinjәd]            n. 葡萄园
 worldview          [ˈwɜːldvjuː]         n. 世界观
-connected          [kәˈnektid]          a. 连接的, 连贯的, 有联系的, 有关系的
 photon             [ˈfәutɒn]            n. 光子, 光量子
-acknowledgment     [әkˈnɔlidʒmәnt]      n. 承认, 认可, 答谢, 谢礼, 收到的通知, 收到的回音 [计] 肯定, 确认认可
 rounded            [ˈraundid]           a. 圆形的, 滚圆的, 完整的, 圆润的
 waterfront         [ˈwɔːtәfrʌnt]        n. 水边, 滨水区, 滩, 海滨, 江边
 moss               [mɒs]                n. 苔藓, 泥沼 vt. 使长满苔藓
-rapist             [ˈreipist]           n. 强奸犯 
-abandonment        [әˈbændәmәnt]        n. 放弃, 抛弃, 放纵
-marking            [ˈmɑːkiŋ]            n. 标记, 记号; （支票的）认付;  斑纹;  批改, 打分
-suspended          []                   a. 悬浮的; 暂停的, 缓期的（宣判）
-finishing          [ˈfiniʃiŋ]           a. 最后的, 终点的
-showing            [ˈʃәuiŋ]             n. 放映; 表演; 陈列
 serum              [ˈsiәrәm]            n. 浆液, 血清, 乳清
 fetal              [ˈfiːtәl]            a. 胎的, 胎儿的
 runaway            [ˈrʌnә.wei]          n. 逃跑, 逃走的人, 逃亡, 压倒性的优胜 a. 逃亡的, 逃走的
@@ -1516,7 +694,6 @@ frying             [ˈfraɪɪŋ]            n. 油炸, 油煎
 short-lived        []                   a. 短命的, 短暂的
 kitten             [ˈkitn]              n. 小猫, 淘气姑娘 vt. 产仔, 卖弄风情
 driven             [ˈdrivn]             a. 有紧迫感的
-realist            [ˈriәlist]           n. 现实主义者, 写实主义者, 实在论者
 chopper            [ˈtʃɒpә]             n. 切物之人, 斧头, 切肉大刀; 断路器; 斩波器; 断续器 [化] 切碎机; 切...机; 断裂剂(热原子化学)
 rehab              [ˈriːhæb]            n. 修复（等于rehabilitation）
 analog             [ˈænәlɔg]            n. 模拟
@@ -1536,11 +713,6 @@ enrichment         [inˈritʃmәnt]        n. 丰富, 肥沃, 富集
 flowing            [flәuiŋ]             a. 流动的, 如流的, 平滑的
 unfairly           []                   adv. 不正当地; 不公平地
 pediatric          [ˌpiːdiˈætrik]       a. 小儿科的
-gateway            [ˈgeitwei]           n. 门, 通路 [计] 网关
-template           [ˈtemplit]           n. 样板, 模板, 垫木
-congratulations    []                   n. 祝贺词, 祝贺语
-thriving           []                   a. 兴旺的, 旺盛的, 繁荣的
-adjustable         [әˈdʒʌstәbl]         a. 可调节的
 stakeholder        [ˈsteikhәuldә]       n. 赌金保管者, 股东
 clipping           [ˈklipiŋ]            n. 剪断, 剪裁, 剪下物, 剪报 a. 第一流的, 头等的, 极好的, 快速的
 mashed             []                   a. 捣烂的; 被捣成糊状的; 捣碎的
@@ -1551,35 +723,22 @@ pickle             [ˈpikl]              n. 盐卤, 腌汁, 泡菜, 困境, 讨�
 watchdog           [ˈwɒtʃdɒg]           n. 看门狗, 监察人
 cosmetics          []                   n. 化妆品（cosmetic的复数）; 装饰品
 pitching           [ˈpitʃiŋ]            n. 护坡(石), 铺地石, 俯仰, (船的)上下颠簸
-imperfect          [imˈpәːfikt]         a. 不完美的, 不完整的, 减弱的, 未完成过去时的 n. 未完成体
-mobilization       [ˌmәubilaiˈzeiʃәn]   n. 动员, 调动, 活动化
 Marxist            [ˈmɑːksist]          n. 马克思主义者 a. 马克思主义的 
-comparatively      [kәmˈpærәtivli]      adv. 比较地, 相对地
 villa              [ˈvilә]              n. 别墅
 proactive          [ˌprәuˈæktiv]        a. 积极主动的〈心理〉前摄的
 stimulating        [ˈstimjuleitiŋ]      a. 刺激的, 有刺激性的
 spotted            [ˈspɒtid]            a. 有斑点的, 斑纹的, 弄污了的
 ringing            [ˈriŋiŋ]             a. 响亮的, 明白的, 清脆的, 干脆的
-bikini             [biˈkiːni]           n. 大爆炸, 比基尼泳装
 infusion           [inˈfjuːʒәn]         n. 注入, 泡制, 注入物
 appointee          [ә.pɒinˈtiː]         n. 被指定的人, 被任命者
 halve              [hɑːv]               vt. 二等分, 对半分享, 把...减半
 psychosocial       [ˌsaikәuˈsәuʃәl]     社会心理的(指社会环境影响下的个人心理变化)
 coordinated        []                   vt. 调节; 调整; 整理; 使调和（coordinate的过去分词）
-brutally           []                   adv. 残忍地, 蛮横地
-approved           [әˈpruːvd]           a. 被认可的; 经过检验的
-contaminated       [kәnˈtæmineitid]     a. 受污染的; 弄脏的
-shampoo            [ʃæmˈpuː]            n. 洗头, 洗发剂 vt. 洗头, 洗发
-self-defense       [selfdiˈfens]        n. 自卫, 自卫术, 自卫权
-in-house           [inˈhaus]            a. 内部的 adv. 内部地
 self-interest      [ˈselfˈintәrist]     n. 利己主义, 私利
 concentrated       [ˈkɒnsәntreitid]     a. 集中的, 浓缩的 [建] 浓的
-biker              [ˈbaikә(r)]          n. 骑自行车/摩托车的人
 squadron           [ˈskwɒdrәn]          n. 骑兵营, 分遣队, 小舰队
-unpaid             [ˌʌnˈpeid]           a. 未付款的, 不支薪水的
 baker              [ˈbeikә]             n. 面包师
 footnote           [ˈfutnәut]           n. 脚注
-downstream         [ˈdaunˈstriːm]       adv. 下游地 a. 下游的
 breathtaking       [ˈbreθ.teikiŋ]       a. 惊人的, 惊险的
 folding            [ˈfәuldiŋ]           a. 可折叠的
 vector             [ˈvektә]             n. 矢量, 传病媒介 vt. (用无线电)导引, 给...导航
@@ -1591,7 +750,6 @@ fir                [fәː]                n. 枞树, 杉木 [机] 枞木
 cider              [ˈsaidә]             n. 苹果汁, 苹果酒
 holler             [ˈhɒlә]              vi. 叫喊, 发牢骚, 抱怨 vt. 大声叫喊 n. 叫喊
 vigil              [ˈvidʒil]            n. 警戒, 监视, 守夜
-re-elect           [ˈriːiˈlekt]         vt 重选, 重新推选
 modernism          [ˈmɒdәnizm]          n. 现代作风, 现代主义, 现代思想
 stairway           [ˈstєәwei]           n. 楼梯, 阶梯
 orthodoxy          [ˈɒːθәdɒksi]         n. 正统说法, 正教, 信奉正教
@@ -1608,50 +766,33 @@ Colombian          [kәˈlæmbiәn]         n. 哥伦比亚人 a. 哥伦比亚�
 locked             [lɔkt]               a. 上锁的; 不灵活的; 下定决心的
 resurrection       [ˌrezәˈrekʃәn]       n. 复活, 复兴, 恢复, 掘墓盗尸
 finalist           [ˈfainәlist]         n. 决赛选手, 决赛队
-sincerely          [sinˈsiәli]          adv. 真诚地
-handmade           [ˈhændmeid]          a. 手工的, 手制的
 fragmented         [ˈfræɡmentid]        a. 成碎片的; 片断的
 babe               [beib]               n. 小孩, 天真幼稚的人
 coronary           [ˈkɒrәnәri]          a. 冠的, 花冠的, 冠状的
 evangelical        [ˌiːvænˈdʒelikәl]    a. 福音派教会的 n. 福音派信徒
 offshore           [ɒːfˈʃɒː]            a. 海面的, 吹向海面的, 近海的 adv. 向海面
 martini            [mɑːˈtiːni]          n. 马提尼（一种鸡尾酒, 等于Martini）
-unresolved         [ˈʌnriˈzɔlvd]        a. 未解决的, 未澄清的, 未议决的, 未分解的
-gambler            [ˈgæmblә]            n. 赌博者, 赌徒, 投机商人
 patriarchal        [ˌpeitriˈɑːkәl]      a. 家长的, 族长的, 由族长统治的
 kosher             [ˈkәuʃә]             a. 合犹太人戒律的, 清净的, 合适的
-coastline          [ˈkәustlain]         n. 海岸线
 accreditation      [ә.krediˈteiʃәn]     n. 委派, 信托, 鉴定合格
-HO                 [hәu]                interj. 嗬(表示惊讶或引人注意) n. 钬(67号元素)
-rebuilding         []                   n. 重建
 curricular         [kәˈrikjulә]         a. 课程的
-slowdown           [ˈslәudaun]          n. 降低速度, 减速
 sectarian          [sekˈtєәriәn]        a. 宗派的, 党派的, 偏狭的 n. 宗派成员, 闹宗派的人
 upbringing         [ˈʌp.briŋiŋ]         n. 教养
 sixteenth          [ˈsiksˈtiːnθ]        num. 第十六, 十六分之一
 strategically      [strәˈtiːdʒikәli]    adv. 在战略上, 颇策略地
 minivan            [ˈminivæn]           n. 小型货车
 festivity          [fesˈtiviti]         n. 节日, 喜庆日, 欢宴, 欢庆
-likeness           [ˈlaiknis]           n. 相象, 相似物, 样子
-drinker            [ˈdriŋkә]            n. 饮者, 酒徒
 inspiring          [inˈspaiәriŋ]        a. 鼓舞人心的
 savior             [ˈseivjә]            n. 救助者, 救世主, 救星
 polymer            [ˈpɒlimә]            n. 聚合物, 聚合体, 高分子, 大分子
-subgroup           [ˈsʌbgruːp]          n. 小群, 隶属的小组织, 子群 [化] 族; 族周期表; 副族(指周期表中B族)
-reflex             [ˈriːfleks]          n. 反射, 反射光, 映像 a. 反射的, 折转的 vt. 使折转, 使折回
 Spaniard           [ˈspænjәd]           n. 西班牙人
-intolerance        [inˈtɒlәrәns]        n. 不宽容, 偏狭, 不容许相反的言论 [医] 不耐[性]
 ivy                [ˈaivi]              n. 常春藤 a. 学院的, 抽象的
 cheerleader        [ˈtʃiәliːdә]         n. 啦啦队长
 sealed             [siːld]              a. 未知的, 密封的, 盖印的, 经盖章批准或证实的
 disproportionate   [ˌdisprәˈpɒːʃәnit]   a. 不成比例的
 bailout            [ˈbeilaut]           n. 跳伞
 Portuguese         [ˌpɒːtjuˈgiːz]       n. 葡萄牙人, 葡萄牙语 a. 葡萄牙的, 葡萄牙人的, 葡萄牙语的
-anti-war           [ˈæntiˈwɔː]          adj. 反战的
-dissatisfied       []                   a. 不满的, 显出不满的
 herring            [ˈheriŋ]             n. 青鱼, 鲱
-unbearable         [ˌʌnˈbєәrәbl]        a. 无法忍受的, 承受不住的
-supplemental       [ˌsʌpliˈmentl]       a. 补足的, 追加的
 packing            [ˈpækiŋ]             n. 包装, 填垫材料, 封函, 行李
 ion                [ˈaiәn]              n. 离子
 wares              []                   n. 货物, 商品
@@ -1662,23 +803,18 @@ two-story          [tuː ˈstɔːri]         两层的
 tofu               [ˈtәufuː]            n. 豆腐
 abuser             []                   n. 滥用者
 hospice            [ˈhɒspis]            n. 旅客住宿处, 收容所
-beta               [ˈbeitә]             n. 希腊字母表的第二个字母
-underwater         [ˈʌndәˈwɒːtә]        a. 在水中的 adv. 在水下
 smoked             [smәukt]             a. 熏制的
 clad               [klæd]               vt. 在金属外包上另一种金属 a. 包层金属的
 scarlet            [ˈskɑːlit]           n. 猩红色, 绯红色, 红衣 a. 绯红色的, 鲜红色的
 jihad              [dʒiˈhɑːd]           n. 讨伐异教徒, 拥护运动
-brother-in-law     []                   n. 姊妹的丈夫
 rosemary           [ˈrәuzmәri]          n. 迷迭香
 unintended         [ˈʌninˈtendid]       a. 不是存心的, 无心的, 非故意的
 squirm             [skәːm]              vi. 蠕动, 辗转不安 n. 蠕动
-beaten             [ˈbiːtn]             a. 被打败了的, 筋疲力竭的, 敲平的, 踏平的
 contaminant        [kәnˈtæminәnt]       n. 污染物, 沾染物
 grad               [ɡræd]               n. 毕业生; 校友
 pharmacist         [ˈfɑːmәsist]         n. 药师, 药品商, 药商, 药剂师
 avocado            [ˌævәuˈkɑːdou]       n. 鳄梨, 鳄梨树
 getaway            [ˈgetә,wei]          n. 逃走, 起步
-unused             [ˌʌnˈjuːzd]          a. 不用的, 不在使用的, 从未用过的
 casserole          [ˈkæsәrәul]          n. 焙盘, 砂锅菜
 predictive         [priˈdiktiv]         a. 预言性的, 成为前兆的
 plaid              [plæd]               n. 格子花呢披风, 格子花呢, 格子图案
@@ -1703,7 +839,6 @@ cutback            [ˈkʌtbæk]            n. 减少, 情节倒叙, 短截植物
 present-day        []                   a. 现代的, 当今的, 现时的
 reorganization     [ˈriː,ɔːgәnaiˈzeiʃәn] n. 改组; 改编; 重新制定
 aye                [ai]                 n. 赞成票, 投赞成票者 adv. 永远 interj. (表决时说)赞成
-incremental        [ˌinkriˈmentl]       a. 增加的, 增值的
 inflammatory       [inˈflæmәtәri]       a. 激动的, 煽动的, 炎症性的
 outright           [ˈautrait]           a. 率直的, 完全的, 总共的, 直率的 adv. 完全地, 率直地, 立刻地, 一直向前
 unanimously        []                   adv. 全体一致, 无异议, 一致同意
@@ -1718,7 +853,6 @@ Kuwaiti            [kuˈweiti, kәˈwaiti] a. 科威特的, 科威特人的 n. �
 preseason          [ˈpriːˈsiːzn]        a. 活跃季节前的,旺季前的
 shortfall          [ˈʃɒːtfɒːl]          n. 缺少, 不足
 pentagon           [ˈpentәgәn]          n. 五角形, 五边形, 五角大楼
-cellphone          [ˈselfәun]           n. 蜂窝式便携无线电话; 大哥大
 biomass            [ˈbaiәumæs]          n. 生物量, 生物质
 victimization      [ˌviktimaiˈzeiʃәn]   n. 牺牲, 欺骗
 principally        [ˈprinsәpәli]        adv. 主要地, 大部分
@@ -1734,32 +868,21 @@ makeover           []                   n. 化妆美容; 大转变
 humanities         []                   n. 人文学科
 emeritus           [iˈmeritәs]          a. 名誉退休的, 退休后保留头衔的
 nation-state       []                   n. 单一民族的独立国家
-alternatively      [ɒːlˈtәːnәtivli]     adv. 要不, 或者; 非此即彼; 作为一种选择
-holding            [ˈhәuldiŋ]           n. 把持, 保持; 租借地, 占有物, 拥有的财产
-mathematician      [ˌmæθәmәˈtiʃәn]      n. 数学家
 Ethiopian          [ˌiːθiˈәupiәn]       a. 埃塞俄比亚的 n. 埃塞俄比亚人
 diarrhea           [ˌdaiәˈriә]          n. 腹泻
 cadre              [ˈkædri.ˈkɑːdә]      n. 干部, 框架
 abdominal          [æbˈdɒminәl]         a. 腹部的, 有腹鳍的
-insecure           [ˌinsiˈkjuә]         a. 不安全的, 不牢靠的, 不坚固的, 不稳定的
-modern-day         [ˈmɔdən dei]         a. 现代的; 当代的
-surreal            [sәˈriәl]            a. 超现实主义的; 离奇的; 不真实的
 identifiable       [aiˈdentifaiәbl]     a. 可辨认的, 可证明为同一的
 blue-collar        []                   a. 蓝领阶级的
 disgusted          [disˈɡʌstid]         a. 厌恶的; 厌烦的
 rink               [riŋk]               n. 溜冰场, 室内溜冰场 vi. 溜冰
 neuron             [ˈnjuәrɔn]           n. 神经元, 轴索, 神经细胞
 deli               [ˈdeli]              n. 熟食店; 熟食品（等于delicatessen）
-encircle           [inˈsәːkl]           vt. 环绕, 围绕, 包围
 hydraulic          [haiˈdrɒːlik]        a. 与水有关的, 水力的, 水压的
 coroner            [ˈkɒrәnә]            n. 验尸官 
-boldly             [ˈbәuldli]           adv. 大胆地, 显眼地
-rediscover         [ˌriːdisˈkʌvә]       vt. 重新发现
 watery             [ˈwɒːtәri]           a. 水的, 湿的, 平淡的, 稀薄的, 水淋淋的
-downsize           [daunˈsaiz]          vt. 以较小尺寸设计; 缩小尺寸; 裁减人数
 buttocks           []                   n. 臀部
 bewildered         [bɪˈwɪldəd]          a. 困惑的; 晕眩的; 混乱的; 不知所措的 v. 使困惑
-thee               [ðiː]                pron. 你
 electromagnetic    [ilektrәjˈmægnitik]  a. 电磁的, 由电磁石产生的
 foreclosure        [fɔːˈklәjʒә(r)]      n. 取消抵押品赎回权
 backfire           [ˌbækˈfaiә]          n. 逆火, 回火, 放火 vi. 放逆火, 预先放火, 发生意外
@@ -1767,7 +890,6 @@ anti-Semitism      [æntiˈsemitiz(ә)m]   n. 反犹主义
 individuality      [ˈindi.vidʒuˈæliti]  n. 个性, 个人, 特征
 downright          [ˈdaunrait]          a. 明白的, 率直的, 十足的 adv. 全然, 彻底, 完全
 remake             [riˈmeik]            vt. 再作, 再制, 重作 n. 再制, 改作, 重制物
-manageable         [ˈmænidʒәbl]         a. 易办的, 易管理的, 易控制的
 kayak              [ˈkaiæk]             n. 单人划子, 皮划艇
 cover-up           []                   n. 掩饰, 隐蔽
 storefront         [ˈstɒːfrʌnt]         n. 店面
@@ -1776,104 +898,68 @@ menopause          [ˈmenәupɒːz]         n. 绝经, 绝经期
 electrode          [iˈlektrәud]         n. 电极; 焊条; 电焊条
 neurological       [ˌnjurәˈlɒdʒikl]     a. 神经病学上的
 outpatient         [ˈautpeiʃәnt]        n. 门诊病人
-awkwardly          []                   adv. 笨拙地; 无技巧地
 thrilling          [ˈθriliŋ]            a. 毛骨悚然的, 令人兴奋的, 令人发抖的
 chute              [ʃuːt]               n. 瀑布, 斜槽; 滑槽; 滑运道
-focused            [ˈfәukәst]           a. 聚焦的; 专心的
-thunderstorm       [ˈθʌndәstɒːm]        n. 雷暴雨
-booklet            [ˈbuklit]            n. 小册子
-inexperienced      [ˌinikˈspiәriәnst]   a. 无经验的, 不熟练的
-schoolteacher      [ˈskuːltiːtʃә]       n. 教师
 pronouncement      [prәˈnaunsmәnt]      n. 声明, 公告, 宣言, 看法, 决定
-yugoslav           [ˈjuːɡәuslɑːv]       a. 南斯拉夫的; 南斯拉夫人的
-theorize           [ˈθiәraiz]           vi. 建立理论, 讲理论, 推理
 stronghold         [ˈstrɒŋhәuld]        n. 要塞, 堡垒, 大本营
 Mormon             [ˈmɒːmәn]            n. 摩门教徒
-mother-in-law      []                   n. 婆母, 岳母
 airy               [ˈєәri]              a. 空气的, 空中的, 通风的, 幻想的, 轻快的
-small-town         [ˈsmɔːlˈtajn]        a. 小都市的, 偏狭的, 质朴的
-handshake          [ˈhændʃeik]          n. 握手
-pointer            [ˈpɒintә]            n. 指示物, 教鞭, 暗示, 指针
-distrust           [disˈtrʌst]          n. 不信任 vt. 不信任
 shiite             [ˈʃiːait]            n. 什叶派教徒
 swath              [swɔːθ]              n. 刈幅, 刈下的一行草, 刈下的一行麦, 行, 一条, 条, 一行
-kindly             [ˈkaindli]           a. 和蔼的, 温和的, 爽快的 adv. 温和地, 亲切地
+
+
 hearth             [hɑːθ]               n. 炉床, 灶台, 炉边, 锻造炉
 emphatically       [imˈfætikәli]        adv. 强调地, 着重地
-simplistic         [simˈplistik]        a. 过分简单化的
-improbable         [imˈprɒbәbl]         a. 不大可能的, 未必会的
 czar               [zɑː]                n. 沙皇
 breeder            [ˈbriːdә]            n. 饲养员, 养育员, 起因, 起源者
 roadway            [ˈrәudwei]           n. 道路, 路面, 车行道
 memorabilia        [ˌmemәrәˈbiliә]      n. 值得纪念的事物, 大事记
-updated            [ʌpˈdeitid]          a. 更新的; 现代化的
 varsity            [ˈvɑːsәti]           n. 大学运动代表队; 大学
 humiliating        [hjuːˈmilieitiŋ]     a. 丢脸的, 耻辱的, 羞愧的
 choral             [ˈkɒːrәl]            a. 合唱队的
 anthropological    [ˌænθrәpәˈlɒdʒikl]   a. 人类学的, 人类学上的
 wrapper            [ˈræpә]              n. 包装者, 包裹者, 包装物, 覆盖物, 外包烟叶, 包纸, 书的封皮, 妇女晨衣
-unreliable         [ˌʌnriˈlaiәbl]       a. 不可靠的, 靠不住的
 life-threatening   [laɪf ˈθretnɪŋ]      a. 威胁生命的
 feeding            [ˈfiːdiŋ]            n. 饲养, 进料, 加料 a. 供给饲料的, 摄取食物的
 shortstop          [ˈʃɒːtstɒp]          n. 游击手, 停显液
-unequal            [ˌʌnˈiːkwәl]         a. 不相等的, 不规则的, 不能胜任的
 doorstep           [ˈdɒːstep]           n. 门阶
-biased             [ˈbaiәst]            a. 有偏见的
 ukrainian          [ju(ː)ˈkreinjәn]     a. 乌克兰的; 乌克兰人的
 flyer              [ˈflaiә]             n. 飞鸟, 飞行物, 飞行员, 快车, 传单, 飞跳, 投机买卖, 孤注一掷
 caring             [ˈkεәriŋ]            a. 有同情心的; 表示或感到关怀或关心的
 Peruvian           [pәˈruːviәn]         a. 秘鲁的, 秘鲁人的, 秘鲁文化的 n. 秘鲁人
 bungalow           [ˈbʌŋgәlәu]          n. 平房
-evergreen          [ˈevәgriːn]          n. 常绿树, 常绿植物 a. 常绿的
-welcoming          [ˈwelkəmɪŋ]          a. 热情的; 友好的
 recruiter          [riˈkruːtә]          n. 招聘人员, 征兵人员
-inconvenience      [ˌinkәnˈviːnjәns]    n. 不便, 困难 vt. 使感不便, 使感困难
 misdemeanor        [ˌmisdiˈmiːnә]       n. 行为不检, 品行不良, 轻罪, 不端行为
 patriarch          [ˈpeitriɑːk]         n. 创办人, 家长, 元老, 教长, (天主教)教皇
 saucer             [ˈsɒːsә]             n. 茶碟, 茶托
 sleeper            [ˈsliːpә]            n. 睡眠者, 枕木, 卧铺
-foothill           [ˈfuthil]            n. 山麓小丘
-adoptive           [әˈdɒptiv]           a. 有收养关系的, 采用的
-info               [ˈinfәu]             n. 信息
 macho              [ˈmɑːtʃәu]           a. 男子的; 大男子气的; 勇敢的
-frontal            [ˈfrʌntәl]           a. 前面的, 正面的, 额的 n. 额骨, 祭坛(前面的)帏帘, (建筑物的)正面
 strained           [ˈstreind]           a. 紧张的, 滤过的, 矫饰的
 synonymous         [siˈnɒnimәs]         a. 同义词的, 同义的
 twirl              [twәːl]              vt. (使)快速转动, 捻弄 n. 转动, 万能钥匙, 旋转的东西
 picket             [ˈpikit]             n. 桩, 尖桩, 警戒哨, 巡逻艇, 纠察队 vt. 围住, 警戒, 派...担任纠察 vi. 担任纠察
 backcountry        [ˈbækkʌntri]         n. 偏僻地区; 边远地区; 穷乡僻壤 a. 偏僻地区的
-sub                [sʌb]                n. 补充人员, 部下, 潜水艇, 胶层, 订户, 傻子 a. 附属的, 次级的 vt. 替代, 转包 vi. 替代 [计] 子程式, 用户, 代替, 减法器
 overboard          [ˈәuvәbɒːd]          adv. 自船上落下, 在船外
 funnel             [ˈfʌnl]              n. 漏斗, 漏斗状的东西, 烟囱
 Emmy               [ˈemi]               n. 埃米奖(美国电视艺术奖)
 stated             [ˈsteitid]           a. 固定的, 规定的, 定期的
 combatant          [ˈkɒmbәtәnt]         n. 争斗者, 战斗者, 参战者
-outfielder         [ˈajtfiːldә(r)]      n. 外野手
 familial           [fәˈmiljәl]          a. 家族的, 家庭的
-hopelessly         []                   adv. 绝望地, 无可奈何地
 recapture          [ˌriːˈkæptʃә]        n. 取回, 夺回 vt. 再捕获, 夺回, 重温
 porn               [pɔːn]               n. 色情描写, 黄色书刊, 色情画, 色情照片, 色情文学
 upstate            [ˈʌpˈsteit]          a. 偏僻的, 州的北部的 n. 州的北部 adv. 在州的北部
-going              [ˈgәuiŋ]             n. 去, 离去, 工作情况, 地面状况, 行为 a. 进行中的, 流行的, 成功的, 现存的
 mussels            []                   n. 淡菜; 贻贝（mussel的复数）; 双壳类
 wrinkled           [ˈriŋkld]            a. 具皱的, 有皱纹的
 mindful            [ˈmaidful]           a. 深切注意的, 留神的, 留心的
 flashy             [ˈflæʃi]             a. 闪光的, 一瞬间的, 浮华的
 vial               [ˈvaiәl]             n. 小瓶 vt. 装入小瓶
-at-risk            [æt risk]            a. 处于危险中的
-relive             [riːˈliv]            vi. 再生, 复活 vt. 再体验
 amen               [ˌɑːˈmen]            interj. 阿门
-oversized          [ˈәuvәˈsaizd]        a. 过大的, 极大的
 righteous          [ˈraitʃәs]           a. 公正的, 正义的, 正直的
 internalize        [inˈtәːnәlaiz]       vt. 使内在化
-unprepared         [ˌʌnpriˈpєәd]        a. 无准备的, 即席的, 不期而遇的
-valuation          [ˌvæljuˈeiʃәn]       n. 评价, 估价, 价值判断
-reorganize         [ˌriːˈɒːgәnaiz]      v. 改组, 再编制, 改造
 leafy              [ˈliːfi]             a. 叶茂盛的, 多叶的, 叶状的
 ponytail           [ˈpәuniteil]         n. 马尾辫
 proprietor         [prәˈpraiәtә]        n. 所有人, 资本主, 业主
 ailing             [ˈeiliŋ]             a. 生病的, 病痛的
-unjust             [ˌʌnˈdʒʌst]          a. 不公正的, 不公平的, 不合理的
 fielder            [ˈfiːldә(r)]         n. 外场员, 守队队员
 baggy              [ˈbægi]              a. 袋状的, 松垂的
 validation         [ˌvæliˈdeiʃәn]       n. 批准, 确认, 证实, 检验
@@ -1883,13 +969,7 @@ baby-sitter        []                   n. 看顾小孩的人
 colonization       [ˌkɔlәnaiˈzeiʃәn]    n. 殖民; 殖民地化
 Jordanian          [dʒɒːˈdeiniәn]       a. 约旦的 n. 约旦人
 exporter           [ikˈspɒːtә]          n. 出口商, 输出者, 出口公司
-bottled            [ˈbɒtld]             a. 瓶装的
-specified          []                   a. 规定的; 详细说明的
-stabilization      [ˌsteibilaiˈzeiʃәn]  n. 安定, 稳定, 平抑, 安定化, 稳定化
-feeder             [ˈfiːdә]             n. 饲养者, 供给者, 奶瓶, 给料器
-co-star            [ˈkəʊstɑː]           n. 联合主演 vt. （指电影等）由（某明星）与其他明星联合主演 vi. （与某人）联合主演, 合演
 standoff           [ˈstændɒf]           a. 冷淡的, 有支架的 n. 冷淡, 平衡, 和局
-childbirth         [ˈtʃaildbәːθ]        n. 分娩, 生产
 Islamist           [izˈlɑːmist]         n. 伊斯兰教主义者; 回教教徒
 backstage          [ˈbæksteidʒ]         adv. 在后台, 向后台
 stairwell          []                   n. 楼梯井
@@ -1899,18 +979,12 @@ breathless         [ˈbreθlis]           a. 喘不过气来的, 屏气的, 气�
 eyeball            [ˈaibɒːl]            n. 眼球
 craftsman          [ˈkræftsmәn]         n. 工匠, 技工, 手艺人
 methodological     [ˌmeθәdәˈlɒdʒikl]    a. 方法的
-aspiring           [әˈspaiәriŋ]         a. 有抱负的, 有志气的
 trafficker         [ˈtræfikә]           n. 商人, 贩子, 买卖者
 quirky             [ˈkwəːki]           a. 诡诈的, 突兀的, 古怪的, 离奇的
 plutonium          [pluːˈtәuniәm]       n. 钚
-professionalism    [prәˈfeʃәnә,lizәm]   n. 职业特性, 专业技巧, 职业行为, 职业作风, (褒)专业人员的特质, 职业化
-unauthorized       [ˌʌnˈɒːθәraizd]      a. 无权的, 未经授权的, 未经许可的
 flatly             [ˈflætli]            adv. 枯燥无味地, 完全地, 直截了当地, 毅然地, 断然地
-remarry            [ˌriːˈmæri]          v. (使)再婚
 watermelon         [ˈwɒtә.melәn]        n. 西瓜
 adultery           [әˈdʌltәri]          n. 通奸
-first-class        []                   a. 最好的, 第一流的, 优秀的 adv. 最好地, 第一流地, 优秀地
-escalating         [ˈeskəleitɪŋ]        v. （使）逐步升级( escalate的现在分词 ); （使）逐步扩大; （使）更高; （使）更大
 foreman            [ˈfɒːmәn]            n. 领班, 工头, 陪审长
 outstretched       [ˌautˈstretʃt]       a. 伸开的, 扩张的, 延伸的
 mulch              [mʌltʃ]              n. 覆盖物, 护根, 根篱 vt. 铺护盖物, 做护根
@@ -1923,8 +997,6 @@ front-runner       []                   n. (赛跑中)领先的人, 竞争领先
 warmly             [ˈwɒːmli]            adv. 亲切地, 温暖地, 热心地
 unnamed            [ˈʌnˈneimd]          a. 未命名的, 没有名字的, 未提及的
 trough             [trɒːf]              n. 槽, 水槽, 饲料槽
-gladly             [ˈglædli]            adv. 高兴地, 乐意地, 欢喜地
-generalized        [ˈdʒenәrәlaizd]      a. 广义的, 普遍的; 无显著特点的
 marginalize        [ˈmɑːdʒinəlaiz]      vt.忽视,排斥, 使处于社会边缘,使脱离社会发展进程
 tenderness         [ˈtendәnis]          n. 柔软, 亲切, 柔和, 敏感, 易触痛
 beige              [beiʒ]               a. 淡棕色的 n. 薄斜纹呢, 米色
@@ -1934,11 +1006,8 @@ trappings          [ˈtræpiŋz]           n. 马饰, 服饰, 礼服, 装饰品,
 conceptualize      [kәnˈseptjuәlaiz]    vt. 使概念化
 revolver           [riˈvɒlvә]           n. 左轮手枪, 旋转炉
 sweatshirt         []                   n. 园领长袖运动衫
-prep               [prep]               n. (英)(非正式)准备功课, 预备学校, 预料 a. (美)(非正式)预备的, 准备的 vi. 进预备学校, 进行预备训练, 自修, 自我训练 vt. 预备, 给病人作手术前的准备, 准备
 specificity        [ˌspesiˈfisiti]      n. 特征, 特殊性, 特异性, 专一性 
 booze              [buːz]               vi. 豪饮 n. 酒, 酒宴
-campfire           [ˈkæmpfaiә]          n. 营火, 营火会
-taiwanese          [ˌtaiwɑːˈniːz, -ˈniːs] a. 台湾人的; 台湾的
 veggie             [ˈvedʒi]             n. 素食者
 abduction          [æbˈdʌkʃәn]          n. 诱拐, 绑架, 外展
 revolutionize      [ˌrevәˈluːʃәnaiz]    vt. 向...鼓吹革命, 使发生革命性剧变
@@ -1951,16 +1020,10 @@ argentine          [ˈɑːdʒәntain]        n. 银, 银白色金属, 银白色�
 multiculturalism   [ˌmʌltiˈkʌltʃərəlɪzəm] n. 多元文化
 shortcut           [ˈʃɒːtkʌt]           n. 捷径, 最短路线, 快捷方式
 quad               [kwɔd]               n. 铅块, 监狱, 四方院子, 四胞胎, 四胞胎中的一个孩子, 成套的四件东西
-simulated          []                   a. 假装的, 模仿的, 模拟的
-threatening        [ˈθretniŋ]           a. 威胁的, 恐吓的, 危险的
-timer              [ˈtaimә]             n. 计时员, 计时器
 shallot            [ʃәˈlɒt]             n. 葱
-wake-up            []                   n. 唤醒; 弄醒
 sweetie            [ˈswiːti]            n. 情人, 爱人, 甜食
 chatter            [ˈtʃætә]             n. 饶舌, 啁啾, 喋喋不休 vi. 喋喋不休地谈, (鸟)啭鸣
 underside          [ˈʌndәsaid]          n. 下面, 下侧, 底面
-falling            [ˈfɒːliŋ]            a. 落下的, 坠落的, 下降的
-relational         [riˈleiʃәnәl]        a. 有关系的, 有联系的, 亲属的, 有亲属关系的
 hanger             [ˈhæŋә]              n. 挂钩, 吊架, 衣架, 挂衣钩
 knowingly          [ˈnәjiŋli]           adv. 会意地, 心照不宣地, 故意地, 有意地, 老练地
 canister           [ˈkænistә]           n. 罐, 筒, 霰弹
@@ -1970,15 +1033,9 @@ spontaneously      []                   adv. 自发地; 自然地; 不由自主�
 crank              [kræŋk]              a. 不稳的, 脾气暴燥的, 易怒的 n. 曲柄, 奇想 vt. 装曲柄 vi. 转动曲柄
 pee                [piː]                n. (英)便士, 小便 vi. 小便
 iris               [ˈairis]             n. 虹膜, 鸢尾属植物, 虹, 虹彩
-showroom           [ˈʃәuruːm]           n. 样品间, 陈列室
-stillness          [ˈstilnis]           n. 静止, 沉静
-schoolchild        [ˈskuːltʃaild]       n. 学童
-militarily         [ˈmilitərili; ,miliˈteәrili] adv. 在军事上
 blah               [blɑː]               n. 废话
-richly             [ˈritʃli]            adv. 富裕地, 丰富地, 充分地
 decorated          [ˈdekәreitid]        a. 装饰的, 修饰的
 backseat           [ˈbæksiːt]           n. 后座, 次要位置
-third-party        [ˈθɜːdpaːtɪ]          第三方的
 sinner             [ˈsinә]              n. 罪人, 不知礼仪的人, 无赖
 housekeeper        [ˈhauskiːpә]         n. 主妇, 女管家
 blister            [ˈblistә]            n. 水疱; 砂眼
@@ -1986,14 +1043,9 @@ institutionalize   [ˌinstiˈtjuːʃәnәlaiz] vt. 使制度化, 使成为惯常
 hindsight          [ˈhaindsait]         n. 枪的表尺, 事后聪明
 sputter            [ˈspʌtә]             n. 喷溅声, 劈啪声, 语无伦次 vi. 唾沫飞溅, 结结巴巴地讲, 发劈啪声 vt. 喷出, 飞溅出, 气急败坏地说
 jut                [dʒʌt]               n. 尖端, 突出部分 v. (使)突出, 伸出
-incorrectly        []                   adv. 错误地; 不适当地
-usable             [ˈjuːzәbl]           a. 可用的, 方便使用的, 能用的
-biotech            [ˈbaɪəʊtek]          n. 生物技术
 peacekeeper        [ˈpiːs,kiːpә(r)]     n. (交战国间的)停火执行者(或小组)
 uniformly          [ˈjuːnifɔːmli]       adv. 一样, 一致, 相同, 一直不变, 一贯, 始终如一, 均质, 一律, 均匀
-newsroom           [ˈnjuːzruːm]         n. 新闻编辑部, 报刊阅览室, 售报处
 swivel             [ˈswivl]             n. 转环, 旋转轴承, 转椅座架 v. (使)旋转
-binary             [ˈbainәri]           a. 由两部分组成的, 二进位的, 二元的, 二态的
 Dane               [dein]               n. 丹麦人
 antioxidant        [ˌæntiˈɒksidәnt]     n. 抗氧化剂, 防老化剂
 blackout           [ˈblækaut]           n. 灯火管制, 暂时的意识丧失, 灯火熄灭, 删除, 电网掉电
@@ -2008,18 +1060,13 @@ bulldozer          [ˈbuldәuzә]          n. 推土机
 hitch              [hitʃ]               n. 猛拉, 急推, 蹒跚, 故障 vt. 猛拉, 系住 vi. 蹒跚, 被钩住
 homecoming         [ˈhәumkʌmiŋ]         n. 归国, 省亲回家, 同学会
 gaping             [ˈgæpiŋ]             a. 豁开的, 裂开的
-rationality        [ˌræʃәˈnæliti]       n. 合理性, 纯理性
 woodland           [ˈwudlænd]           n. 林区, 林地
-headset            [ˈhedset]            n. (一副)耳机 [电] 头载机组
-profitability      [ˌprɒfitәˈbiliti]    n. 收益性, 可获利润率
 dementia           [diˈmenʃiә]          n. 痴呆
 sociological       [ˌsәusiәˈlɒdʒikl]    a. 社会的, 社会学的
-speaking           [ˈspiːkiŋ]           n. 谈话, 演说 a. 讲话的, 适于说的, 讲某种语言的
 iced               [aist]               a. 冰冷的; 装冰的; 冰冻的
 titanium           [taiˈteiniәm]        n. 钛
 spree              [spriː]              n. 戏耍, 喧闹, 宴会, 狂饮 vi. 狂欢, 狂饮
 handcuff           [ˈhændkʌf]           vt. 给...戴上手铐 n. 手铐
-unpublished        [ˌʌnˈpʌbliʃt]        a. 未公开出版的; 未发表过的
 puree              [ˈpjuәrei]           n. 菜泥, 果泥, 酱, 浓汤 vt. 把...制成浓汤/酱
 fella              [felә]               n. 小伙子; [俚]伙伴, 伙计
 overrun            [ˌәuvәˈrʌn]          n. 蔓延, 风行一时, 超过限度 vt. 蔓延, 蹂躏, 超过, 泛滥 vi. 泛滥, 超载限度
@@ -2034,8 +1081,6 @@ high-rise          []                   a. 有多层的, 高楼的 n. 高楼, �
 convent            [ˈkɒnvәnt]           n. 女修道会
 ghostly            [ˈgәustli]           a. 幽灵的, 影子似的, 精神的
 stylist            [ˈstailist]          n. 文体学家, 时装设计师
-mini               [ˈmini]              n. 同类中的极小者, 微型汽车, 超短裙 a. 微型的
-undocumented       [ˌʌnˈdɔkjjmentid]    a. 无正式文件的, 无事实证明的
 taint              [teint]              n. 污点, 耻辱, 感染 vt. 污染, 使腐败, 沾染, 腐蚀
 rut                [rʌt]                n. 辙迹, 凹槽, 常规, 惯例, 发情期 vi. 交尾, 发情 vt. 挖槽于
 riding             [ˈraidiŋ]            n. 骑, 乘车, 骑术, 骑马
@@ -2043,13 +1088,8 @@ fieldwork          [ˈfiːldwәːk]         n. 野战工事, 野外工作
 rummage            [ˈrʌmidʒ]            v. 仔细翻寻, 仔细搜查, 检查出 n. 仔细翻找, 查出的物件
 academia           [ˌækәˈdiːmiә]        n. 学术界, 学术生涯
 tandem             [ˈtændәm]            adv. 一前一后地, 纵排地 a. 纵排的, 串联的 n. 纵列两匹马拉的马车, 串座双人自行车
-urgently           []                   adv. 急切地; 迫切地; 紧急地
-destabilize        [diːˈsteibilaiz]     vt. 使动摇
-wrongly            []                   adv. 错误地, 不恰当地, 不正确地, 不正直地, 不公正地
 semantic           [siˈmæntik]          a. 语义的
 wrestler           [ˈreslә]             n. 摔跤选手
-upstream           [ˈʌpˈstriːm]         adv. 向上游, 逆流地 a. 向上游的, 逆流而上的
-borrowing          [ˈbɔrәuiŋ]           n. 借用; 采用; 借用物; 借用词语
 cross-cultural     [ˈkrɔsˈkʌltʃərəl]    a. 交叉文化的, 涉及多种文化的
 re-examine         [ˌriːɪgˈzæmɪn]       vt. 再检查; 再审问; 再考试
 accompaniment      [әˈkʌmpәnimәnt]      n. 伴随物, 附加物, 伴奏
@@ -2064,8 +1104,6 @@ sunscreen          [ˈsʌnskriːn]         n. (防晒油中的)遮光剂
 janitor            [ˈdʒænitә]           n. 守卫, 门警, 管理人
 deserving          [diˈzәːviŋ]          a. 该受的, 有功的, 值得...的 n. 功过, 赏罚
 hamlet             [ˈhæmlit]            n. 小村, 部落
-artificially       [ˌɑːtiˈfiʃәli]       adv. 人工地, 人为地, 不自然地
-ex-husband         [ˈekshˈʌzbənd]       n. 前夫
 roadblock          [ˈrәudblɒk]          n. 障碍, 障碍物
 eyepiece           [ˈaipiːs]            n. 目镜
 cumin              [ˈkʌmin]             n. 莳萝, 土茴香子
@@ -2073,8 +1111,6 @@ yolk               [jәuk]               n. 蛋黄, 卵黄
 parchment          [ˈpɑːtʃmәnt]         n. 羊皮纸, 毕业文凭, 学位证书
 oats               []                   n. 燕麦, 燕麦属植物, 燕麦粥, 麦片粥
 terrorize          [ˈterәraiz]          vt. 使惊恐, 恐吓 vi. 实施恐怖统治
-flagship           [ˈflægʃip]           n. 旗舰
-recurrent          [riˈkʌrәnt]          a. 再发生的, 定期重复的, 循环的, 回归的
 acutely            [әˈkjuːtli]          adv. 尖锐地, 剧烈地
 tabloid            [ˈtæblɒid]           n. 小报, 小型画报, 药片, 文摘 a. 轰动性的, 扼要的, 缩略的, 小报式的
 campsite           [kæmpˈsait]          n. 营地
@@ -2084,20 +1120,13 @@ washer             [ˈwɒʃә]              n. 洗衣人, 垫圈, 洗衣机, 洗
 bidder             [ˈbidә]              n. 投标人, 出价人, 投标商
 after-school       [ˈɑːftərskˈuːl]      a. 课外的
 menacing           [ˈmenәsiŋ]           a. 威胁的, 恐吓的, 险恶的
-rainforest         [ˈreinˈfɔrist]       n. [生态]雨林
-customize          [kʌstәmaiz]          vt. 定制, 按规格改制, 定做
 spore              [spɒː]               n. 孢子 vi. 长孢子
 patterned          []                   a. 被组成图案的
 bustling           [ˈbʌsliŋ]            a. 熙熙攘攘的, 忙乱的
 publicist          [ˈpʌblisist]         n. 广告员, 公关人员; 公法学家, 国际法学家; 政治评论家, 政治作家
-Chinese            [tʃaiˈniːz]          n. 中文, 中国话, 中国人 a. 中国的, 中国话的
-aw                 [ɔː]                 int. 哦！噢！（表示抗议, 厌恶, 讨厌等）
 hospitalization    [ˌhɔspitәlaiˈzeiʃәn] n. 入院, 住院治疗
 wad                [wɒd]                n. 小软团, 小软块, 一卷, 填料, 大量 vt. 揉成一团, 填塞
-quicken            [ˈkwikәn]            vt. 加快, 激发, 使有生气, 鼓舞, 使复活 vi. 加快, 变活跃, 进入胎动期
-abnormality        [ˌæbnɒːˈmæliti]      n. 反常, 畸形, 变态
 unpack             [ˌʌnˈpæk]            vt. 从包裹中取出, 卸下, 打开 vi. 打开包裹
-lengthen           [ˈleŋθәn]            vt. 加长, 使延长 vi. 变长
 sitter             [ˈsitә]              n. 坐着的人, 坐着被画像的人
 separated          [ˈsepәreitid]        a. 分居; 分开的; 不在一起生活的
 songwriter         []                   n. 流行歌曲的作者
@@ -2112,11 +1141,8 @@ modestly           []                   adv. 适当地; 谨慎地
 crackle            [ˈkrækl]             n. 劈啪响, 裂纹 vi. (使)发劈啪声
 shaped             [ʃeipt]              a. 成某种形状的, 制成一定形状的, 有某种形状的, 合适的, 计划好的, 有目标的
 stirring           [ˈstәːriŋ]           a. 活跃的, 忙碌的, 激动人心的
-vertically         [ˈvetikli]           adv. 垂直地
 big-time           [ˈbigtaim]           a. 成功的歌舞杂耍表演, 第一流的
 acclaimed          [əˈkleɪmd]           a. 受到赞扬的
-destroyer          [diˈstrɒiә]          n. 破坏者, 消灭者, 起破坏作用的东西, 驱逐舰
-unborn             [ˌʌnˈbɒːn]           a. 未诞生的, 未来的, 在胎内的
 glittering         []                   a. 闪闪发光的, 光辉灿烂的, 华丽的, 极好的, 炫耀的
 barley             [ˈbɑːli]             n. 大麦
 reactive           [riˈæktiv]           a. 反动的, 反应的
@@ -2126,7 +1152,6 @@ manufactured       [ˌmænjuˈfæktʃәd]     a. 制造的, 已制成的
 barbed             [bɑːbd]              a. 有倒刺的
 Californian        [ˌkæliˈfɒːnjәn]      n. 加利福尼亚州人 a. 加利福尼亚的
 birch              [bәːtʃ]              n. 桦树, 桦木, 桦条
-manpower           [ˈmænpauә]           n. 人力
 stiffness          [ˈstifnis]           n. 坚硬, 刻板; 强直, 僵硬
 Georgian           [ˈdʒɒːdʒjәn]         n. 乔治亚州人, 乔治亚人 a. 乔治王时代的, 乔治王时代艺术风格的, 乔治亚的
 counterproductive  [ˌkauntәprәˈdʌktiv]  a. 反生产的; 使达不到预期目标的
@@ -2134,33 +1159,22 @@ legitimize         [liˈdʒitimaiz]       vt. 使…合法; 立为嫡嗣
 antelope           [ˈæntilәup]          n. 羚羊
 commando           [kәˈmɑːndәu]         n. 突击队, 突击队员, (南非)布尔人部队
 smallpox           [ˈsmɒːlpɒks]         n. 天花, 痘疮
-lunchtime          [ˈlʌntʃtaim]         n. 午餐时间
 veterinarian       [ˌvetәriˈnєәriәn]    n. 兽医
-headphone          [ˈhedfәun]           n. 戴在头上的收话器, 耳机
 sufferer           [ˈsʌfәrә]            n. 受难者, 被害者, 患者
 sushi              [ˈsuːʃi]             n. 寿司（生鱼片冷饭团）
 Baltic             [ˈbɒːltik]           a. 波罗的海的
-replay             [ˌriːˈplei]          vt. 重新比赛, 重演 n. 重赛
 surfer             [ˈsәːfә]             n. 冲浪运动员
-birthplace         [ˈbәːθpleis]         n. 诞生地
 stewardship        [ˈstjuːwәdʃip]       n. steward的职务, 管理工作
-unconditional      [ˌʌnkәnˈdiʃәnl]      a. 无条件的, 无限制的, 绝对的
-outcry             [ˈautkrai]           n. 尖叫, 倒彩, 强烈抗议, 喊价 vi. 喊叫 vt. 叫得比...响
-rebirth            [ˌriːˈbәːθ]          n. 再生, 复活, 新生
 rooster            [ˈruːstә]            n. 公鸡, 栖息的鸟
 plop               [plɒp]               n. 扑通声, 掉下 adv. 扑通一声地 vt. 把...沉重地放下 vi. 扑通落下
 ligament           [ˈligәmәnt]          n. 结带, 纽带, 韧带
-dashboard          [ˈdæʃbɒːd]           n. 仪表板, 挡泥板
 puffy              [ˈpʌfi]              a. 胀大的, 肥胖的, 喘气的, 一阵阵吹的
-unavoidable        [ˌʌnәˈvɒidәbl]       a. 不可避免的, 不得已的, 不能作废的
 Caucasian          [kɒːˈkeiziәn]        n. 高加索人, 白种人 a. 高加索的, 白种人的
 rescuer            [ˈreskjuә]           n. 救助者
-subtitle           [ˈsʌb.taitl]         n. 副标题
 shin               [ʃin]                n. 胫骨 v. 攀, 爬
 milieu             [ˈmiːljәː]           n. 周围, 社会环境, 环境, 表达的手法
 baptism            [ˈbæptizm]           n. 浸礼, 洗礼
 shaman             [ˈʃæmәn]             n. 萨满教巫医
-hugely             [ˈhjuːdʒli]          adv. 巨大地, 非常地
 insensitive        [inˈsensitiv]        a. 对...没有感觉的, 感觉迟钝的
 prosthesis         [ˈprɔsθiːsis]        n. 添字首音; 修复术; 修补物, 假体
 Diaspora           [daiˈæspәrә]         n. 犹太人的离散, 离散的犹太人
@@ -2174,32 +1188,23 @@ planter            [ˈplæntә]            n. 种植者, 耕作者, 种植机, �
 braille            [breil]              n. 布莱叶点字法(盲人用点字法) vt. 用布莱叶点字法印刷
 budding            [ˈbʌdiŋ]             a. 萌芽的, 发育期的, 初露头角的 n. 发芽
 secretary-general  [ˈsekrәtәriˈdʒenәrәl] n. 秘书长, 总书记
-optimize           [ˈɒptimaiz]          vt. 使完美, 使完善, 充分利用, 乐观地对待, 优化 vi. 持乐观态度
 fiddle             [ˈfidl]              n. 小提琴, 提琴类乐器 vt. 虚度时光, 拉小提琴 vi. 拉小提琴, (无目的地)拨弄, 瞎搞
-unheard            [ˌʌnˈhәːd]           a. 没有被听到的, 未予倾听的, 未予考虑的
 worrisome          [ˈwʌrisәm]           a. 令人烦恼的, 麻烦的, 劳碌命的
 fennel             [ˈfenәl]             n. 茴香
 subjectivity       [ˌsʌbdʒekˈtivәti]    n. 主观, 主观性
-low-level          []                   a. 低水平的
 left-wing          [ˈleftwiŋ]           a. 左派的, 左翼的
 fastball           [ˈfɑːstbɔːl]         n. [棒](投手投出的)快球
 highland           [ˈhailәnd]           n. 高地, 苏格兰高地
-spoken             [ˈspәukәn]           a. 口头讲的, 口语的
 stretcher          [ˈstretʃә]           n. 担架, 延伸器
 bloodshed          [ˈblʌdʃed]           n. 流血
 coupling           [ˈkʌpliŋ]            n. 联结, 结合, 耦合
-reliably           [riˈlaiәbli]         adv. 可靠地, 可信赖地
 medic              [ˈmedik]             n. 苜蓿属植物, 医师, 医科学生
-predictably        []                   adv. 可预言地
 incomprehensible   [in.kɒmpriˈhensәbl]  a. 不能理解的, 费解的, 无限的
 airwaves           [ˈeәweivz]           电视广播
 Frenchman          [ˈfrentʃmәn]         n. 法国人
 serpent            [ˈsәːpәnt]           n. 巨蛇座, 蛇, 蛇形管, 狡猾的人
 petite             [pәˈtit]             a. 小的, 次要的, 小个子的, 娇小玲珑的
-prematurely        [ˈpremətʃə(r)lɪ]     adv. 过早地, 贸然地
 spasm              [ˈspæzm]             n. 痉挛, 抽搐, 发作
-matchup            [ˈmætʃ,ʌp]           n. 匹配, 相称; 比赛, 竞赛
-real-world         []                    存在于现实世界的; 真实的
 staging            [ˈsteidʒiŋ]          n. 脚手架, 上演, 公共马车业
 discontinue        [ˌdiskәnˈtinjuː]     vi. 中断, 终止, 停止 vt. 使中止
 small-scale        []                   a. 小比例尺的, 小规模的
@@ -2209,15 +1214,10 @@ galactic           [gәˈlæktik]          a. 乳汁的, 银河的, 极大的
 crushing           [ˈkrʌʃiŋ]            a. 碾碎的, 压倒的, 非常严重的
 inadequacy         [inˈædikwәsi]        n. 不适当, 不足之处, 不充分; 机能不全, 闭锁不全, 关闭不全
 sinus              [ˈsainәs]            n. 窦, 静脉窦, 凹陷处
-shutdown           [ˈʃʌtdaun]           n. 关门, 停工, 停机
-weakly             [ˈwiːkli]            a. 弱的, 虚弱的 adv. 微弱地, 虚弱地
 dimly              [ˈdimli]             adv. 微暗, 朦胧
 perceptual         [pәˈseptʃuәl]        a. 知觉的, 有知觉的
-humankind          [ˈhjuːmәnkaind]      n. 人类
-Englishman         [ˈiŋgliʃmәn]         n. 英国人
 low-key            []                   a. 抑制的, 低调的
 wicker             [ˈwikә]              n. 柳条 a. 柳条编的
-restroom           [ˈrestruːm]          n. 洗手间; 休息室; 更衣室; 厕所
 ketchup            [ˈketʃәp]            n. 蕃茄酱
 squeal             [skwiːl]             n. 尖叫, 抱怨 vi. 发出尖叫声, 高声埋怨 vt. 用尖声说
 mayonnaise         [meiәˈneiz]          n. 蛋黄酱
@@ -2228,64 +1228,37 @@ pathologist        [pæˈθɒlәdʒist]       n. 病理学家
 interracial        [ˌintәˈreiʃjәl]      a. 人种间的, 人种混合的
 tort               [tɒːt]               n. 侵犯行为(不包括违约), 非法行为
 bruised            []                   a. 青肿的; 瘀紫的
-unconsciously      [ˌʌnˈkɒnʃәsli]       adv. 无意识地, 无意中, 不知不觉地
 appellate          [әˈpelit]            a. 上诉的, 有权受理上诉的
 Chilean            [ˈtʃiliәn]           n. 智利人, 智利讲的西班牙语 a. 智利文化的, 智利人的, 智利的
 nitrate            [ˈnaitreit]          n. 硝酸盐(或酯)
 fiance             [fiˈɒnsei]           n. 未婚夫
 fundamentalism     [ˌfʌndәˈmentәlizm]   n. 基要主义
-peacekeeping       [ˈpiːs,kiːpiŋ]       a. 维护和平的, 执行停火协定的
-unmarked           [ˌʌnˈmɑːkt]          a. 未被注意的, 无记号的, 无标志的
-groundwork         [ˈgraundwәːk]        n. 地基, 基础, 根据
 candlelight        [ˈkændllait]         n. 烛光, 黄昏
-situational        [sitjuˈeiʃәnәl. -tʃu-] a. 环境形成的; 情形的
 preschooler        []                   n. 学龄前儿童
-hard-line          []                   a. 强硬路线的; 立场强硬的, 不妥协的
 protracted         [prәuˈtræktid]       a. 拖延的
-dreamer            [ˈdriːmә]            n. 做梦的人, 梦想者
 acculturation      [ә.kʌltʃәˈreiʃәn]    n. 文化互渗, 文化适应
-bye-bye            [ˈbaibai]            interj. 再见
-breaker            [ˈbreikә]            n. 打破者, 破坏者, 违反…的人; 断路器; 破碎机
-policy-making      [ˈpɒləsiːmˈeɪkɪŋ]    n. 政策制定; 决策
 coarsely           [ˈkɒːsli]            adv. 粗糙地, 粗俗地, 鄙俗地
-befriend           [biˈfrend]           vt. 待人如友, 扶助
 pavilion           [pәˈviljәn]          n. 楼阁, 亭子, 大帐篷, 观众席 vt. 置...于亭中, 搭帐篷, 笼罩
 nutmeg             [ˈnʌtmeg]            n. 肉豆蔻
 breast-feeding     []                   n. (用)母奶喂养
 ruined             [ˈruind]             a. 毁灭的, 没落的, 荒废的
-doorbell           [ˈdɒːbel]            n. 门铃
-teamwork           [ˈtiːmwәːk]          n. 合作, 协同工作, 联合行动
-handbag            [ˈhændbæg]           n. 手提包
-turning            [ˈtәːniŋ]            n. 旋转, 转弯处, 车削工作
-guidebook          [ˈgaidbuk]           n. 指南, 手册, 要览
 mischief           [ˈmistʃif]           n. 损害, 伤害, 灾祸, 恶作剧, 淘气
 wanted             [ˈwɔntid. ˈwɔːn-]    a. 被通缉的
-generational       []                   a. 生殖的, 世代的, 代与代之间的, 一代的, 生育的
-workload           [ˈwәːklәud]          n. 工作量
-taker              [ˈteikә]             n. 取者, 接受者, 收取者, 收票人, 接受打赌的人
-unprotected        [ˈʌnprәˈtektid]      a. 没有防卫的, 无掩护的, 未设防的, 没有保护人的, 不受关税保护的
 pellet             [ˈpelit]             n. 颗粒状物, 小子弹, 小药丸 vt. 使成颗粒, 使成团, 用子弹打
-forbidden          [fәˈbidn]            a. 被禁止的, 严禁的
 helium             [ˈhiːliәm]           n. 氦
 cosmology          [kɒzˈmɒlәdʒi]        n. 宇宙哲学, 宇宙论 
 verbally           [ˈvəːbәli]          adv. 口头地, 非书面地
 abyss              [әˈbis]              n. 深渊, 深邃, 地狱
-enclosed           [inˈklәuzd]          a. 被附上的; 围住的, 封闭的
 redwood            [ˈredwud]            n. (美国)红杉, 红树
 fantasize          [ˈfæntәsaiz]         vt.vi. 想象, 出现幻想, 产生幻想, 使幻想化, 幻想
-weaponry           [ˈwepәnri]           n. 武器, 军备, 武器设计研制学
-re-enter           [riːˈentə]           v. 重新进入
 medalist           [ˈmædәlist]          n. 奖章获得者, 勋章制作者, 奖章搜集者
 median             [ˈmiːdiәn]           a. 中央的, 中间的, 正中的 n. 正中动脉, 中位数, 中线
 alaskan            [әˈlæskәn]           a. 阿拉斯加的
-grassland          [ˈgræslænd]          n. 牧草地, 草原
 bagel              [ˈbeiɡәl]            n. 百吉饼（先蒸后烤的发面圈）; [俚]（体育比赛中）零蛋
-thankfully         [ˈθæŋkfulli]         adv. 感激地, 感谢地; 幸运地
-looming            [ˈluːmiŋ]            n. 上现蜃景; 庞视; 幽影
+looming            [ˈluːmiŋ]            n. 上现蜃景; 庞视; 幽影;隐隐约约的；正在逼近的
 borough            [ˈbәːrәu]            n. 自治的市镇, 区
 Tibetan            [tiˈbetn]            a. 西藏的 n. 藏语, 西藏人
 grossly            [ˈgrәusli]           adv. 非常, 很, 粗
-coding             [ˈkәudiŋ]            n. 编码
 screech            [skriːtʃ]            n. 尖声喊叫, 尖叫声, 煞车声 vt. 尖声讲 vi. 发出尖声
 piety              [ˈpaiәti]            n. 虔诚, 孝敬, 虔诚的行为
 opium              [ˈәupjәm]            n. 阿片; 鸦片
@@ -2298,7 +1271,6 @@ airliner           [ˈєәlainә]           n. 班机, 大型客机
 mitigation         [ˌmitiˈgeiʃәn]       n. 缓和, 减轻
 bittersweet        [ˈbitәswiːt]         a. 又苦又甜的, 苦乐参半的; 白英, 蜀羊泉
 rationalize        [ˈræʃәnәlaiz]        vt. 使合理, 合理地处理, 使有理化 vi. 合理地思考
-subset             [ˈsʌbset]            n. 子集; 子设备
 sludge             [slʌdʒ]              n. 软泥, 泥泞, 沉淀物
 uphill             [ˈʌpˈhil]            a. 上坡的, 向上的 adv. 往上坡, 向上地
 leopard            [ˈlepәd]             n. 豹, 美洲豹
@@ -2306,12 +1278,8 @@ bunny              [ˈbʌni]              n. 兔子
 vinaigrette        [ˌvineiˈgret]        n. 一种油、醋、盐、香料等合成的浓烈调味品
 shuffling          []                   n. 支唔的, 含混的, 可疑的; 躲躲闪闪的
 Buddhism           [ˈbudizm]            n. 佛教
-midway             [ˈmidˈwei]           n. 中途, 中间, 娱乐场 a. 中途的, 中间的 adv. 中途
-attendee           [ætenˈdiː]           n. 出席人, 参加者
 Venetian           [vәˈniːʃәn]          a. 威尼斯的 n. 威尼斯人
 bullpen            [ˈbjlpen]            n. <美>牛栏,<口>大房间(尤指候审犯人用的),[棒球]候补队员区
-untrue             [ˌʌnˈtruː]           a. 虚伪的, 不真实的, 不正确的
-paramilitary       [ˌpærәˈmilitәri]     a. 辅助军事的
 blinding           [ˈblaindiŋ]          a. 使人眩目的, 使人失去判断力的 n. 碎石子
 infertility        [ˌinfәˈtiliti]       n. 不肥沃, 不毛; 不育症, 不孕症
 warship            [ˈwɒːʃip]            n. 军舰, 战船
@@ -2319,23 +1287,14 @@ tunic              [ˈtjuːnik]           n. 束腰外衣
 rushing            [ˈrʌʃiŋ]             a. 急流的; 旺盛的
 infidelity         [ˌinfiˈdeliti]       n. 不信神, 无信仰, 背信
 bearer             [ˈbєәrә]             n. 带信人, 票据持有人, 搬运者
-vice-president     [ˈvaisˈprezidәnt]    n. 副总裁, 副校长, 副总统, 副主席
-aha                [ɑːˈhɑː]             interj. 啊哈
-conceivably        [kәnˈsiːvәbli]       adv. 想得到地, 想象上, 以为
-disqualify         [disˈkwɒlifai]       vt. 使不适合, 取消...资格
-serviceman         [ˈsəːvismәn]        n. 军人, 维修人员
 nonstick           []                   a. 锅底不粘的
 conservationist    [ˌkәnsәˈveiʃәnist]   n. 自然资源保护论者
-jesuit             [ˈdʒezjuit]          n. 耶稣会信徒, 阴险的人, 阴谋家
 postoperative      [pәustˈɒpәrәtiv]     a. 手术后的
 itch               [itʃ]                n. 痒, 渴望, 疥疮 vi. 发痒, 渴望
 undeniable         [ˌʌndiˈnaiәbl]       a. 不可否认的
 chrome             [krәum]              n. 铬, 铬合金
 assemblage         [әˈsemblidʒ]         n. 集合, 装配, 一群人
-right-hand         []                   a. 用右手的, 右侧的
-polity             [ˈpɒliti]            n. 政体, 国体, 政治组织
 tsunami            [tsuˈnɑːmi]          n. 海啸
-incompetence       [inˈkɔmpitәns]       n. 不胜任, 不够格, 不适合, 无能力, 不熟练, 无资格
 Koran              [kɒˈrɑːn]            n. 《古兰经》
 pumping            [ˈpʌmpiŋ]            n. 抽水, 泵送
 spreadsheet        [ˈspredʃiːt]         n. 空白表格程序, 电子制表软件, 电子数据表
@@ -2343,70 +1302,43 @@ summertime         [ˈsʌmәtaim]          n. 全盛时期, 夏季
 wherein            [hwєәrˈin]           adv. 在哪方面, 在那方面
 wee                [wiː]                a. 很小的, 微小的 n. 一点点
 Welsh              [welʃ]               a. 威尔士的 n. 威尔士人 vi. 赖赌帐, 逃避责任
-workstation        [ˈwәːk.steiʃәn]      n. 工作站
-artichoke          [ˈɑːtitʃәuk]         n. 朝鲜蓟
-relaxing           []                   a. 令人轻松的
-pow                [pau]                n. 砰, 啪（爆炸声、枪响或打人声）
-unwelcome          [ʌnˈwelkәm]          a. 不受欢迎的, 讨厌的 n. 冷淡 vt. 冷淡地对待, 冷淡地接受
-seamless           [ˈsiːmlis]           a. 无缝的, 无缝合线的
 shrill             [ʃril]               n. 尖声 a. 尖锐的, 刺耳的 vt. 尖声说出 vi. 发出刺耳声
 poppy              [ˈpɒpi]              n. 罂粟
-misuse             [ˌmisˈjuːz]          n. 误用, 滥用 vt. 误用, 滥用, 虐待
-mythic             [ˈmiθik]             a. 神话的, 不真实的, 虚构的, 幻想出来的
 facilitator        [fәˈsiliteitә]       n. 服务商; 促进者
 grapefruit         [ˈgreipfruːt]        n. 葡萄柚
 lapel              [lәˈpel]             n. 翻领
-unimaginable       [ˌʌniˈmædʒinәbl]     a. 不能想象的, 不可思议的
 gilded             [ˈgildid]            a. 镀金的, 有钱的, 装饰的
 papal              [ˈpeipl]             a. 罗马教皇的, 教皇制度的
-dissolution        [ˌdisәˈluːʃәn]       n. 分解, 溶解, 解散, 结束
 anesthesia         [ˌænisˈθiːziә]       n. 麻醉; 失去知觉
 battleground       [ˈbætlgraund]        n. 战场, 战地
-religiously        []                   adv. 笃诚地, 与宗教有关地
-teddy              [ˈtedi]              n. 内衣, 连衫衬裤; 泰迪玩具熊
 mammogram          [ˈmæmә,græm]         n. 乳房X线照片
 ashtray            [ˈæʃtrei]            n. 烟灰缸
-sexism             [ˈseksizm]           n. 性别歧视, 歧视女性
-spirited           [ˈspiritid]          a. 有精神的, 活泼的, 生气勃勃的
-sexist             [ˈseksist]           n. 性别歧视者
-handout            [ˈhændaut]           n. 施舍物, 救济品, 分发的印刷品资料, 广告物品
-awakening          [әˈweikәniŋ]         n. 唤醒, 觉醒, 被唤起 a. 觉醒中的
-arcade             [ɑːˈkeid]            n. 拱廊, 拱形建筑物, 有拱廊的街道
-masked             [mæskt]              a. 戴假面具的, 隐现的, 伪装的, 掩蔽的
 morgue             [mɔːg]               n. 陈尸所
 deterrence         [diˈtәːrәns]         n. 威慑, 威慑力量
 biomedical         [ˌbaiәuˈmedikәl]     a. 生物医学
 interdependence    [ˌintәdiˈpendәns.-dәnsi] n. 互相依赖
 biceps             [ˈbaiseps]           n. 二头肌, 臂部肌肉
-instrumentation    [ˌinstrumenˈteiʃәn]  n. 乐器法, 仪器制造学, 仪表化, 器械操作法
 incarceration      [in.kɑːsәˈreiʃәn]    n. 下狱, 监禁, 禁闭
 antler             [ˈæntlә]             n. 鹿角
-hardened           [ˈhɑːdәnd]           a. 变硬的; 坚定的
 evangelist         [iˈvændʒilist]       n. 福音传道者, 圣经新约福音书的作者
 sesame             [ˈsesәmi]            n. 芝麻, 脂麻, 胡麻
 campground         [ˈkæmpɡrәund]        n. 露营场所; 野营地
-state-owned        []                   a. 国营
 crimson            [ˈkrimzәn]           n. 深红色 a. 深红色的 v. (使)变为深红色, 脸红
 aforementioned     [әˈfɒː.menʃәnd]      a. 上述的, 前述的
 utterance          [ˈʌtәrәns]           n. 发声, 言辞, 表达, 说话的方式
 vignette           [viˈnjet]            n. 装饰图案; 小插图
-anti-American      [ˌæntiәˈmerikәn]     a. 反美的
 tubing             [ˈtjuːbiŋ]           n. 管材; 管线; 管道系统
 litany             [ˈlitәni]            n. 连祷, 连续
 dynamite           [ˈdainәmait]         n. 炸药 vt. 炸毁, 破坏
 illustrator        [ˈilәstreitә]        n. 插画家, 图解者, 说明者
-for-profit         [ˈfɔːrprˈɒfɪt]       a. 以盈利为目的的
 nonstop            [nɒnˈstɒp]           a. 直达的, 不着陆的, 不休息的 adv. 不休息地 n. 直达车, 直达行驶
 albanian           [ælˈbeinjәn]         n. 阿尔巴尼亚人
 undress            [ˌʌnˈdres]           vt. 使脱衣服, 暴露, 使卸去装饰 vi. 脱衣服
 lovingly           [ˈlʌviŋli]           adv. 钟爱地, 亲切地
-self-control       [ˈselfkәnˈtrәul]     n. 克己, 自制
 citizenry          [ˈsitizәnri]         n. 市民
-lifeless           [ˈlaiflis]           a. 无生命的, 无趣味的, 死气沉沉的
 polio              []                   n. 脊髓灰质炎, 小儿麻痹症
 proton             [ˈprәutɒn]           n. 质子
 incest             [ˈinsest]            n. 乱伦, 近亲通婚
-eater              [ˈiːtә]              n. 吃...的人, 生吃的水果, 美味的水果
 ultrasound         [ˈʌltrә,saund]       n. 超声
 meltdown           [ˈmeltdaun]          n. 熔化, 崩盘, 彻底垮台, 情绪失控
 unfavorable        [ˌʌnˈfeivәrәbl]      a. 不宜的, 不顺利的, 反对的, 不利的, 有害的
@@ -2418,28 +1350,14 @@ burnout            [ˈbәːnaut]           n. 烧尽, 烧坏, 熄火
 disgruntled        [disˈgrʌnt(ә)ld]     a. 不满意的, 满腹牢骚的, 不高兴的
 anti-depressant    [ˈæntiːdɪprˈesænt]   n. 抗抑郁药; 使人放松（或快乐）的事物; 解忧良药
 drilling           [ˈdriliŋ]            n. 演练
-fourteenth         [ˈfɒːˈtiːnθ]         num. 第十四, 十四分之一
 quintessential     [ˌkwintiˈsenʃәl]     a. 精萃的, 精髓的, 典范的
-hijacker           [ˈhaidʒækә]          n. 强盗, 劫持者, 绑架者
 Finnish            [ˈfiniʃ]             n. 芬兰语 a. 芬兰的, 芬兰人的, 芬兰语的
 untreated          [ˈʌnˈtriːtid]        a. 未经治疗的; 未作处理的
-wasted             [ˈweistid]           a. 浪费的, 瘦弱的
-flowering          [ˈflauәriŋ]          a. 开花的 n. 开花, 饰以花
-high-ranking       []                   a. 阶级高的, 职位高的, 高级官员的
-telegram           [ˈteligræm]          n. 电报, 一封电报
-week-long          []                    持续一星期的; 为期一周的
 particulars        []                   n. 细节, 详细情况, 详情
 owing              [ˈәuiŋ]              a. 未付的, 亏欠的, 受惠的, 归因于...的
-freestyle          [ˈfriːstail]         n. 自由式
-alright            [ɔːlˈrait]           a. 没问题的
-kickoff            [ˈkikɒf]             n. 开球, 开始, 肇始
 haunted            [ˈhɔːntid]           a. 常出现鬼的, 闹鬼的
-seaside            [ˈsiːsaid]           a. 海边的, 海滨的 n. 海滨
 tulip              [ˈtjuːlip]           n. 郁金香
 camaraderie        [ˌkæmәˈrɑːdәriː]     n. 友情; 同志之爱
-inventive          [inˈventiv]          a. 善于创造的, 发明的
-anti-abortion      [ˌæntiːəˈbɔːʃən]     adj. 反对堕胎的
-UFO                [ˈjuːfәu, ,juːefˈәu] 不明飞行物, 飞碟
 Islamist           [izˈlɑːmist]         n. 伊斯兰教主义者; 回教教徒
 panelist           [ˈpænәlist]          n. 专门小组成员, 演出小组成员, 参加电视公开讨论会的成员, 答问小组的成员
 buff               [bʌf]                n. 暗黄色, 暗黄色皮革, 人的皮肤 vt. 擦亮, 使柔软 a. 暗黄色的
@@ -2453,52 +1371,35 @@ casing             [ˈkeisiŋ]            n. 箱, 盒, 包装, 框, 套管
 sandstone          [ˈsændstәun]         n. 沙岩, 砂岩
 overpower          [ˌәuvәˈpauә]         vt. 击败, 打胜, 克服
 disproportionately []                   adv. 不匀称, 不相称
-timeline           [ˈtaɪmlaɪn]          n. 时间轴, 时间表
 coercive           [kәuˈәːsiv]          a. 强制的, 强迫的, 强行的
 coveted            [ˈkʌvɪtid]           a. 令人垂涎的; 垂涎的, 梦寐以求的
 dumbbell           [ˈdʌmbel]            n. 哑铃
 cervical           [ˈsәːvikәl]          a. 颈的, 子宫颈的
-countryman         [ˈkʌntrimәn]         n. 同胞, 乡下人, 国民
 toxicity           [tɒkˈsisiti]         n. 毒力, 毒性
-faraway            [ˈfɑːrәwei]          a. 遥远的, 恍惚的, 出神的
 darn               [dɑːn]               n. 织补 v. 织补
 Crescent           [ˈkresәnt]           n. 新月, 新月形(物) a. 新月形的, 逐渐增加的
 airway             [ˈєәwei]             n. 空中航线, 风道, 导气管
 soaked             []                   a. 湿透的
 antarctic          [æntˈɑːktik]         a. 南极的, 南极地带的 n. 南极地区
 iconic             [aiˈkɔnik]           a. 偶像的, 似圣像的; 与图像有关的, 图像性的; 以传统风格刻画的
-dishonest          [disˈɒnist]          a. 不忠实的, 不诚实的, 欺诈的
-boyhood            [ˈbɒihud]            n. 少年时代
 panties            [ˈpænti]             n. 女式短裤
 admiral            [ˈædmәrәl]           n. 舰队司令, 海军上将, 旗舰
-self-help          [ˈselfˈhelp]         n. 自助, 自立
 raccoon            [ræˈkuːn]            n. 浣熊, 浣熊毛皮
 white-collar       [ˈwaitˈkɔlә]         a. 白领阶层的
-correctional       [kәˈrekʃәnәl]        a. 改正的, 修正的, 矫正的
 rotor              [ˈrәutә]             n. 转子, 旋筒, 转动体
 handlebar          [ˈhændlbɑː]          n. 手把
 fiddle             [ˈfidl]              n. 小提琴, 提琴类乐器 vt. 虚度时光, 拉小提琴 vi. 拉小提琴, (无目的地)拨弄, 瞎搞
-versatility        [ˌvәːsәˈtiliti]      n. 多用途, 多才多艺, 易变
-unarmed            [ˈʌnˈɑːmd]           a. 没有武装的, 非武装的, 徒手的, 手无寸铁的, 无突的, 无刺的
-indistinguishable  [ˌindisˈtiŋgwiʃәbl]  a. 不能辨别的, 不能区别的
 thyroid            [ˈθairɒid]           a. 甲状腺的, 甲状的, 甲状软骨的 n. 甲状腺, 甲状软骨, 甲状腺剂
 flex               [ˈfleks]             vt. 弯曲, 伸缩, 折曲 vi. 弯曲 n. 屈曲, 折曲
 runner-up          []                   n. 亚军, 亚军队; (拍卖时)高喊货价的人
-horseman           [ˈhɒːsmәn]           n. 骑马者, 马术师, 养马者
 swinging           [ˈswiŋiŋ]            a. 摆动的, 摇摆的; 大量的, 极好的; 大力的, 极有力的; 活跃的, 时髦的
-mounted            [ˈmauntid]           a. 安在马上的, 裱好的
-falsely            [ˈfɒːlsli]           adv. 虚伪地, 错误地, 不实地
-cutting-edge       [ˈkʌtɪŋˈedʒ]         a. 前沿的, 最前沿的
 contraception      [ˌkɒntrәˈsepʃәn]     n. 避孕, 节育法
 exec               [igˈzek]             n. 主任参谋, 副舰长 [计] 执行, 执行程序
 ambient            [ˈæmbiәnt]           a. 周围的 n. 周围环境
 juxtaposition      [ˌdʒʌkstәpәˈziʃәn]   n. 并排, 并置, 并列
-industrialization  [in,dʌstriәlaiˈzeiʃn] n. 工业化, 产业化
-Appalachian        [ˌæpəˈleitʃjən]      n. 阿巴拉契亚山脉 a. 阿帕拉契山脉的
 marginally         []                   adv. 轻微地, 很少地, 微不足道地
 scallop            [ˈskɒlәp]            n. 扇贝 vt. 用扇贝状碟烘烤 vi. 拾扇贝
 agonizing          [ˈægәnaiziŋ]         a. 折磨人的, 痛苦难忍的
-speaking           [ˈspiːkiŋ]           n. 谈话, 演说 a. 讲话的, 适于说的, 讲某种语言的
 taco               [ˈtɑːkәu]            n. 墨西哥煎玉米卷; [美俚]墨西哥人
 blitz              [blits]              n. 闪电战 vt. 以闪电战攻击
 sunflower          [ˈsʌnflauә]          n. 向日葵
@@ -2508,14 +1409,12 @@ daisy              [ˈdeizi]             n. 雏菊, 一流人物 a. 第一流的
 marinade           [ˌmæriˈneid]         n. 腌泡汁 vt. 腌泡
 senseless          [ˈsenslis]           a. 无感觉的, 无意识的, 不省人事的
 sub-saharan        [ˌsʌb səˈhɑːrən]     a. 撒哈拉沙漠以南的非洲（大陆）的
-unforgettable      [ˌʌnfәˈgetәbl]       a. 忘不了的, 令人难忘的
 cinematic          [ˌsiniˈmætik]        a. 电影的, 影片的
 detractor          [diˈtræktә(r)]       n. 毁损者, 贬低者
 firewood           [ˈfaiәwud]           n. 木柴
 polo               [ˈpәulәu]            n. 马球, 水球
 toad               [tәud]               n. 蟾蜍, 癞蛤蟆, 讨厌的家伙
 securely           [siˈkjuәli]          adv. 安全地; 安心地; 牢固地; 有把握地
-blindly            [ˈblaindli]          adv. 轻率地, 盲目地
 whirlwind          [ˈhwәːlwind]         n. 旋风
 crotch             [krɒtʃ]              n. 分叉处, 丫叉, 胯部
 psychotherapy      [ˌsaikәuˈθerәpi]     n. 精神疗法, 心理疗法
@@ -2523,10 +1422,7 @@ front-page         []                   a. 适合第一版的, 重要的
 two-time           [ˈtuːtaim]           vt. 爱情上对...不忠, 骗 a. 有过两次的
 crossover          [ˈkrɒsәuvә]          n. 转到另一方, 天桥, 交叉
 bedrock            [bedˈrɒk]            n. 基岩, 基本原理, 基础
-chi                [kai, kiː]           n. 卡, χ(希腊文的第二十二个字母)
 fungal             [ˈfʌŋgәl]            a. 真菌, 突然发生而迅速生长的东西, 真菌类植物, 海绵肿, 真菌类病害
-bisexual           [ˌbaiˈseksjuәl]      a. 两性的, 雌雄同体的
-differential       [difәˈrenʃәl]        a. 差别的, 特异的, 微分的 n. 差别, 两路线运费差额, 工资差额
 Byzantine          [biˈzæntain]         a. 拜占庭帝国的, 拜占庭式的
 workable           [ˈwәːkәbl]           a. 可经营的, 可使用的, 能工作的, 机械等能使用的, 材料等可加工的
 tarp               [tɑːp]               n. (=tarpaulin)防水布, 油布
@@ -2539,13 +1435,7 @@ revolving          [riˈvɒlviŋ]          a. 回转的, 旋转的, 旋转式的
 high-powered       [ˈhaiˈpajәd]         a. 马力大的, 高性能的, 精力充沛的
 punt               [pʌnt]               n. 方头平底船, 踢悬空球, 赌博者 v. 踢悬空球, 用篙撑船, 赌博
 intolerable        [inˈtɒlәrәbl]        a. 无法忍受的, 难耐的
-heartbreaking      [ˈhɑːtbreikiŋ]       a. 令人悲伤的, 极其累人的, 令人动情的
-connector          [kәˈnektә]           n. 连结者, 联系者, 连结物
 Mormon             [ˈmɒːmәn]            n. 摩门教徒
-taxable            [ˈtæksәbl]           a. 可征税的, 应征税的
-authorized         [ˈɒːθәraizd]         a. 经认可的, 经授权的
-stepmother         [ˈstep.mʌðә]         n. 继母
-thereof            [ˌðєәrˈɒv]           adv. 在其中, 关于..., 由此, 由是
 suitor             [ˈsjuːtә]            n. 起诉人, 原告, 求婚者
 excessively        [ikˈsesivli]         adv. 过多, 极度, 过度, 过分
 Philippine         [ˈfilipiːn]          a. 菲律宾(群岛)的, 菲律宾人的
@@ -2554,16 +1444,11 @@ captor             [ˈkæptә]             n. 捕获者, 夺得者, 攻夺者
 irregularity       [i.regjuˈlæriti]     n. 不规则, 例外, 违反规则的行为
 goofy              [ˈguːfi]             a. 愚笨的, 傻瓜的
 irreversible       [ˌiriˈvәːsәbl,-sib-] a. 不可逆的, 不可改变的, 不能倒置的, 不能翻转的, 不能倒转的, 不可撤销的
-unreal             [ˈʌnˈri(ː)әl]        a. 假的, 虚构的, 不真实的, 幻想的
 lighthouse         [ˈlaithaus]          n. 灯塔
-insulting          [inˈsʌltiŋ]          a. 侮辱的, 损害人体的
-westward           [ˈwestwәd]           n. 朝西的方向 a. 向西的 adv. 向西的
 wildfire           [ˈwaildfaiә]         n. (古时战争时所用的)燃料剂, 磷火, 鬼火, 野火
 bookcase           [ˈbukkeis]           n. 书架, 书柜
 sailboat           [ˈseilbәut]          n. 帆船
 splinter           [ˈsplintә]           n. 碎片, 尖片, 分裂出来的小派别, 微小的东西 v. 使分裂, (使)破裂
-son-in-law         []                   n. 女婿
-accuser            [әˈkjuːzә]           n. 原告, 指控人, 控告者
 dizzying           [ˈdiziːiŋ]           a. 使人头晕的; 使人糊涂的
 transatlantic      [ˌtrænsәtˈlæntik]    a. 横渡大西洋的, 大西洋彼岸的, 美国的
 diving             [ˈdaiviŋ]            n. 潜水, 跳水
@@ -2576,8 +1461,6 @@ reintroduce        [riːintrәˈdjuːs]     vt. 再引进, 再介绍
 shank              [ʃæŋk]               n. 胫, 腿骨, 杆, 柄 vt. 用铁球棒末端击球 vi. 花从病梗上枯萎脱落
 unnerve            [ˌʌnˈnәːv]           vt. 使失去勇气, 使胆怯, 使不能自制
 undue              [ˌʌnˈdjuː]           a. 不适当的, 过度的, 未到期的
-ta                 [tɑː]                interj. 谢谢
-sweetly            [ˈswiːtli]           adv. 甜美地, 惬意地, 讨人喜欢地
 tumultuous         [tjuːˈmʌltʃuәs]      a. 吵闹的, 纷乱的, 骚乱的, 凶猛的
 medicaid           [ˈmedikeid]          n. 公费医疗补助制, 医疗保健业, 医疗补助方案
 handwritten        [ˈhænd.ritәn]        a. 手写的
@@ -2600,20 +1483,12 @@ flaming            [ˈfleimiŋ]           a. 燃烧的, 热烈的, 色彩鲜明�
 countertop         [ˈkajntәtɔp]         n. (厨房的)工作台面
 overtly            [ˈәuvәːtly. әuˈvәːtly] adv. 明显地; 公开地, 公然地
 bosom              [ˈbuzәm]             n. 胸部, 胸, 胸怀, 内部, 中间 vt. 怀抱
-selectively        []                   adv. 有选择地
-bathing            [ˈbeiðiŋ]            n. 游泳, 洗海水澡
 vibe               [vaɪb]               n. 感应, 共鸣
-start-up           []                   n. 启动; 开始工作
 binge              [bindʒ]              n. 狂闹, 狂欢
 stucco             [ˈstʌkәu]            n. 粉饰灰泥 vt. 涂以灰泥, 粉刷
 apprenticeship     [әˈprentisʃip]       n. 学徒身分, 见习(期)
 spam               []                   n. 罐头猪肉, 垃圾邮件 v. 发送垃圾邮件
-checkup            [ˈtʃekʌp]            n. 审查, 鉴定, 健康检查
-unnecessarily      [ʌnˈnesisәrili]      adv. 不必要地, 多余地
-paternal           [pәˈtәːnl]           a. 父亲的, 父系的, 似父亲的, 得自父亲的, 家长式统治的
-registry           [ˈredʒistri]         n. 登记处, 登记名册 [计] 登录库
 pimp               [pimp]               n. 皮条客, 男妓, 恶棍, 窥探情人者, 告密者 vi. 拉皮条, 告密
-experimenter       []                   n. 实验者, 试验者
 antics             [ˈæntiks]            n. 滑稽动作, 古怪姿态
 victor             [ˈviktә]             n. 胜利者 a. 胜利的
 amputation         [ˌæmpjuˈteiʃәn]      n. 切断, 截肢术
@@ -2625,7 +1500,6 @@ Epiphany           [iˈpifәni]           n. 主显节, 出现
 cameraman          [ˈkæmәrәmæn]         n. 照相师, 摄影师
 butler             [ˈbʌtlә]             n. 男管家, 司膳总管
 Parmesan           [ˈpɑːmizæn]          n. 帕尔马干酪(意大利产)
-uncomfortably      [ʌnˈkʌmftəbli]       adv. 不舒适地, 不自在地, 令人不快地
 flashback          [ˈflæʃbæk]           n. 倒叙, 火舌回闪
 beleaguered        [bɪˈliɡɚd]           a. 围困的; 包围的
 airfield           [ˈєәfiːld]           n. 飞机场
@@ -2634,35 +1508,26 @@ inflated           [inˈfleitid]         a. 膨胀的, 充了气的, 夸张的, 
 espresso           [eˈspresәu]          n. （用汽加压煮出的）浓咖啡
 whipped            [hwipt]              a. 受到鞭打的
 polarization       [ˌpәjlәraiˈzeiʃәn; -riˈz-] n. 极化, 极化强度, 偏振, 两极分化
-outperform         [ˌautpәˈfɔːm]        vt. 胜过; 做得比……好
-self-sufficient    [ˈselfsәˈfiʃәnt]     a. 自给自足的, 极为自负的
-workman            [ˈwәːkmәn]           n. 工人, 工匠, 男工
 vaginal            [vәˈdʒainl]          a. 鞘的, 似叶鞘的, 阴道的
 uterus             [ˈjuːtәrәs]          n. 子宫
 whopping           [ˈhwɒpiŋ]            a. 巨大的, 天大的 adv. 非常地
 sneeze             [sniːz]              n. 喷嚏 vi. 打喷嚏
 acreage            [ˈeikәridʒ]          n. 英亩数, 土地面积
-launcher           [ˈlɒːntʃә]           n. 发射者, 发射台
 combo              [ˈkɒmbәu]            n. 小型爵士乐团
-acrylic            [әˈkrilik]           a. 丙烯酸的
 arsenic            [ˈɑːsәnik]           n. 砷, 砒霜
 unethical          []                   a. 不道德的
 shopkeeper         [ˈʃɒp.kiːpә]         n. 零售商, 店主, 老板
 in-law             [ˈinlɔː]             n. 姻亲
 dramatize          [ˈdræmәtaiz]         vt. 改编成戏剧, 编写剧本 vi. 戏剧化
 assailant          [әˈseilәnt]          n. 攻击者, 行凶者
-mating             [ˈmeitiŋ]            n. 配套; 交配
 mutant             [ˈmjuːtәnt]          n. 突变体
 twinkle            [ˈtwiŋkl]            n. 闪烁, 闪耀, 瞬息 vi. 闪烁 vt. 使闪耀
 appalled           [əˈpɔːld]            a. 惊骇的; 丧胆的
 modality           [mәuˈdæliti]         n. 样式, 形式, 形态 [医] 药征, 用药程式(顺势疗法派所用的名词)
-unimportant        [ˌʌnimˈpɒːtnt]       a. 不重要的
 aback              [әˈbæk]              adv. 向后, 朝后, 突然, 船顶风地
 leek               [liːk]               n. 韭
-one-sided          [ˌwʌnˈsaidid]        a. 只有一边的, 不公正的, 单方面的, 片面的, 一边倒的, 一边占优势的
 waxed              [ˈwæksid]            a. 上过蜡的; 防水的
 priesthood         [ˈpriːsthud]         n. 神职人员, 祭司职
-whiteness          [ˈhwaitnis]          n. 白, 苍白, 洁白
 patchwork          [ˈpætʃwәːk]          n. 拼缝物, 拼凑物
 thud               [θʌd]                n. 砰的一声, 重击 vi. 砰的一声掉下, 嘭的一声
 spec               [spek]               n. 投机, 投机事业, 规格, 说明书, 专业人员
@@ -2672,7 +1537,6 @@ windmill           [ˈwindmil]           n. 风车
 bonfire            [ˈbɒnfaiә]           n. 大篝火, 营火
 geographer         [dʒiˈɒgrәfә]         n. 地理学者
 anti-Semitic       [æntiˈsemitik]       n. 反犹的, 反犹主义的
-helplessness       [ˈhelpləsnəs]        n. 无可奈何状态, 无能为力; 无助的状态
 cavernous          [ˈkævәnәs]           a. 似巨穴的, 空洞的
 mail-order         [ˌmeɪlˈɔːdə]         a. 邮购的
 subculture         [ˈsʌb,kʌltʃә]        n. 亚文化群, 次代培养物
@@ -2680,20 +1544,13 @@ marina             [mәˈrinә]            n. 码头
 classy             [ˈklɑːsi]            a. 上等的, 优等的, 漂亮的
 intravenous        [ˌintrәˈviːnәs]      a. 静脉内的
 primacy            [ˈpraimәsi]          n. 第一, 首位, 卓越
-credit-card        []                   信用卡; 记帐卡
 pre-emptive        [priˈemptɪv]         a. 先发制人的; 抢先的
 unwittingly        []                   adv. 不知情地; 不知不觉地; 不经意地
 fondly             [ˈfɒndli]            adv. 溺爱地, 怜爱地, 情柔地
-lowland            [ˈlәulәnd]           n. 低地, 苏格兰低地 a. 低地的
 rocking            [ˈrɒkiŋ]             a. 摇摆的, 摇动的
 microbial          [maiˈkrәubiәl]       a. 微生物的, 由细菌引起的
-reset              [ˌriːˈset]           n. 重新设定, 重新组合, 重排版 vt. 重新设定, 重置, 重新组合 vi. 重置, 清零
 scoot              [skuːt]              vi. 快跑, 奔跑
 wondrous           [ˈwʌndrәs]           a. 令人惊奇的
-appointed          [әˈpɔintid]          a. 派任的, 任命的, 指定的
-mid-air            [mɪd eə(r)]          n. 空中; 半空中
-localized          []                   a. 小范围的; 局部的; 地区的
-schema             [ˈskiːmә]            n. 概要, 图解, 略图 [计] 模式
 teapot             [ˈtiːpɒt]            n. 茶壶
 baptize            [bæpˈtaiz]           vt. 施洗礼, 使经受考验, 命名
 preparedness       [priˈpєәdnis]        n. 准备状态, 战备状态
@@ -2711,25 +1568,17 @@ wellness           [ˈwelnis]            n. 健康
 camcorder          [kæmˈkɔːdә]          n. 摄录像机; 便携式摄像机
 eagerness          [ˈiːgәnis]           n. 热心
 macaroni           [ˌmækәˈrәuni]        n. 通心面, 纨绔子弟
-acrylic            [әˈkrilik]           a. 丙烯酸的
 gamma              [ˈgæmә]              n. 希腊语的第三个字母(Γ,γ) 
-elegantly          []                   adv. 优美地
 upside             [ˈʌpsaid]            n. 上侧, 上段, 上部
 weathered          []                   a. 受日晒雨淋的; 受风雨侵蚀的
-trucker            [ˈtrʌkә(r)]          n. 卡车驾驶员, 从事货车运输业者, 以物易物者, 小贩
 cornmeal           [ˈkɒːnmiːl]          n. 玉蜀黍粉, 玉米片, 麦片
-gunner             [ˈgʌnә]              n. 炮手, 炮长, 机关枪手, 带枪猎人
-inescapable        [ˌiniˈskeipәbl]      a. 逃不掉的, 不可避免的
 onlooker           [ˈɔnljkә(r)]         n. 旁观者, 袖手旁观者
 immortality        [ˌimɒːˈtæliti]       n. 永存, 不死; 流芳百世
-loudspeaker        [ˈlaudˈspiːkә]       n. 扩音器, 喇叭
-childlike          [ˈtʃaillaik]         a. 孩子似的, 天真烂漫的
 apricot            [ˈeiprikɒt]          n. 杏子, 杏树, 杏黄色 a. 杏黄色的
 layered            [ˈleiәd]             a. 层状的; 分层的
 hooded             [ˈhudid]             a. 有罩盖的, 戴头巾的
 borderline         [ˈbɒːdәlain]         n. 边界, 界线 a. 边界的
 re-evaluate        [ˈriːɪˈvæljʊeɪt]     vt. 再估价
-simulator          [ˈsimjuleitә]        n. 模拟器, 假装者 [计] 模拟器
 spook              [spuːk]              n. 幽灵, 鬼 vt. 惊吓, 鬼怪般地出没 vi. 惊吓而逃窜, 受惊
 driving            [ˈdraiviŋ]           n. 赶, 操纵, 驾驶 a. 推进的, 强劲的, 精力旺盛的
 coloring           [ˈkʌlәriŋ]           n. 着色; 着色剂; 配色; 天然色; 外貌
@@ -2744,24 +1593,11 @@ replication        [ˌrepliˈkeiʃәn]      n. 回答, 反响, 复制, 第二次
 nonverbal          [nɔnˈvәːbәl]         a. 不用语言的; 不用动词的
 poorly             [ˈpuәli]             adv. 贫穷地, 不充分地, 贫乏地 a. 身体不舒服的
 all-out            []                   a. 竭力的, 全部的
-co-owner           []                   n. 共有人, 共同所有人
 mystique           [misˈtiːk]           n. 神秘的气氛, 奥秘, 秘诀
-self-concept       [ˌselfˈkɒnsept]      n. 自我概念
-guinea             [ˈgini]              n. 几内亚
-imperfection       [ˌimpәˈfekʃәn]       n. 不完美, 缺点, 疵点, 毛病
 contraceptive      [ˌkɒntrәˈseptiv]     a. 避孕的 n. 避孕剂, 避孕用具
-inaccessible       [ˌinækˈsesәbl]       a. 难得到的, 难接近的, 难达成的
-redevelopment      []                   n. 再开发; 重点恢复
-overestimate       [ˌәuvәrˈestimeit]    vt. 评价过高, 过高估价 n. 估计过高, 评价过高
 precedence         [priˈsiːdns]         n. 优先, 居先
-amish              [ˈɑːmiʃ]             n. 孟诺教派; 孟诺教派之教徒
 vagina             [vәˈdʒainә]          n. 阴道, 鞘, 叶鞘
-unhappiness        []                   n. 苦恼; 忧愁
-underworld         [ˈʌndәwәːld]         n. 下层社会, 地狱, 下流社会
 nightgown          []                   n. 女式睡衣, 孩子穿的睡衣, 妇女穿的睡衣
-Haitian            [ˈheitiәn]           a. 海地的 n. 海地人, 海地语
-reuse              [riːˈjuːz]           vt. 再使用 n. 重新使用
-full-length        []                   a. 全长的, 等身的, 全身长的
 cobalt             [ˈkәubɒːlt]          n. 钴, 钴类颜料
 herein             [ˌhiәrˈin]           adv. 在此处, 如此
 nagging            [ˈnægiŋ]             a. 唠叨的, 责备挑剔的
@@ -2775,16 +1611,12 @@ uphill             [ˈʌpˈhil]            a. 上坡的, 向上的 adv. 往上�
 lax                [læks]               a. 松的, 不严格的, 腹泻的, 松弛的 n. 腹泻, 松元音
 plurality          [ˌpluәˈrælәti]       n. 复数, 较大的数, 多数状态, 兼职
 warring            [ˈwɔːriŋ]            a. 交战的, 敌对的, 冲突的
-restart            [ˌriːˈstɑːt]         v. 重新开始, 重新启动
 participatory      [pɑːˈtisipeitәri]    a. 吸引参与的, 供人分享的
 dissemination      [di.semiˈneiʃә]      n. 散播, 传播, 普及
-fast-growing       [ˈfɑːstɡrˈəʊɪŋ]       快速增长的
-stockholder        [ˈstɒkhәuldә]        n. 股东, 股票持有者, 股票所有人
 zombie             [ˈzɔmbi]             n. 蛇神, 起死回生的魔力, 僵尸, 回魂尸, (美)鸡尾酒, 木鸡, 讨厌的家伙
 prism              [ˈprizm]             n. 棱镜, 棱柱
 bigotry            [ˈbigәtri]           n. 盲从, 偏见, 偏执的行为(或态度)
 sync               [siŋk]               n. 同步, 同时
-boiled             [bɔild]              a. 煮沸的, (非正式)喝醉的, 烧滚的
 predispose         [ˌpriːdiˈspәuz]      vt. 预先处置, 使预先有倾向
 mane               [mein]               n. 鬃毛
 furry              [ˈfәːri]             a. 毛皮的, 盖着毛皮的, 似毛皮的
@@ -2802,22 +1634,12 @@ mindless           [ˈmaindlis]          a. 没头脑的, 不小心的, 不留�
 rightful           [ˈraitful]           a. 合法的, 正直的, 恰当的
 pulmonary          [ˈpʌlmәnәri]         a. 肺的, 与肺有关的, 有肺的
 burly              [ˈbәːli]             a. 结实的, 粗壮的, 率直的
-first-rate         []                   a. 第一流的, 最上等的, 非常好的 adv. 非常好地, 一流地
-wide-ranging       [ˈwaɪdˈreɪndʒɪŋ]     a. 范围或内容广泛的
-hiking             [ˈhaikiŋ]            n. 徒步旅行
 variously          [ˈveәriәsli]         adv. 以各种方式地, 不同地, 个别地, 多彩地
 marquee            [mɑːˈkiː]            n. 大帐篷, 遮篷, 选取框
-finder             [ˈfaindә]            a. 发现者, 寻星镜, 寻觅器, 探示器
-medium-size        []                   中号, 中码; 中号尺码
-croat              [ˈkrәuәt]            n. 克罗地亚人; 克罗地亚语
 grinder            [ˈgraindә]           n. 推磨的人, 研磨者; 磨床, 研磨机
 effortlessly       [ˈefətləslɪ]         adv. 不作努力地, 不费力地
-Somali             [sәuˈmɑːli]          n. 索马里人
 activation         [æktiˈveiʃәn]        n. 活化, 激活
-fondness           [ˈfɔndnis]           n. 溺爱; 爱好
 shellfish          [ˈʃelfiʃ]            n. 贝, 甲壳类水生物
-absentee           [ˌæbsәnˈtiː]         n. 不在者, 缺席者, 未到工者
-fifteenth          [ˈfifˈtiːnθ]         num. 第十五, 十五分之一
 push-up            []                   n. 俯伏撑
 undisturbed        [ˌʌndiˈstәːbd]       a. 未被扰乱的, 安静的, 镇定的
 jamaican           [dʒәˈmeikәn]         a. 牙买加的; 牙买加人的
@@ -2839,8 +1661,6 @@ armpit             [ˈɑːmpit]            n. 腋, 腋窝
 excruciating       [iksˈkruːʃieitiŋ]    a. 极痛苦的, 折磨人的, 精心制作的
 impractical        [imˈpræktikәl]       a. 不切实际的, 不能实行的, 不现实的, 不合情理的
 revamp             [riːˈvæmp]           vt. 换新鞋面, 修理, 修补, 修改
-embedded           [imˈbedid]           a. 植入的, 内含的, 深入的
-year-long          [jəː lɔŋ]            a. 长达一年的, 一年之久的
 consensual         [kәnˈsensjuәl]       a. 一致同意的, 各方同意的; 交感的, 同感的
 hormonal           [hɒːˈmәunәl]         a. 荷尔蒙的
 fertilization      [ˌfәːtilaiˈzeiʃәn]   n. 使肥沃,  施肥; 受精, 授精
@@ -2848,26 +1668,19 @@ uncontrollable     [ˌʌnkәnˈtrәulәbl]    a. 无法控制的
 migraine           [ˈmiːgrein, ˈmai-]   n. 偏头痛
 ply                [plai]               n. 厚度, 板层 vt. 使用, 使劲挥舞, 从事, 折, 弯 vi. 辛勤工作, 定期航行
 cadmium            [ˈkædmiәm]           n. 镉
-precondition       [ˌpriːkәnˈdiʃәn]     vt. 事先准备, 事先处理 n. 先决条件, 前提
 extracurricular    [ˌekstrәkәˈrikjulә]  a. 课外的, 业余的
-sister-in-law      []                   n. 夫(或妻)的姊妹, 嫂子, 弟媳
-medium-sized       [ˈmiːdiәmˈsaizd]     a. 中型的, 中等大小的
 observational      [ˌɔbzәˈveiʃәnәl]     a. 观察的, 观测的
 covering           [ˈkʌvәriŋ]           n. 覆盖物, 掩蔽物 a. 掩护的, 掩盖的
-standout           [ˈstændaut]          n. 杰出的人 a. 杰出的, 出色的
 dredge             [dredʒ]              n. 挖泥机, 拖网 vt. 用挖泥机疏浚, (用船)采捞
-instil             [inˈstil]            vt. 滴注, 逐渐灌输, 不断灌输
 chime              [tʃaim]              n. 钟声, 钟, 和谐 vi. 鸣, 奏出谐和的乐声, 和谐 vt. 敲出和谐的声音, 打钟报时, 重复说
 winged             [wiŋd]               a. 有翼的, 高速的, 迅速的, 飞行的, 翼受伤的
 posh               [pɒʃ]                a. 豪华的, 漂亮的, 优雅的, 极好的 interj. 呸
-stand-up           []                   a. 站立的, 直立的
 seaweed            [ˈsiːwiːd]           n. 海草, 海藻
 eel                [iːl]                n. 鳗鱼
 primordial         [praiˈmɒːdiәl]       a. 原生的, 原始的, 自原始时代的
 urn                [әːn]                n. 瓮, 缸; 骨灰瓮, 坟墓
 manslaughter       [ˈmænslɒːtә]         n. 杀人, 过失杀人罪
 stripper           [ˈstripә]            n. 脱衣舞演员; 剥...的人, 刮毛器, 折卸器, 剥皮器; 低产井, 枯竭井
-newscast           [ˈnjuːzkɑːst]        n. 新闻广播
 angst              [æŋst]               n. 焦虑, 疑惧
 nonstop            [nɒnˈstɒp]           a. 直达的, 不着陆的, 不休息的 adv. 不休息地 n. 直达车, 直达行驶
 custard            [ˈkʌstәd]            n. 蛋奶糕
@@ -2880,13 +1693,10 @@ behemoth           [biˈhiːmɔθ]          n. 庞然大物
 wisp               [wisp]               n. 小把, 小物体, 纤细的东西 vt. 把...卷成小把
 sheltered          []                   a. 受庇护的, 受保护的
 elitist            [eiˈlitist]          n. 优秀人材, 杰出人材 a. 优秀人材的, 杰出人材的
-one-man            []                   a. 只需要一个人的, 由一个人经营的, 由一个人做的, 由一个人组成的
 marinate           [ˈmærineit]          vt. 用腌泡汁腌/泡(肉/鱼)
 geneticist         [dʒiˈnetisist]       n. 遗传学家 
-father-in-law      [ˈfɑːðәrinlɔː]       n. 公公, 岳父
 glint              [glint]              n. 闪光, 一闪 vi. 闪耀, 闪闪发光, 反射, 迅速移动 vt. 使发光, 使闪光
 crazed             [kreizd]             a. 癫狂的; 疯狂的
-two-dimensional    []                   a. 两维的
 psychotic          [saiˈkɒtik]          a. 精神病的 n. 精神病患者
 mainstay           [ˈmeinstei]          n. 主桅支索, 支柱, 中流砥柱
 sprinkler          [ˈspriŋklә]          n. 洒水车, 洒水器
@@ -2895,17 +1705,12 @@ nutritious         [njuːˈtriʃәs]        a. 滋养的, 有营养的
 nutritionist       [njuːˈtriʃәnist]     n. 营养学家
 Filipino           [ˌfiliˈpiːnәu]       n. 菲律宾人
 nah                [nɑː]                a. 没有; 很少, 很小
-unquestionably     []                   adv. 毫无疑问, 不成问题, 无可非议, 确实
 little-known       [ˈlɪtlnˈəʊn]         a. 鲜为人知的
 deafening          [ˈdefәniŋ]           a. 震耳欲聋的
 borrowed           [ˈbɒrәud]            a. 借来的, 伪造的, 虚构的
 polyester          [ˌpɒliˈestә]         n. 聚酯
 hooker             [ˈhukә]              n. 用钩子的人; 妓女; 小渔船
-evolving           []                   a. 展开的; 进化的
-well-established   [ˈweliˈstæbliʃt]     a. 建立起地位的; 得到确认的
 stereotypical      [ˌsteriəˈtipikl]     a. 典型的; 带有成见的
-politicize         [pәˈlitisaiz]        vi. 搞政治 vt. 使具有政治性
-forcibly           [ˈfɒːsәbli]          adv. 强制地, 用力地
 unrestricted       [ˌʌnriˈstriktid]     a. 无限制的
 sonic              [ˈsɒnik]             a. 音波的, 音速的, 声音的
 brooding           [ˈbruːdiŋ]           a. 沉思的; 低覆的, 笼罩的; 森森然逼压的
@@ -2914,9 +1719,7 @@ beep               [biːp]               n. 短而尖的声音, 嘟 v. 嘟嘟响
 constitutionally   [ˌkɔnstiˈtjuːʃәnәli] adv. 本质地, 天生, 体质上
 implied            [ˈimplaid]           a. 暗指的, 含蓄的
 intercom           [ˈintәkɔm]           n. 内部通信, 内部通话系统
-inefficiency       [ˌiniˈfiʃәnsi]       n. 无效率, 无能
 tote               [tәut]               vt. 提, 负, 携带, 加, 合计 n. 负担, 携带
-doubly             [ˈdʌbli]             adv. 加倍地, 双重地
 geek               [giːk]               n. 反常的人; 畸形人; （俚）极客, 即智力超群, 善于钻研但不懂与人交往的怪才
 Syrian             [ˈsiriәn]            n. 叙利亚人, 叙利亚语 a. 叙利亚语的, 叙利亚人的
 battleship         [ˈbætlʃip]           n. 战列舰, 主力舰
@@ -2931,15 +1734,11 @@ methodist          [ˈmeθәdist]          n. 墨守成规者
 musically          [ˈmjuːzikli]         adv. 音乐上
 downhill           [ˈdaunˈhil]          a. 下坡的 adv. 下坡, 向下
 mater              [ˈmeitә]             n. 母亲
-uncontrolled       [ˌʌnkәnˈtrәuld]      a. 不受抑制的, 不受控制的, 自由的
 nozzle             [ˈnɒzl]              n. 管口, 喷嘴, 喷口
-banned             []                   a. 被禁的
 cashmere           [ˈkæʃmiә]            n. 开士米, 山羊绒
 tortoise           [ˈtɒːtәs]            n. 龟; 行动迟缓的人
 payout             [ˈpeiˈaut]           n. 支出, 花费, 付出款项
 dispatcher         [disˈpætʃә]          n. 发送者, 配车员, 调度员 [计] 调度程序; 调度器
-dislocation        [dislouˈkeiʃәn]      n. 脱臼, 转位, 混乱
-popularize         [ˈpɒpjulәraiz]       vt. 使成通俗性, 使平易, 使普及 vi. 通俗化
 philharmonic       [ˌfilɑːˈmɒnik]       a. 爱好音乐的, 交响乐团的, 爱乐团体的 n. 音乐爱好者, 音乐协会, 音乐会, 交响乐团
 juniper            [ˈdʒuːnipә]          n. 刺柏; 桧柏
 skid               [skid]               vt. 刹住, 滚滑 vi. 打滑 n. 刹车, 滑动垫木
@@ -2947,10 +1746,6 @@ guarded            [ˈgɑːdid]            a. 被防护着的, 被监视着的, 
 Lithuanian         [ˌliθjuːˈeiniәn]     n. 立陶宛人 a. 立陶宛的, 立陶宛人的, 立陶宛语的
 fiberglass         [ˈfaibәglɑːs]        n. 玻璃纤维, 玻璃丝
 chronological      [ˌ krɔnәˈlɔdʒikәl]   a. 编年的, 按时间顺序的, 按年月日顺序的
-wastewater         [ˈweistwɔːtә]        n. 废水
-hotline            [ˈhɔtlain]           n. 热线电话, 咨询电话; 热线
-eleventh           [iˈlevnθ]            num. 第十一, 十一分之一
-Parisian           [pәˈrizjәn]          n. 巴黎人 a. 巴黎的, 巴黎人的
 siding             [ˈsaidiŋ]            n. 侧线, 旁轨, 边宽
 Pakistani          [ˌpɑːkiˈstɑːni]      a. 巴基斯坦的 n. 巴基斯坦人
 chassis            [ˈʃæsi]              n. 底盘
@@ -2963,27 +1758,16 @@ crepe              [kreip]              n. 绉丝, 绉呢, 绉绸; 小而极薄�
 Celtic             [ˈkeltik; ˈseltik]   a. 凯尔特族的, 凯尔特语的 n. 凯尔特语
 eerily             []                   a. 怪诞的; 奇异的; 可怕的
 valet              [ˈvælit]             n. 贴身男仆 vt. 伺候
-age-old            [ˈeidʒәjld]          a. 古老的
 elf                [elf]                n. 小精灵, 矮人, 淘气鬼
 liturgical         [liˈtәːdʒikl]        a. 礼拜仪式的
-prioritize         [ˈpraiәritaiz]       vt. 按优先次序列出, 优先考虑
-ya                 [ˈjә]                abbr. 年轻人（young adult）; 偏航轴（yaw axis）
 gubernatorial      [ˌgjuːbәnәˈtɒːriәl]  a. 州长的, 统治者的
-binding            [ˈbaindiŋ]           n. 装订; 汇集; 绑定, 捆绑
-snowstorm          [ˈsnәustɒːm]         n. 暴风雪
-sioux              [suː]                a. 苏人的; 苏语的
-postmodernism      [ˌpəʊstˈmɒdənɪzəm]   n. 后现代主义
-Australian         [ɒˈstreiljәn]        n. 澳大利亚人 a. 澳大利亚的, 澳洲的, 澳洲人的
 mummy              [ˈmʌmi]              n. 干尸, 木乃伊, 瘦而干瘪之人, 妈咪
 Armenian           [ɑːˈmiːnjәn]         a. 亚美尼亚的, 亚美尼亚人的 n. 亚美尼亚人, 亚美尼亚语
-reconnect          [ˌriːkәˈnekt]        vt. 使再接合
 major-league       [ˈmeidʒəˈliːɡ]       a. 第一流的, 成功的; 职业体育总会的; 非常重要的, 有影响力的
 believable         [biˈliːvәbl]         a. 可信的
 potency            [ˈpәutәnsi]          n. 力量, 权力, 效力
-workday            []                   n. 工作日, (一天的)工作时数
 unfit              [ˌʌnˈfit]            a. 不适当的, 不胜任的, 不健康的 vt. 使不相宜, 使不合格
 veranda            [vәˈrændә]           n. 阳台, 走廊
-personalize        [ˈpәːsәnәlaiz]       vt. (贬)使个人化, 体现, 使人格化, 在(物品)上标明姓名/标出地址/标出记号
 mantel             [ˈmæntәl]            n. 壁炉架
 archbishop         [ˈɑːtʃˈbiʃәp]        n. 大主教
 full-size          [ˈfjlˈsaiz]          完全长大的, 全身的, 全尺寸的
@@ -2993,8 +1777,6 @@ intestinal         [inˈtestinәl]        a. 肠的, 肠内的
 drop-off           [ˈdrɔpɔf]            n. 下降, 减少
 Romanian           [ruːˈmeiniәn]        n. 罗马尼亚人, 罗马尼亚语 a. 罗马尼亚的
 dreaded            []                   a. 令人畏惧的, 可怕的
-decentralized      []                   a. 分散化, 分散式; 分散管理的; 分散的; 去中心化
-clipboard          [ˈklipbɒːd]          n. 有纸夹的写字板, 剪贴板
 gypsy              [ˈdʒipsi]            n. 吉卜赛人, 吉卜赛语 a. 象吉卜赛人的 vi. 流浪
 Eucharist          [ˈjuːkәrist]         n. 圣餐
 swimsuit           [ˈswimsjuːt]         n. 游泳衣
@@ -3005,33 +1787,17 @@ backside           [ˌbækˈsaid]          n. 背部, 背后, 后方
 vigilance          [ˈvidʒilәns]         n. 警戒, 警觉, 失眠症
 confrontational    [ˌkɒnfrʌnˈteɪʃnl]    a. 挑衅的; 对抗的
 rubric             [ˈruːbrik]           n. 类目; （书本、试卷等上的）按语, 说明, 提示
-rework             [riːˈwәːk]           vt. 重做, 修订, 修改, 再制, 再加工
-self-image         [ˈselfˈimidʒ]        n. 自我形象
-distrust           [disˈtrʌst]          n. 不信任 vt. 不信任
-exhibitor          [igˈzibitә(r)]       n. (展览会的)参加者, 展出者; 电影院经理, 电影院老板, 电影放映者
 observable         [әbˈzәːvәbl]         a. 显著的; 觉察得到的; 看得见的 n. 可观察量; 感觉到的事物
 philanthropy       [fiˈlænθrәpi]        n. 慈善, 仁慈, 博爱, 慈善事业, 慈善机构(团体)
-recount            [riˈkaunt]           vt. 详述, 叙述, 重新计算 n. 重新计算
-hotly              [ˈhɒtli]             adv. 暑热地, 激烈地, 热心地
 chimp              [tʃimp]              n. 黑猩猩
-heavy-duty         []                   a. 重型的, 关税重的
 hilltop            [ˈhiltɒp]            n. 小山顶
 albanian           [ælˈbeinjәn]         n. 阿尔巴尼亚人
-unbroken           [ˈʌnˈbrәukәn]        a. 未破损的, 未被征服的, 未打垮的, 不屈服的, 不涣散的, 整齐的, 未中断的
 confluence         [ˈkɒnfluәns]         n. 合流, 合流点, 集合, 人群
 stockpile          [ˈstɒkpail]          n. 储蓄, 积蓄, 库存 vt. 储蓄, 贮存
 saxophone          [ˈsæksәfәun]         n. 萨克斯管
 crusty             [ˈkrʌsti]            a. 有硬皮的, 易怒的; 硬的, 有壳的, 似外皮的
-innovator          [ˈinәuveitә]         n. 改革者, 创新者
-limitless          [ˈlimitlis]          a. 无限的, 无界限的
-striker            [ˈstraikә]           n. 打击者, 罢工者
-Creole             [ˈkriːәul]           n. 克里奥耳人, 克里奥耳语, 克里奥耳人所讲的法语 a. 克里奥耳人的, 克里奥耳式法语的
-kidnapper          []                   n. 诱拐者, 拐骗犯, 绑架者
-pre-existing       [ˌpriːɪgˈzɪstɪŋ]     a. 先已存在的, 早已存在的, 业已存在的
 rowing             [ˈrәuiŋ]             n. 划船
 hegemonic          [ˌhedʒiˈmɒnik]       a. 支配的, 霸权的
-forecaster         [ˈfɔːkɑːstә]         n. 预报员
-puzzling           [ˈpʌzliŋ]            a. 使迷惑的, 把人难住的
 immunization       [ˌimjuːnaiˈzeiʃәn]   n. 免疫
 wafer              [ˈweifә]             n. 薄酥饼, 圣饼, 晶片, 圆片, 干胶片 vt. 用干胶片封
 fiancee            [fiˈɒnsei]           n. 未婚妻
@@ -3042,11 +1808,8 @@ Swede              [swiːd]              n. 瑞典人
 lite               [lait]               a. 低糖的, 低脂的, 低酒精的; 清淡的; 简化的
 fanciful           [ˈfænsiful]          a. 奇怪的, 稀奇的, 想像的
 aching             [ˈeikiŋ]             a. 疼痛的, 使人痛苦的
-tax-free           []                   a. 免税的, 无税的, 上过税的
 weaver             [ˈwiːvә]             n. 织布者, 织工
-old-time           []                   a. 从前的, 旧式的, 老练的
 bathrobe           [ˈbɑːθrәub]          n. 浴衣
-blackberry         [ˈbrækbәri]          n. 黑莓
 partisanship       [ˈpɑːtәznʃip]        n. 党派性, 党派偏见, 对党派的忠诚
 vested             [ˈvestid]            a. 穿衣服的, 既得的, 既定的, 法定的
 hydrocarbon        [ˌhaidrәuˈkɑːbәn]    n. 烃; 碳氢化合物
@@ -3059,15 +1822,9 @@ sinful             [ˈsinful]            a. 有罪的, 罪孽深重的
 doctrinal          [ˈdɒktrinәl]         a. 教义的, 教诲的, 学说的
 lowly              [ˈlәuli]             a. 地位低的, 卑下的, 谦卑的 adv. 位置低下的, 低声地, 谦逊地
 decorator          [ˈdekәreitә]         n. 装饰家, 裱糊工, 室内外墙壁油漆工, 制景人员
-unease             [ˌʌnˈiːz]            n. 心神不安; 担心; 忧虑
-adapter            [әˈdæptә]            n. 适应者, 改编者; 适配器, 适配卡
 cornfield          [ˈkɒːnfiːld]         n. 玉米田
 deflate            [diˈfleit]           vt. 放气, 抽出空气, 使缩小 vi. 缩小
 newlywed           [ˈnjuːliwed]         n. 新(婚的)人, 新婚夫妇
-fullness           [ˈfulnis]            n. 满, 充满, 丰富
-snowball           [ˈsnәubɒːl]          n. 雪球, 果味冰霜卷, 滚雪球式的募捐法 vt. 向...丢雪球, 使滚雪球般增长 vi. 打雪仗, 滚雪球般增长
-polluted           [pәˈluːtid]          a. 被污染的, 被玷污的, (美)(非正式)喝得烂醉的
-Apache             [әˈpætʃi]            n. 阿帕切族(美洲印第安部族)
 forested           []                   a. 草木丛生的
 equatorial         [ˌekwәˈtɒːriәl]      a. 近赤道的, 赤道的
 lymph              [limf]               n. 淋巴, 浆, 苗
@@ -3085,7 +1842,7 @@ enlargement        [inˈlɑːdʒmәnt]       n. 扩大, 肿大, 肥大, 增大, 
 homemaker          [ˈhәummeikә]         n. 主妇, 操持家务者
 outgrow            [ˌautˈgrәu]          vt. 过大而不适于, 长得比...高(或大、快), 成长得不再具有...
 Buddhist           [ˈbudist]            n. 佛教徒 a. 佛教的
-brownie            [ˈbrauni]            n. 界仁巧克力饼
+brownie            [ˈbrauni]            n.  巧克力蛋糕，核仁巧克力饼
 stave              [steiv]              n. 狭板, 梯级, 棍棒, 诗句 vt. 击穿, 弄破, 敲打, 赶走 vi. 穿孔, 破碎
 inverted           [inˈvәːtid]          a. 倒转的, 反向的
 interchange        [ˌintәˈtʃeindʒ]      n. 立体交叉道, 互换 vt. 交换, 互换 vi. 交替发生
@@ -3097,7 +1854,6 @@ wriggle            [ˈrigl]              n. 蠕动, 蜿蜒 vi. 蠕动, 蜿蜒前
 parting            [ˈpɑːtiŋ]            n. 告别, 分歧处, 分界点 a. 离别的, 逝去的, 分隔的
 snowmobile         [ˈsnәumәubiːl]       n. 雪上机动车
 amber              [ˈæmbә]              n. 琥珀, 琥珀色 a. 琥珀色的, 琥珀似的
-outsource          [autˈsɔːs]           vt. 把…外包
 spooky             [ˈspuːki]            a. 幽灵一般的, 吓人的, 令人毛骨悚然的
 giver              [ˈgivә]              n. 给予者, 赠予人
 critter            [ˈkritә]             n. 小动物; 小生物
@@ -3119,28 +1875,20 @@ distaste           [ˌdisˈteist]         n. 讨厌, 嫌恶
 inpatient          [ˈinpeiʃәnt]         n. 住院病人
 whisker            [ˈhwiskә]            n. 腮须, 胡须, 一丝儿
 mascara            [mæˈskɑːrә]          n. 染眉毛油 vt. 在...上涂染眉毛油
-rerun              [riːˈrʌn]            n. 重新开动, 再度上演 vt. 重新开动, 再度上演 
 sanctity           [ˈsæŋktiti]          n. 神圣, 尊严, 不可侵犯性, 神圣的义务
 apathy             [ˈæpәθi]             n. 无感情, 无兴趣, 冷漠
-typing             [ˈtaipiŋ]            n. 打字, 键入
-misuse             [ˌmisˈjuːz]          n. 误用, 滥用 vt. 误用, 滥用, 虐待
 experiential       [ik.spiәriˈenʃәl]    a. 经验的, 根据经验的, 经验上的
 confessional       [kәnˈfeʃәnl]         a. 自白的, 忏悔的 n. 告解室
 yearbook           [ˈjiәbuk]            n. 年鉴
 bran               [bræn]               n. 糠, 麸
 desegregation      [ˌdiːsegriˈgeiʃәn]   n. 废止种族隔离
 recoup             [riˈkuːp]            vt. 偿还, 赔偿, 补偿, 扣除 vi. 补偿损失
-predate            [ˈpriːˈdeit]         vt. 倒填...的日期, 把...的日期填早, 在日期上早于, 在日期上先于
 vet                [vet]                n. 兽医 vi. 当兽医 vt. 诊断, 检审
-decision-maker     []                   n. 决策人
 flip-flop          [ˈflipflɔp]          n. 啪嗒啪嗒的响声, 向后翻的筋斗, 突然改变, 触发器
 Sudanese           [suːdәˈniːz]         a. 苏丹的, 苏丹人的 n. 苏丹人
 pheasant           [ˈfeznt]             n. 雉鸡, 野鸡, 雉科鸟
 tweed              [twiːd]              n. (粗)花呢, 花呢服装
 grizzly            [ˈgrizli]            a. 略为灰色的, 呈灰色的 n. 灰熊
-font               [fɒnt]               n. 字体, 字形, 洗礼盘, 泉
-Apache             [әˈpætʃi]            n. 阿帕切族(美洲印第安部族)
-time-out           [ˈtaimˈajt]          n. 暂停; 超时
 teeming            [ˈtiːmiŋ]            a. 充满的, 群集的, 多产的
 dialectic          [daiәˈlektik]        a. 辩证的, 辩证法的 n. 辩证法, 逻辑论证
 andean             [ˈændiәn, ænˈdiːәn]  a. 安第斯山脉的
@@ -3168,7 +1916,6 @@ blurry             [ˈblәːri]            a. 模糊的, 不清楚的, 污脏的
 tequila            [tәˈkiːlә]           n. 蒸馏酒, 龙舌兰酒
 acne               [ˈækni]              n.  痤疮, 粉刺
 gratifying         [ˈgrætifaiiŋ]        a. 悦人的, 令人满足的
-unattractive       [ˌʌnәˈtræktiv]       a. 无吸引力的, 无魅力的, 乏味的, 不美的
 sclerosis          [skliәˈrәusis]       n. 硬化症, 硬化, 僵化
 cockroach          [ˈkɒkrәutʃ]          n. 蟑螂
 cortex             [ˈkɒːteks]           n. (树)皮; 皮质, 皮层
@@ -3189,25 +1936,17 @@ signed             [saind]              a. 有符号的; 有正负之分的; 已
 softness           [ˈsɒftnis]           n. 柔和, 温柔
 unsuspecting       [ˌʌnsәˈspektiŋ]      a. 不怀疑的, 无疑虑的, 信任的
 mockery            [ˈmɒkәri]            n. 嘲弄, 笑柄, 歪曲
-unexplained        []                   adj. 原因不明的; 未做解释的
 typify             [ˈtipifai]           vt. 代表, 象征, 为...之典型
-remake             [riˈmeik]            vt. 再作, 再制, 重作 n. 再制, 改作, 重制物
-devalue            [diːˈvæljuː]         vt.vi. 降低...的价值, 贬值, 降低价值, 使(货币)贬值
-townspeople        [ˈtajnzpiːp(ә)l]     n. 镇民, 市民, 城里生长的人, 城镇居民
 renal              [ˈriːnl]             a. 肾脏的, 肾的
 unrelenting        [ˌʌnriˈlentiŋ]       a. 无情的; 不屈不挠的; 不松懈的
 shrapnel           [ˈʃræpnәl]           n. 零钱, 榴霰弹, 弹片
 tattoo             [tәˈtuː]             n. 归营号, 有节奏的敲击, 文身, 矮种马 vt. 连续有节奏地敲, 刺花纹于 vi. 作连续有节奏的敲击
 legality           [liːˈgæliti]         n. 正当, 合法性
-toothbrush         [ˈtuːθbrʌʃ]          n. 牙刷
-offending          [әˈfendiŋ]           a. 不愉快的; 厌恶的
 weighty            [ˈweiti]             a. 重的, 有份量的, 沉重的, 重大的, 严肃的, 有影响力的
 mouthpiece         [ˈmauθpiːs]          n. 发话筒, 代言人, (电话)送话口 [机] 钳口垫片
 Hindu              [ˈhinduː]            a. 印度教教徒的 n. 印度教教徒
 fabled             [ˈfeibld]            a. 寓言(或传说、神话)中的, 虚构的
 pothole            [ˈpɒthәul]           n. 壶穴
-purchaser          [ˈpәːtʃәsә]          n. 买方, 买主, 购买人
-stairs             []                   n. 楼梯
 distressing        [diˈstresiŋ]         a. 使痛苦的, 使烦恼的
 counterpoint       [ˈkauntәpɒint]       n. 对位法, 旋律配合, 复调
 triad              [ˈtraiәd]            n. 三个一组, 三件一组, 三和音, 三元组
@@ -3223,9 +1962,7 @@ unchecked          [ˌʌnˈtʃekt]          a. 未加抑制的, 未经检查的
 paternity          [pәˈtәːniti]         n. 父亲身份, 父系血统, 创始人(身份), 来源, 出处
 unwind             [ˌʌnˈwaind]          vt. 展开; 拆卷; 开卷
 menstrual          [ˈmenstruәl]         a. 月经的, 一月一次的, 每月的
-regeneration       [ri.dʒenәˈreiʃәn]    n. 再生, 重建
 Scandinavian       [ˌskændiˈneivjәn]    n. 斯堪的纳维亚人, 斯堪的纳维亚语, 北欧日耳曼语系
-painless           [ˈpeinlis]           a. 无痛的, 不痛的
 visor              [ˈvaizә]             n. 面甲, 帽舌, 面罩
 tummy              [ˈtʌmi]              n. 胃, 肚子
 cholera            [ˈkɒlәrә]            n. 霍乱
@@ -3258,11 +1995,9 @@ carefree           [ˈkєәfriː]           a. 无忧无虑的, 不负责的
 guild              [gild]               n. 团体, 协会, 行业协会, 同业公会
 miserably          [ˈmizәrәbli]         adv. 非常不幸地, 可悲地, 贫困地
 garrison           [ˈgærisn]            n. 守备队, 驻军, 要塞 vt. 守备, 派兵驻守
-unspeakable        [ʌnˈspiːkәbl]        a. 说不出的, 无法形容的, 不能以言语表达的, 坏得无话可说的, 说不出口的
 patty              [ˈpæti]              n. 小馅饼
 reckoning          [ˈrekәniŋ]           n. 计算, 算帐, 估计
 loyalist           [ˈlɒiәlist]          n. 忠诚的人, 反对独立者, 反佛朗哥派的人
-half-century       []                    半个世纪; 50年
 far-flung          []                   a. 广布的, 遥远的
 bastion            [ˈbæstʃәn]           n. 棱堡, 阵地工事
 perspiration       [ˌpәːspәˈreiʃәn]     n. 汗, 流汗, 努力
@@ -3270,12 +2005,10 @@ self-employed      [ˈselfimˈplɔid]      a. 自己经营的, 不受雇于他�
 lanky              [ˈlæŋki]             a. 瘦长的
 afterlife          [ˈɑːftәlaif]         n. 来世, 下半生
 inconclusive       [ˌinkәnˈkluːsiv]     a. 非决定性的, 不确定的, 无结果的
-back-to-back       []                   a. 紧接的, 背靠着背的
 morph              [mɔf]                n. 形素, 语素; 形态; 图像变换
 outcast            [ˈautkæst]           a. 被逐出的, 被遗弃的, 无家可归的 n. 被驱逐的人, 流浪者
 disobedience       [ˌdisәˈbiːdjәns]     n. 不服从, 不孝, 违反
 regroup            [ˈriːˈgruːp]         vt. 重新聚集 vt.vi. 重新组合 vi. 变更部署
-elemental          [ˌeliˈmentәl]        a. 元素的, 基本的
 blot               [blɒt]               n. 污点, 墨水渍 vt. 乱涂, 使模糊, 吸干 vi. 弄上墨渍, 吸墨水
 tailored           [ˈteilәd]            a. 裁缝做的, 似裁缝做的, 特制的, 定做的, 穿着考究的, 时髦的, 干净利索的
 libertarian        [ˌlibәˈtєәriәn]      n. 自由意志主义支持者, 行动自由者 a. 自由意志主义支持者的, 主张个人思想的
@@ -3316,7 +2049,6 @@ extortion          [ikˈstɒːʃәn]         n. 勒索, 敲诈, 强取
 lacrosse           [lәˈkrɒs]            n. 长曲棍球
 incredulous        [inˈkredjulәs]       a. 怀疑的, 不轻信的
 protege            [ˈprәutәʒei]         n. 被保护者, 门徒
-wastewater         [ˈweistwɔːtә]        n. 废水
 behind-the-scenes  [biˈhaindðәˈsiːnz]   a. 幕后的
 northward          [ˈnɒːθwәd]           n. 北方, 北 a. 向北的 adv. 向北
 transcription      [trænˈskripʃәn]      n. 誊写, 记录, 打印; 抄写, 抄本

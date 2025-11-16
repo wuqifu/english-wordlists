@@ -43,7 +43,6 @@ acquiesce [ˌækwiˈes] v. 默认，顺从，默许
 acquit [əˈkwɪt] v. 1. 宣判(某人)无罪 2. 表现，履行，完成
 acquittal [əˈkwɪtəl] n. 无罪的判决
 acrimony [ˈækrɪmənɪ] n. 严厉，辛辣
-actuality [ˌæktʃʊˈælətɪ] n. 实际，真实
 acumen [əˈkjuːmən] n. 敏锐，聪明，洞察力
 adamant [ˈædəmənt] adj. 坚定不移的，强硬的
 addictive [əˈdɪktɪv] adj. (使人)上瘾的，沉迷的
@@ -66,9 +65,6 @@ adulterate [əˈdʌltəreɪt] v. 掺入(劣等或不纯的物质)，掺杂
 adultery [əˈdʌltərɪ] n. 通奸，私通
 advent [ˈædvənt] n. (重要事件等的)到来、来临
 adversary [ˈædvəsərɪ] n. 对手，敌手，敌人
-adverse [ˈædvɜːs] adj. 不利的，相反的，敌对的
-adversity [ədˈvɜːsətɪ] n. 逆境，厄运，苦难，灾祸
-advocacy [ˈædvəkəsɪ] n. 辩护，提倡，拥护
 aerobatics [ˌeərəˈbætɪks] n. 飞行特技(表演)
 aerobics [eəˈrəʊbɪks] n. 健身舞(操)，有氧健身操
 aerodynamics [ˌeərəʊdaɪˈnæmɪks] n. 空气动力学，气体动力学
@@ -104,11 +100,9 @@ ajar [əˈdʒɑː] adj. (门等)微开着，半开着
 à la carte [ˌæ lə ˈkɑːt] adj.&adv. (指饭馆的饭菜)按菜单分别点菜的
 alchemy [ˈælkəmɪ] n. 炼金术
 alcoholism [ˈælkəhɒlɪzəm] n. 酒精中毒，酗酒
-alias [ˈeɪlɪəs] n. (尤指罪犯使用的)化名，别名，假名  adv. 又名，别名
 alibi [ˈælɪbaɪ] n. 不在犯罪现场的证据
 alight 1 [əˈlaɪt] v. (从马背、车上)下来，下车
 alight 2 [əˈlaɪt] adj. 燃着的，亮着的
-align [əˈlaɪn] v. 1. 使成一线，使成一行 2. 使结盟
 alimony [ˈælɪmənɪ] n. (离婚以后或诉讼期间一方给另一方的)赡养费
 alkali [ˈælkəlaɪ] n. 碱
 Allah [ˈælə] n. 阿拉，真主(伊斯兰教信奉之神的称呼)
@@ -386,12 +380,10 @@ broker [ˈbrəʊkə] n. 1. 经纪人，掮客，中间人 2. 股票经纪人
 brokerage [ˈbrəʊkərɪdʒ] n. 1. 经纪业，掮客业务 2. 经纪费用，佣金
 bronchitis [brɒŋˈkaɪtɪs] n. 支气管炎
 brothel [ˈbrɒθəl] n. 妓院
-browser [ˈbraʊzə] n. 浏览器
 brunette [bruːˈnet] n. 深褐色头发的白种女子
 brunt [brʌnt] n. 首当其冲||bear the brunt of sth首当其冲
 brusque [bruːsk] adj. 轻率的，鲁莽的
 brutish [ˈbruːtɪʃ] adj. 野兽般的，野蛮的，残忍的
-buddy [ˈbʌdɪ] n. 1. 同伴，伙伴，好朋友 2. 老兄，老弟(用作称呼)
 budge [bʌdʒ] v. (使)微微移动
 buff [bʌf] n.&adj. 暗黄色(的)
 buffer [ˈbʌfə] n. 起缓冲作用的人(物)，缓冲器 v. 缓冲，减轻
@@ -413,7 +405,6 @@ bypass [ˈbaɪpɑːs] n. (绕过市镇的)旁道，迂回道  v. 绕过，回避
 cabaret [ˈkæbəreɪ] n. (餐馆、夜总会等的)歌舞表演
 cache [kæʃ] n. 密藏的物品
 cackle [ˈkækl] v. 1. (母鸡)咯咯叫 2. (刺耳地)格格地笑
-CAD (abbre for computer-aided design)n. 计算机辅助设计
 cajole [kəˈdʒəʊl] v. (以甜言蜜语)哄骗，诱骗
 calamity [kəlˈæmətɪ] n. 大灾祸，灾难，极不幸的事件
 calculating [ˈkælkjʊleɪtɪŋ] adj. (derog)工于心计的，用尽心机的
@@ -848,7 +839,7 @@ dexterity [dekˈsterətɪ] n. 灵巧，熟练，机敏
 diabetes [ˌdaɪəˈbiːtiːz] n. 糖尿病
 diagonal [daɪˈæɡənəl] adj. 1. 对角的，对角线的 2. 倾斜的，斜线的n. 对角线，斜线
 dialectic [ˌdaɪəˈlektɪk]，dialectics n. 辩证法
-diametrically [ˌdaɪəˈmetrɪklɪ] adv. 完全，全然
+diametrically [ˌdaɪəˈmetrɪklɪ] adv. 完全，全然,"直径地"或者"完全相反地"
 diarrhoea，diarrhea [ˌdaɪəˈrɪə] n. 腹泻
 dice [daɪs] n. 骰子，色子   v. 1. 用骰子赌博 2. 把(肉、蔬菜等)切成丁
 dichotomy [daɪˈkɒtəmɪ] n. 一分为二，二分法，对分
@@ -940,8 +931,6 @@ dole 1 [dəʊl] n. 救济，救济金(物)，一小份  || on the dole接受失�
 dole 2 [dəʊl] v. 施舍，少量分发
 doleful [ˈdəʊlfʊl] adj. 忧愁的，不高兴的
 dollop [ˈdɒləp] n. (食物的)一块，一团
-domain [dəʊˈmeɪn] n. 1. 领域，范围，范畴 2. 领土，领地，势力范围
-domesticate [dəˈmestɪkeɪt] v. 1. 使(某人)习惯于(喜爱)家务(家庭生活) 2. 驯养(动物)
 domesticity [ˌdəʊmeˈstɪsətɪ] n. 家庭生活
 domicile [ˈdɒmɪsɑɪl] n. 住处，住所
 domineer [ˌdɒmɪˈnɪə] v. 霸道，专横，作威作福
@@ -962,7 +951,6 @@ downgrade [ˈdaʊnɡreɪd] v. 降级(降职)，降低重要性
 downhearted [ˌdaʊnˈhɑːtɪd] adj. 情绪低落的，消沉的
 downhill [ˌdaʊnˈhɪl] adj.& adv. 下山的，下坡的，向山下 || go downhill每况愈下，走下 坡路
 downright [ˈdaʊnraɪt] adj. 1. 清楚的，明确的 2. 直率的，老实的 3. 十足的，彻头彻尾的
-downstream [ˌdaʊnˈstriːm] adv.&adj. 在下游，顺流地，下游的
 downtime [ˈdaʊntaɪm] n. (尤指电脑的)停机时间
 dowry [ˈdaʊərɪ] n. 嫁妆
 drab [dræb] adj. 1. 黄褐色的，浅褐色的 2. 枯燥无味的
@@ -1077,7 +1065,6 @@ encompass [ɪnˈkʌmpəs] v. 包含，包括，涉及
 encore [ˈɒŋkɔː] int. 再来(演、唱、奏)一个  n. (观众或听众提出的)再演(唱、奏)要求，加演(的节目) v. 要求(演员等)再演，重演
 encroach [ɪnˈkrəʊtʃ] v. 侵占，侵犯，侵害
 encumber [ɪnˈkʌmbə] v. 1. 塞满，堆满 2. 妨碍某人(某物)自由活动，拖累
-endanger [ɪnˈdeɪndʒə] v. 危及，危害
 endemic [enˈdemɪk] adj. 地方性的
 endorse [ɪnˈdɔːs] v. 1. 赞同，认可 2. 背书，(在票据等)背面签字，在(驾驶执照上)记录违章事项 3. 在…背面写评论，批注(公文)
 endways [ˈendweɪz] adv. 末端向前地，两端相接地(=endwise)
@@ -1130,7 +1117,7 @@ equilibrium [ˌiːkwɪˈlɪbriəm] n. 平衡，均势
 equinox [ˈiːkwɪnɒks] n. 春分，秋分
 equitable [ˈekwɪtəbl] adj. 公平合理的，公正的
 erasure [ɪˈreɪʒə] n. 擦掉，消除，涂擦的痕迹
-erotic [ɪˈrɒtɪk] adj. 性爱的， 性欲的，色情的
+erotic [ɪˈrɒtɪk] adj. 性爱的，性欲的，色情的
 errant [ˈerənt] adj. 误入歧途的，离正途的
 erratic [ɪˈrætɪk] adj. 反复无常的，古怪的，不规则的
 erudite [ˈeruːdaɪt] adj. 博学的
@@ -1193,7 +1180,6 @@ exodus [ˈeksədəs] n. 成群离去，大批离开
 exonerate [ɪɡˈzɒnəreɪt] v. 使免受责备(指控)
 exotic [ɪɡˈzɒtɪk] adj. 珍奇的，奇异的，外国产的
 expansive [ɪkˈspænsɪv] adj. 1. 友善的，健谈的，豪爽的 2. 可扩大(伸展)的
-expectancy [ɪkˈspektənsɪ] n. 预料，期待，盼望
 expectant [ɪkˈspektənt] adj. 1. 期待的，怀有希望的 2. 怀孕的
 expedient [ɪkˈspiːdɪənt] adj. 1. 方便的，适当的 2. (行动)有用的，有利的，可取的 n. 权宜之计，应急的办法
 expedite [ˈekspɪdaɪt] v. 使(计划等)加快实施，加速(行动等)，促进
@@ -1228,8 +1214,7 @@ exude [ɪɡˈzjuːd] v. (使)渗出，缓慢流出，分泌出
 exult [ɪɡˈzʌlt] v. 狂喜，欢腾
 eye-catching [aɪ ˈkætʃɪŋ] adj. 引人注目的，动人的
 eyewash [ˈaɪwɒʃ] n. 1. 洗眼药水 2. 胡说八道，瞎说，弄虚作假
-fabricate [ˈfæbrɪkeɪt] v. 捏造，编造，虚构
-facade [fəˈsɑːd] n. 1. 正面，临街正面 2. 假相，外表
+
 facet [ˈfæsɪt] n. 1. (宝石等的)琢面 2. (事物等的)一面，方面
 facile [ˈfæsaɪl] adj. 过简易的，肤浅的
 facing [ˈfeɪsɪŋ] n. 1. (墙壁等的)饰面，面层 2. (衣服等的)镶边，贴边的材料
@@ -1277,7 +1262,6 @@ federalism [ˈfedərəlɪzəm] n. 联邦主义
 federalist [ˈfedərəlɪst] n. 联邦主义者
 federate [ˈfedəreɪt] v. (州、团体等)组成联邦，结成同盟
 feebleminded [ˈfiːblˈmaɪndɪd] adj. 弱智的，愚笨的，低能的
-feign [feɪn] v. 假装，佯作，冒充
 feint [feɪnt] v.&n. 佯攻，虚晃
 felicity [fəˈlɪsətɪ] n. 快乐，幸福
 felony [ˈfelənɪ] n. 重罪
@@ -1368,7 +1352,6 @@ flimsy [ˈflɪmzɪ] adj. 轻而薄的，脆弱的，易损坏的
 flinch [flɪntʃ] v. 退缩，畏缩
 flip [flɪp] v. 1. 把…抛向空中，捻，快速地翻转(猛然移动) 2. 大怒，强烈地反应 n. 轻弹(打、抛)
 flippant [ˈflɪpənt] adj. 轻浮的，轻率的
-flirt [flɜːt] v. 调情 || flirt with ①不认真地考虑或对待 ②举动轻率 n. 调情者
 flit [flɪt] v. 轻快地飞，掠过
 flog [flɒɡ] v. 重打，鞭打
 floodgate [ˈflʌdɡeɪt] n. 水闸门，防洪闸门  || open the floodgates①打开水闸②突然解除抑制
@@ -1380,7 +1363,7 @@ florid [ˈflɒrɪd] adj. 过分华丽的，过分装饰的，(脸色)红润的
 florist [ˈflɒrɪst] n. 花商
 flounder [ˈflaʊndə] v. 1. (在水中)挣扎，肢体乱动 2. 错乱地说话(行动)
 flout [flaʊt] v. 蔑视，违抗
-fluidity [fluːˈɪdɪtɪ] n. 流动 性，流动状态
+fluidity [fluːˈɪdɪtɪ] n. 流动性，流动状态
 fluke [fluːk] n. 侥幸，侥幸的成功
 flunk [flʌŋk] v. 通不过(考试等)，评定(某人)不及格
 flurry [ˈflʌrɪ] n. 1. 骤雨，阵雨(风、雪等) 2. 激动，慌张 3. 爆发，骚动 v. 使迷乱，使慌张
@@ -1395,7 +1378,6 @@ foil 1 [fɔɪl] v. 阻挠，使挫败
 foil 2 [fɔɪl] n. 花剑
 foist [fɔɪst] v. 把…强加于
 fold [fəʊld] n. 1. 羊栏 2. 具同一宗教信仰的人们
-folder [ˈfəʊldə] n. 文件夹，纸夹
 folivore [ˈfəʊlɪvɔː] n. 食叶动物
 folklore [ˈfəʊklɔː] n. 民间传说，民俗(学)，民间传统
 fondle [ˈfɒndl] v. 抚弄，抚摸，爱抚
